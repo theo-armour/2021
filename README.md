@@ -13,6 +13,11 @@ _Theo Armour in a resizable window. One finger to rotate. Two to zoom._
 ### Full Screen: [Theo Armour]( https://theo-armour.github.io/2021/ )
 -->
 
+See also
+
+* https://theo-armour.github.io/2020/
+* https://theo-armour.github.io/
+
 
 ## Concept
 
