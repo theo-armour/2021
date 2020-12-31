@@ -17,22 +17,36 @@ See also
 
 * https://theo-armour.github.io/2020/
 * https://theo-armour.github.io/
+* https://ladybug.tools/spider-2021/
 
 
 ## Concept
 
+* Provide an overview of and links to projects I am involved with - past, present and future
+* Provide a personal biography
+* Provide hosting for small or samdbox projects
+
+## Links of Interest
+
+* [About Theo]( https://theo-armour.github.io/2021/#pages/about-theo.md )
+* [US County Presidents Votes]( https://theo-armour.github.io/2021/#sandbox/us-county-votes/index.html )
+* [Demo Reel]( https://theo-armour.github.io/2021/demo-reel/ )
+
+
 
 ## To Do / Wish List
 
+* Flesh the about page so that it follows the format of a Wikipedia biography of a lving person
 
 ## Issues
 
 
-## Links of Interest
-
-
 ## Change Log
 
+### 2020-12-31
+
+* Add links
+* Fix various script issues
 
 ### 2020-12-30
 
