@@ -1,17 +1,19 @@
-
-const source = "https://github.com/theo-armour/2021/tree/main/sandbox/us-county-votes/";
-
-const version = document.head.querySelector( "[ name=date ]" ).content;
-
-const description = document.head.querySelector( "[ name=description ]" ).content;
+// copyright 2021 Theo Armour. MIT license.
 
 
 function init () {
 
+	const source = "https://github.com/theo-armour/2021/tree/main/sandbox/us-county-votes/";
+
+	const version = document.head.querySelector( "[ name=date ]" ).content;
+
+	const description = document.head.querySelector( "[ name=description ]" ).content;
+
+
 	MNU.path = "../../../";
 	MNU.init();
 
-	spnTitle.innerHTML = "US County President Vote";
+	spnTitle.innerHTML = "US County Presidents Vote";
 
 	spnVersion.innerHTML = version;
 
@@ -29,7 +31,7 @@ function init () {
 	<p>
 		1|2|3 fingers to rotate|zoom|pan
 	</p>
-</div>`
+</div>`;
 
 	aGithub.href = source;
 
@@ -64,7 +66,7 @@ function init () {
 
 	GJS.initGeoJson(); // gjs-geojson.js
 
-	const urlGeoJson = "../../../lib/assets/geojson/cb_2019_us_county_20m.geojson";
+	const urlGeoJson = MNU.path + "lib/assets/geojson/cb_2019_us_county_20m.geojson";
 
 	GJS.requestFile( urlGeoJson, GJS.onLoadGeoJson );
 
@@ -76,14 +78,14 @@ function init () {
 
 	HRT.init();
 
-	console.log( "init", performance.now()- THR.timeStart );
+	console.log( "init", performance.now() - THR.timeStart );
 
 };
 
 
 const VOT = {};
 
-VOT.requestFile = function( url, callback ) {
+VOT.requestFile = function ( url, callback ) {
 
 	const xhr = new XMLHttpRequest();
 	xhr.open( 'GET', url, true );
@@ -221,7 +223,7 @@ VOT.drawVotes = function () {
 
 
 
-VOT.setStatsVote = function() {
+VOT.setStatsVote = function () {
 
 	VOT.flipSticks = new THREE.Group();
 
@@ -364,7 +366,7 @@ FlipReps: ${ flipsRep.length }<br>
 
 	console.log( "setStatsVotes", performance.now() - THR.timeStart );
 
-}
+};
 
 
 

@@ -16,6 +16,7 @@ _Pages_
 
 ## Concept
 
+* Bits & bobs
 
 ## To Do / Wish List
 
@@ -29,7 +30,7 @@ _Pages_
 ## Change Log
 
 
-### 123
+### 2020-12-31
 
 * First commit
 

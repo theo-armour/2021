@@ -1,14 +1,15 @@
-// copyright 2020 Theo Armour. MIT license.
+// copyright 2021 Theo Armour. MIT license.
 
 
 const GLO = {
 	globe: undefined,
-	size: 50,
-	url: "../../../lib3d/assets/bitmaps/natural-earth-4096-2048-col.jpg",
-	urlHeightmap: "../../../lib3d/assets/bitmaps/bathymetry_bw_composite_2k.png"
+	path: "../../../",
+	size: 50
 
 };
 
+GLO.urlBitmap = GLO.path + "lib3d/assets/bitmaps/natural-earth-4096-2048-col.jpg",
+GLO.urlHeightMap = GLO.path + "lib3d/assets/bitmaps/bathymetry_bw_composite_2k.png"
 
 
 GLO.initGlobeWithBitmap = function () {
@@ -21,7 +22,7 @@ GLO.initGlobeWithBitmap = function () {
 	geometry.applyMatrix4( new THREE.Matrix4().makeRotationX( 0.5 * Math.PI ) );
 
 	const loader = new THREE.TextureLoader();
-	const texture = loader.load( GLO.url );
+	const texture = loader.load( GLO.urlBitmap );
 	const material = new THREE.MeshBasicMaterial( {
 		map: texture
 	} );
@@ -55,7 +56,7 @@ GLO.setGlobeElevation3D = function ( value = 50 ) {
 
 	const loader = new THREE.TextureLoader();
 	const texture = loader.load( GLO.url );
-	const heightmap = loader.load( GLO.urlHeightmap, );
+	const heightmap = loader.load( GLO.urlHeightMap, );
 	const material = new THREE.MeshPhongMaterial( {
 		map: texture,
 		displacementMap: heightmap,
