@@ -78,7 +78,7 @@ function init () {
 
 	HRT.init();
 
-	console.log( "init", performance.now() - THR.timeStart );
+	//console.log( "init", performance.now() - THR.timeStart );
 
 };
 
@@ -215,7 +215,7 @@ VOT.drawVotes = function () {
 
 	THR.scene.add( UFR.counties );
 
-	console.log( "init2", performance.now() - THR.timeStart );
+	//console.log( "init2", performance.now() - THR.timeStart );
 
 	VOT.setStatsVote();
 
@@ -364,7 +364,7 @@ FlipReps: ${ flipsRep.length }<br>
 
 	divMessage.innerHTML = htm;
 
-	console.log( "setStatsVotes", performance.now() - THR.timeStart );
+	//console.log( "setStatsVotes", performance.now() - THR.timeStart );
 
 };
 
