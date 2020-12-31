@@ -11,7 +11,7 @@ function init () {
 	MNU.path = "../../../";
 	MNU.init();
 
-	spnTitle.innerHTML = "US County Votes";
+	spnTitle.innerHTML = "US County President Vote";
 
 	spnVersion.innerHTML = version;
 
