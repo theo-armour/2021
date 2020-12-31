@@ -8,8 +8,8 @@ const GLO = {
 
 };
 
-GLO.urlBitmap = GLO.path + "lib3d/assets/bitmaps/natural-earth-4096-2048-col.jpg",
-GLO.urlHeightMap = GLO.path + "lib3d/assets/bitmaps/bathymetry_bw_composite_2k.png"
+GLO.urlBitmap = "https://theo-armour.github.io/2021/lib3d/assets/bitmaps/natural-earth-4096-2048-col.jpg",
+GLO.urlHeightMap = "https://theo-armour.github.io/2021/lib3d/assets/bitmaps/bathymetry_bw_composite_2k.png"
 
 
 GLO.initGlobeWithBitmap = function () {
