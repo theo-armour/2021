@@ -88,7 +88,7 @@ THR.onStart = function () {
 };
 
 
-THR.getGroupNew = function ( group = THR.group  ) {
+THR.getGroupNew = function ( group ) {
 
 	THR.scene.remove( group );
 

@@ -36,7 +36,7 @@ MTL.init = function () {
 
 	<summary class="summary-primary gmd-1" title="View selected items">
 
-		<span id=MTLsumTitle >Load image tiles</span>
+		<span id=MTLsumTitle >Load image til</span>
 		<span class="info">
 			<img class=infoImg src="${ MTL.path }lib/assets/icons/noun_Information_585560.svg">
 			<div id="divMTL" class="infoTooltip gmd-5">
@@ -147,7 +147,6 @@ MTL.reset = function () {
 	MTL.offsetX = 0.5 * MTL.columns;
 	MTL.offsetY = -0.5 * MTL.rows;
 
-
 };
 
 
@@ -157,10 +156,10 @@ MTL.onHashChange = function () {
 	const txt = location.hash; //.replace( /%22/g, "" ); //.replace( /%20/g, " " );
 
 	const items = txt.split( "," ).map( item => item.split( ":" ) );
-	//console.log( "items", items );
+	console.log( "items", items );
 
-	MTL.longitude = + items.find( item => item[ 0 ] === "longitude" )[ 1 ];
-	MTL.latitude = + items.find( item => item[ 0 ] === "latitude" )[ 1 ];
+	MTL.longitude = + items.find( item => item[ 0 ].includes( "longitude" ) )[ 1 ];
+	MTL.latitude = + items.find( item => item[ 0 ].includes( "latitude" ) )[ 1 ];
 
 	MTL.reset();
 
@@ -181,6 +180,7 @@ MTL.getTilesBitmaps = function () {
 
 	MTL.tileBitmapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoom );
 	MTL.tileBitmapCenterY = MTL.latToTile( MTL.latitude, MTL.zoom);
+	MTL.tileBitmapsLoaded = 0;
 
 	for ( let y = 0; y < MTL.rows; y++ ) {
 
@@ -237,7 +237,7 @@ MTL.requestFile = function ( url, callback, col, row ) {
 
 
 
-MTL.onCallbackBitmap = function cb ( xhr, col, row ) {
+MTL.onCallbackBitmap = function ( xhr, col, row ) {
 	//console.log( "xhr", xhr );
 
 	const url = URL.createObjectURL( xhr.target.response );
@@ -248,9 +248,10 @@ MTL.onCallbackBitmap = function cb ( xhr, col, row ) {
 		MTL.contextBitmap.drawImage( img, 0, 0, MTL.pixelsPerTile, MTL.pixelsPerTile, col * MTL.pixelsPerTile,
 			row * MTL.pixelsPerTile, MTL.pixelsPerTile, MTL.pixelsPerTile );
 
-		MTL.tileBitmapsLoaded ++; //console.log( "MTL.tileBitmapsLoaded", MTL.tileBitmapsLoaded );
+		MTL.tileBitmapsLoaded++; // console.log( "MTL.tileBitmapsLoaded", MTL.tileBitmapsLoaded );
 
 		if ( MTL.tileBitmapsLoaded >= MTL.rows * MTL.columns ) {
+
 
 			MTL.onLoadBitmaps( MTL.canvasBitmap );
 
@@ -286,6 +287,8 @@ MTL.onLoadBitmaps = function ( canvas ) {
 		THR.group.add( mesh );
 
 		THR.zoomObjectBoundingSphere();
+
+		//THR.zoomToFitObject( THR.group, 20);
 
 		//THR.radius = 141.4;
 
