@@ -8,7 +8,7 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 <!--@@@
 <div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/sandbox/map-tile-loader/ height=100% width=100% ></iframe></div>
-_ZZZZZ in a resizable window. One finger to rotate. Two to zoom._
+_Map Tile Loader in a resizable window. One finger to rotate. Two to zoom._
 
 ### Full Screen: [Map Tile Loader]( https://theo-armour.github.io/2021/sandbox/map-tile-loader/ )
 @@@-->

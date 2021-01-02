@@ -7,7 +7,7 @@
 	<meta name="description"
 		content="TooToo 2021 uses the GitHub API to provide access to all the current files hosted with GitHub Pages.">
 	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
-	<meta name="date" content="2020-12-31">
+	<meta name="date" content="2021-01-01">
 	<title>Map Tile Loader</title>
 
 	<!-- Copyright 2021 Theo Armour. MIT license -->
@@ -15,7 +15,7 @@
 
 	<style>
 		:root {
-			/* --mnu-width: 15rem; */
+			 --mnu-width: 15rem;
 			--main-hue: 120;
 			/* 0 to 360 0=red 120=green 240=blue */
 		}
@@ -23,6 +23,8 @@
 		#MNUdivPopUp {
 			max-height: 40vh;
 		}
+
+		#divContentMain { max-width: 100rem; }
 	</style>
 
 </head>
@@ -52,12 +54,11 @@
 
 			<div id=MTLdivDetails ></div>
 
-			<div id=MTLdivMessage >mmmmm</div>
+			<div id=MTLdivMessage ></div>
 
 			<div id=GORdivDetails></div>
 
 			<div id=GRVdivDetails></div>
-
 
 			<div id=MNUdivFooter></div>
 
@@ -65,10 +66,9 @@
 
 	</details>
 
-<div id=main></div>
 	<main>
 
-		<!-- <div id="divContentMain"></div> -->
+		<div id="divContentMain"></div>
 
 	</main>
 
@@ -91,11 +91,11 @@
 
 			aGithub.href = source;
 
-			spnVersionInfo.innerHTML = version;
+			spnVersion.innerHTML = version;
 
 			MTL.init()
 
-			// divDescription.innerHTML = description;
+			divDescription.innerHTML = description;
 
 			// GOR.user = "theo-armour";
 			// GOR.repo = "2021";
