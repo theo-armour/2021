@@ -277,7 +277,7 @@ MTL.onLoadTileBitmap = function ( src, col, row ) {
 
 		MTL.contextBitmap.drawImage( img, 0, 0, MTL.pixelsPerTile, MTL.pixelsPerTile, col * MTL.pixelsPerTile, row * MTL.pixelsPerTile, MTL.pixelsPerTile, MTL.pixelsPerTile );
 
-		MTL.tileBitmapsLoaded += 1;
+		MTL.tileBitmapsLoaded ++;
 
 		//console.log( "MTL.tileBitmapsLoaded", MTL.tileBitmapsLoaded );
 
@@ -302,7 +302,7 @@ MTL.onLoadBitmaps = function ( canvas ) {
 	texture.needsUpdate = true;
 
 	//MTL.material = new THREE.MeshBasicMaterial( { map: texture, side: 2 } );
-	MTL.material = new THREE.MeshPhongMaterial( { color: 0xffffff, map: texture, side: 2, transparent: true } );
+	MTL.material = new THREE.MeshPhongMaterial( { color: 0xffffff, map: texture, side: 2 } );
 
 	MTL.getMesh();
 
