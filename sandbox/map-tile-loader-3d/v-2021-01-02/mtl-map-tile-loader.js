@@ -79,7 +79,7 @@ MTL.init = function () {
 
 		<summary>locations</summary>
 
-		<p><a href='#"title":"","latitude":37.796,"longitude":-122.398,"zoom":11'>San Francisco Bay</a></p>
+		<p><a href='#"title":"San Francisco Bay","latitude":37.796,"longitude":-122.398,"zoom":11'>San Francisco Bay</a></p>
 
 		<p><a href='#"title":"Golden Gate Bridge","latitude":37.8199,"longitude":-122.4783,"zoom":14'>
 				Golden Gate Bridge</a></p>
@@ -90,29 +90,28 @@ MTL.init = function () {
 		<p><a href='#"title":"Burning Man","latitude":40.786944,"longitude":-119.204444,"zoom":12'>
 				Burning Man</a></p>
 
-		<p><a href='#"title":"Half%20Dome,%20California,%20USA","latitude":37.7459192,"longitude":-119.5331992,"zoom":14,"offsetUTC":-420'>
+		<p><a href='#"title":"Half Dome - California USA","latitude":37.7459192,"longitude":-119.5331992,"zoom":14,"offsetUTC":-420'>
 				Half Dome, Yosemite</a></p>
 
-		<p><a href='#"title":"Grand%20Canyon,%20Arizona,%20USA","latitude":36.11276399999999,"longitude":-113.9960696,"zoom":11,"offsetUTC":-420'>
+		<p><a href='#"title":"Grand Canyon - Arizona USA","latitude":36.11276399999999,"longitude":-113.9960696,"zoom":11,"offsetUTC":-420'>
 				The Grand Canyon</a></p>
 
 		<p><a href='#"title":"Greenwich Observatory","latitude":51.4779,"longitude":-0.0015,"zoom":15'>
 				Greenwich Observatory</a></p>
 
-		<p><a href='#"title":"Skye,%20United%20Kingdom","latitude":57.2736277,"rows":5,"longitude":-6.2155023,"zoom":10,"offsetUTC":60'>
+		<p><a href='#"title":"Skye - United Kingdom","latitude":57.2736277,"rows":5,"longitude":-6.2155023,"zoom":10,"offsetUTC":60'>
 				Isles of Skye</a></p>
 
 		<p><a href='#"title":"Tenzing Hillary Airport","latitude":27.6874,"longitude":86.7322,"zoom":12'>Tenzing
 				Hillary Airport</a></p>
 
-		<p>
-			<a href='#"title":"Hong%20Kong","latitude":22.3193039,"longitude":114.1693611,"zoom":11,"offsetUTC":480'>
+		<p><a href='#"title":"Hong Kong","latitude":22.3193039,"longitude":114.1693611,"zoom":11,"offsetUTC":480'>
 				Hong Kong</a></p>
 
 		<p><a href='#"title":"Sidney Harbour","latitude":-33.8675,"longitude":151.207,"zoom":13,"scale":50,"offsetUTC":-600'>
 				Sydney Harbour</a></p>
 
-		<p><a href='#"title":"Queenstown,%20New%20Zealand","latitude":-45.0301511,"longitude":168.6616206,"zoom":13,"index":3,"offsetUTC":720'>
+		<p><a href='#"title":"Queenstown - New Zealand","latitude":-45.0301511,"longitude":168.6616206,"zoom":13,"index":3,"offsetUTC":720'>
 				Queenstown, New Zealand</a></p>
 
 		<p><a href='#"title":"Moorea","latitude":-17.5388,"longitude":-149.8295,"zoom":13,"index":3'>Moorea</a></p>
@@ -133,7 +132,6 @@ MTL.init = function () {
 	MTL.reset();
 
 	MTL.getTilesBitmaps();
-
 
 };
 
@@ -156,9 +154,9 @@ MTL.reset = function () {
 
 MTL.onHashChange = function () {
 
-	const txt = location.hash.replace( /%22/g, "" ).replace( /%20/g, " " );
+	const txt = location.hash; //.replace( /%22/g, "" ); //.replace( /%20/g, " " );
 
-	const items = txt.split( "," ).MTL( item => item.split( ":"));
+	const items = txt.split( "," ).map( item => item.split( ":" ) );
 	//console.log( "items", items );
 
 	MTL.longitude = + items.find( item => item[ 0 ] === "longitude" )[ 1 ];
@@ -166,11 +164,9 @@ MTL.onHashChange = function () {
 
 	MTL.reset();
 
-	MTL.getTilesBitmaps()
+	MTL.getTilesBitmaps();
 
-}
-
-
+};
 
 
 
@@ -186,23 +182,19 @@ MTL.getTilesBitmaps = function () {
 	MTL.tileBitmapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoom );
 	MTL.tileBitmapCenterY = MTL.latToTile( MTL.latitude, MTL.zoom);
 
-	MTLdivLog.innerHTML = "";
-
 	for ( let y = 0; y < MTL.rows; y++ ) {
 
 		for ( let x = 0; x < MTL.columns; x++ ) {
 
-			url = MTL.getUrlGoogle( x - MTL.offsetX, y + MTL.offsetY , MTL.zoom  );
-
+			const url = MTL.getUrlGoogle( x - MTL.offsetX, y + MTL.offsetY , MTL.zoom  );
 			MTL.requestFile( url, MTL.onCallbackBitmap, x, y )
-			//MTLdivLog.innerHTML += `<img src=${ url } width=50 style="border: 1px solid red;" >`;
+
 		}
-		//MTLdivLog.innerHTML += `<br>`;
 
 	}
-	//console.log( "", ii );
-	//MTL.getTilesHeightMaps()
+
 };
+
 
 
 MTL.getTilesHeightMaps = function () {
@@ -231,7 +223,7 @@ MTL.getTilesHeightMaps = function () {
 
 
 
-MTL.requestFile = function( url, callback, col, row ) {
+MTL.requestFile = function ( url, callback, col, row ) {
 
 	const xhr = new XMLHttpRequest();
 	xhr.open( 'GET', url, true );
@@ -241,7 +233,8 @@ MTL.requestFile = function( url, callback, col, row ) {
 	xhr.onload = ( xhr ) => callback( xhr, col, row );
 	xhr.send( null );
 
-}
+};
+
 
 
 MTL.onCallbackBitmap = function cb ( xhr, col, row ) {
@@ -249,7 +242,7 @@ MTL.onCallbackBitmap = function cb ( xhr, col, row ) {
 
 	const url = URL.createObjectURL( xhr.target.response );
 	const img = document.createElement( "img" );
-	
+
 	img.onload = function () {
 
 		MTL.contextBitmap.drawImage( img, 0, 0, MTL.pixelsPerTile, MTL.pixelsPerTile, col * MTL.pixelsPerTile,
@@ -273,25 +266,15 @@ MTL.onCallbackBitmap = function cb ( xhr, col, row ) {
 
 MTL.onLoadBitmaps = function ( canvas ) {
 
-	//MTLdivLog.appendChild( MTL.canvasBitmap )
+	//MTLdivLog.appendChild( MTL.canvasBitmap );
+
 	const texture = new THREE.Texture( canvas );
 	texture.needsUpdate = true;
 
-	//MTL.material = new THREE.MeshBasicMaterial( { map: texture, side: 2 } );
 	MTL.material = new THREE.MeshPhongMaterial( { color: 0xffffff, map: texture, side: 2 } );
-
-	MTL.getMesh();
-
-};
-
-
-
-
-MTL.getMesh = function () {
+	MTL.material = new THREE.MeshBasicMaterial( { map: texture, side: 2 } );
 
 	MTL.geometry = new THREE.PlaneBufferGeometry( MTL.columns * MTL.unitsPerTile, MTL.rows * MTL.unitsPerTile );
-	//material = new THREE.MeshBasicMaterial( { MTL: texture, side: 2 } );
-	//material = new THREE.MeshNormalMaterial( { side: 2 } );
 
 	if ( MTL.geometry && MTL.material ) {
 
