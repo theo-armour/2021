@@ -1,17 +1,18 @@
 MTL = {};
 
-
+MTL.path = "../../../"
 // San Francisco Bay
 MTL.latitude = MTL.defaultLatitude = 37.796;
 MTL.longitude = MTL.defaultLongitude = -122.398;
-MTL.defaultZoom = 16;
+MTL.defaultZoom = 12;
 
 
-MTL.rows = MTL.defaultRows = 1;
-MTL.cols = MTL.defaultCols = 1;
+MTL.rows = MTL.defaultRows = 6;
+MTL.cols = MTL.defaultCols = 6;
 
 MTL.pixelsPerTile = 256;
 MTL.unitsPerTile = 50;  // controls size of Three.js PlaneBufferGeometry
+MTL.zoomDelta = 1;
 
 MTL.mapboxToken = 'pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg';
 
@@ -20,10 +21,13 @@ MTL.mapboxToken = 'pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZy
 
 MTL.init = function () {
 
+
+
+
 	MTL.latitude = MTL.defaultLatitude;
 	MTL.longitude = MTL.defaultLongitude;
 
-	MTL.zoom = 12; //MTL.defaultZoom;
+	MTL.zoom = MTL.defaultZoom;
 	MTL.overlayIndex = MTL.defaultOverlayIndex;
 	MTL.heightScale = MTL.defaultHeightScale;
 
@@ -32,7 +36,7 @@ MTL.init = function () {
 
 	MTL.deltaX = 0;
 	MTL.deltaY = 0;
-
+	MTL.tileBitmapsLoaded = 0;
 
 	const htm = `
 <details id=MTLdet open>
@@ -57,24 +61,24 @@ MTL.init = function () {
 	</label>
 
 	<label title="Slide me">
-		rows: <output id=outRows>${ 1+2*MTL.rows }</output>
-		<input id=rngRows type=range oninput=MTL.rows=(+this.value);outRows.value=1+2*this.value;MTL.getTilesBitmaps()
-			min=1 max=5 value=${ MTL.rows }>
+		rows: <output id=outRows>${ MTL.rows }</output>
+		<input id=rngRows type=range oninput=MTL.rows=(+this.value);outRows.value=this.value;MTL.getTilesBitmaps()
+			min=6 max=12 step=2 value=${ MTL.rows }>
 	</label>
 
 	<label title="Slide me">
-		columns: <output id=outColumns>${ 1+2*MTL.columns }</output>
-		<input id=rngColumns type=range oninput=MTL.columns=(+this.value);outColumns.value=1+2*this.value;MTL.getTilesBitmaps()
-			min=1 max=5 value=${ MTL.columns }>
+		columns: <output id=outColumns>${ MTL.columns }</output>
+		<input id=rngColumns type=range oninput=MTL.columns=(+this.value);outColumns.value=this.value;MTL.getTilesBitmaps()
+			min=6 max=12 step=2 value=${ MTL.columns }>
 	</label>
 
 	<p>
 		Go
-		<button onclick="MTL.deltaX -=1;MTL.getTilesBitmaps();" title="Go west|left">&#8678;</button>
-		<button onclick="MTL.deltaX +=1;MTL.getTilesBitmaps();" title="Go east|right">&#8680;</button>
+		<button onclick="MTL.offsetX +=2;MTL.getTilesBitmaps();" title="Go west|left">&#8678;</button>
+		<button onclick="MTL.offsetX -=2;MTL.getTilesBitmaps();" title="Go east|right">&#8680;</button>
 
-		<button onclick="MTL.deltaY -=1;MTL.getTilesBitmaps();" title="Go north" |up>&#8679;</button>
-		<button onclick="MTL.deltaY +=1;MTL.getTilesBitmaps();" title="Go south|down">&#8681;</button>
+		<button onclick="MTL.offsetY -=2;MTL.getTilesBitmaps();" title="Go north" |up>&#8679;</button>
+		<button onclick="MTL.offsetY +=2;MTL.getTilesBitmaps();" title="Go south|down">&#8681;</button>
 	</p>
 
 	<details open>
@@ -86,26 +90,22 @@ MTL.init = function () {
 		<p><a href='#"title":"Golden Gate Bridge","latitude":37.8199,"longitude":-122.4783,"zoom":14'>
 				Golden Gate Bridge</a></p>
 
-		<p><a
-				href='#"title":"California","latitude":36.7783,"longitude":-119.4179,"zoom":7,"scale":50,"rows":6,"columns":3'>
+		<p><a href='#"title":"California","latitude":36.7783,"longitude":-119.4179,"zoom":7,"scale":50,"rows":6,"columns":3'>
 				California</a></p>
 
 		<p><a href='#"title":"Burning Man","latitude":40.786944,"longitude":-119.204444,"zoom":12'>
 				Burning Man</a></p>
 
-		<p><a
-				href='#"title":"Half%20Dome,%20California,%20USA","latitude":37.7459192,"longitude":-119.5331992,"zoom":14,"offsetUTC":-420'>
+		<p><a href='#"title":"Half%20Dome,%20California,%20USA","latitude":37.7459192,"longitude":-119.5331992,"zoom":14,"offsetUTC":-420'>
 				Half Dome, Yosemite</a></p>
 
-		<p><a
-				href='#"title":"Grand%20Canyon,%20Arizona,%20USA","latitude":36.11276399999999,"longitude":-113.9960696,"zoom":11,"offsetUTC":-420'>
+		<p><a href='#"title":"Grand%20Canyon,%20Arizona,%20USA","latitude":36.11276399999999,"longitude":-113.9960696,"zoom":11,"offsetUTC":-420'>
 				The Grand Canyon</a></p>
 
 		<p><a href='#"title":"Greenwich Observatory","latitude":51.4779,"longitude":-0.0015,"zoom":15'>
 				Greenwich Observatory</a></p>
 
-		<p><a
-				href='#"title":"Skye,%20United%20Kingdom","latitude":57.2736277,"rows":5,"longitude":-6.2155023,"zoom":10,"offsetUTC":60'>
+		<p><a href='#"title":"Skye,%20United%20Kingdom","latitude":57.2736277,"rows":5,"longitude":-6.2155023,"zoom":10,"offsetUTC":60'>
 				Isles of Skye</a></p>
 
 		<p><a href='#"title":"Tenzing Hillary Airport","latitude":27.6874,"longitude":86.7322,"zoom":12'>Tenzing
@@ -115,12 +115,10 @@ MTL.init = function () {
 			<a href='#"title":"Hong%20Kong","latitude":22.3193039,"longitude":114.1693611,"zoom":11,"offsetUTC":480'>
 				Hong Kong</a></p>
 
-		<p><a
-				href='#"title":"Sidney Harbour","latitude":-33.8675,"longitude":151.207,"zoom":13,"scale":50,"offsetUTC":-600'>
+		<p><a href='#"title":"Sidney Harbour","latitude":-33.8675,"longitude":151.207,"zoom":13,"scale":50,"offsetUTC":-600'>
 				Sydney Harbour</a></p>
 
-		<p><a
-				href='#"title":"Queenstown,%20New%20Zealand","latitude":-45.0301511,"longitude":168.6616206,"zoom":13,"index":3,"offsetUTC":720'>
+		<p><a href='#"title":"Queenstown,%20New%20Zealand","latitude":-45.0301511,"longitude":168.6616206,"zoom":13,"index":3,"offsetUTC":720'>
 				Queenstown, New Zealand</a></p>
 
 		<p><a href='#"title":"Moorea","latitude":-17.5388,"longitude":-149.8295,"zoom":13,"index":3'>Moorea</a></p>
@@ -138,9 +136,10 @@ MTL.init = function () {
 
 	window.addEventListener( "hashchange", MTL.onHashChange );
 
+	MTL.offsetX = 0.5 * MTL.columns;
+	MTL.offsetY = -0.5 * MTL.rows;
+
 	MTL.getTilesBitmaps();
-
-
 
 };
 
@@ -149,7 +148,7 @@ MTL.onHashChange = function () {
 
 	txt = location.hash.replace( /%22/g, "" ).replace( /%20/g, " " );
 
-	items = txt.split( "," ).map( item => item.split( ":" ) );
+	items = txt.split( "," ).MTL( item => item.split( ":"));
 
 	//console.log( "items", items );
 
@@ -159,11 +158,19 @@ MTL.onHashChange = function () {
 	MTL.deltaX = 0;
 	MTL.deltaY = 0;
 
+	MTL.offsetX = 0.5 * MTL.columns;
+	MTL.offsetY = -0.5 * MTL.rows;
+
+	MTL.tileBitmapsLoaded = 0;
 	//console.log( "", MTL.latitude, MTL.longitude );
 
-	MTL.getTilesBitmaps();
+	//THR.scene.remove( THR.group )
 
-};
+	THR.group = THR.getGroupNew();
+
+	MTL.getTilesBitmaps()
+
+}
 
 
 
@@ -174,30 +181,36 @@ MTL.getUrlMapBox = ( x, y, zoom = 1 ) => `https://api.mapbox.com/v1/mapbox.satel
 
 MTL.getUrlMapBox = ( x, y, zoom = 1 ) => `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/${ zoom }/${ MTL.tileHeightMapCenterX + x }/${ MTL.tileHeightMapCenterY + y }?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg`
 
+
+
 MTL.getTilesBitmaps = function () {
 
-	MTL.tileBitmapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoom + 1);
-	MTL.tileBitmapCenterY = MTL.latToTile( MTL.latitude, MTL.zoom  + 1);
+	if ( !MTL.canvasBitmap ) { MTL.canvasBitmap = document.createElement( 'canvas' ); }
 
-	offsetX = Math.round( 0.5 * MTL.columns );
-	offsetY = Math.floor( 0.5 * MTL.rows );
+	MTL.canvasBitmap.width = MTL.pixelsPerTile * MTL.columns * MTL.zoomDelta;
+	MTL.canvasBitmap.height = MTL.pixelsPerTile * MTL.rows * MTL.zoomDelta;
+	MTL.canvasBitmap.style.cssText = "width:256px;";
+	MTL.contextBitmap = MTL.canvasBitmap.getContext( "2d" );
 
-	divContentMain.innerHTML = "";
+	MTL.tileBitmapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoom );
+	MTL.tileBitmapCenterY = MTL.latToTile( MTL.latitude, MTL.zoom);
 
-	for ( let y = - 2 * MTL.rows - 1; y <= 2 * MTL.rows; y++ ) {
+	MTLdivLog.innerHTML = "";
 
-		for ( let x = - 2 * MTL.columns - 1; x <= 2 * MTL.columns; x++ ) {
+	for ( let y = 0; y < MTL.rows; y++ ) {
 
-			url = MTL.getUrlGoogle( x + 2 * MTL.deltaX, y + 2 * MTL.deltaY, MTL.zoom + 1 );
+		for ( let x = 0; x < MTL.columns; x++ ) {
 
-			//requestFile( url, cb )
-			//divContentMain.innerHTML += `<img src=${ url } width=128 style="border: 1px solid red;" >`;
+			url = MTL.getUrlGoogle( x - MTL.offsetX, y + MTL.offsetY , MTL.zoom  );
+
+			MTL.requestFile( url, MTL.onCallbackBitmap, x, y )
+			//MTLdivLog.innerHTML += `<img src=${ url } width=50 style="border: 1px solid red;" >`;
 		}
-		divContentMain.innerHTML += `<br>`;
+		//MTLdivLog.innerHTML += `<br>`;
 
 	}
-
-	MTL.getTilesHeightMaps()
+	//console.log( "", ii );
+	//MTL.getTilesHeightMaps()
 };
 
 
@@ -227,29 +240,107 @@ MTL.getTilesHeightMaps = function () {
 
 
 
-function requestFile ( url, callback ) {
+MTL.requestFile = function( url, callback, x, y ) {
 
 	const xhr = new XMLHttpRequest();
 	xhr.open( 'GET', url, true );
 	xhr.responseType = "blob";
 	xhr.onerror = ( xhr ) => console.log( 'error:', xhr );
 	//xhr.onprogress = ( xhr ) => console.log( 'bytes loaded:', xhr.loaded );
-	xhr.onload = ( xhr ) => callback( xhr );
+	xhr.onload = ( xhr ) => callback( xhr, x, y );
 	xhr.send( null );
 
 }
 
 
-function cb ( xhr ) {
+MTL.onCallbackBitmap = function cb ( xhr, col, row ) {
 
-	console.log( "xhr", xhr );
+	//console.log( "xhr", xhr );
 
-	url = URL.createObjectURL( xhr.target.response )
+	url = URL.createObjectURL( xhr.target.response );
 
-	console.log( "url", url );
+	//console.log( "url", url );
+
+	MTL.onLoadTileBitmap( url, col, row )
 
 }
 
+
+
+MTL.onLoadTileBitmap = function ( src, col, row ) {
+
+	//console.log( "", row, col );
+
+	const img = document.createElement( "img" );
+
+	img.onload = function () {
+
+		MTL.contextBitmap.drawImage( img, 0, 0, MTL.pixelsPerTile, MTL.pixelsPerTile, col * MTL.pixelsPerTile, row * MTL.pixelsPerTile, MTL.pixelsPerTile, MTL.pixelsPerTile );
+
+		MTL.tileBitmapsLoaded += 1;
+
+		//console.log( "MTL.tileBitmapsLoaded", MTL.tileBitmapsLoaded );
+
+		if ( MTL.tileBitmapsLoaded >= MTL.rows * MTL.columns ) {
+
+			MTL.onLoadBitmaps( MTL.canvasBitmap );
+
+		}
+
+	};
+
+	img.src = src;
+
+};
+
+
+
+MTL.onLoadBitmaps = function ( canvas ) {
+
+	//MTLdivLog.appendChild( MTL.canvasBitmap )
+	const texture = new THREE.Texture( canvas );
+	texture.needsUpdate = true;
+
+	//MTL.material = new THREE.MeshBasicMaterial( { map: texture, side: 2 } );
+	MTL.material = new THREE.MeshPhongMaterial( { color: 0xffffff, map: texture, side: 2, transparent: true } );
+
+	MTL.getMesh();
+
+};
+
+
+
+
+MTL.getMesh = function () {
+
+	MTL.geometry = new THREE.PlaneBufferGeometry( MTL.columns * MTL.unitsPerTile, MTL.rows * MTL.unitsPerTile );
+	//material = new THREE.MeshBasicMaterial( { MTL: texture, side: 2 } );
+	//material = new THREE.MeshNormalMaterial( { side: 2 } );
+
+	if ( MTL.geometry && MTL.material ) {
+
+		THR.group = THR.getGroupNew( THR.group );
+
+		const mesh = new THREE.Mesh( MTL.geometry, MTL.material );
+		mesh.castShadow = true;
+		mesh.receiveShadow = true;
+		THR.group.add( mesh );
+
+		THR.zoomObjectBoundingSphere();
+
+		//THR.radius = 141.4;
+
+		// THR.lightDirectional.position.copy(
+		//	THR.center.clone().add( new THREE.Vector3( -1.5 * THR.radius, -1.5 * THR.radius, 1.5 * THR.radius ) )
+		//);
+
+		THR.camera.position.copy(
+			THR.center.clone().add( new THREE.Vector3( 0 * THR.radius, -0.8 * THR.radius, 0.8 * THR.radius ) )
+		);
+
+	}
+
+};
 
 
 ////////// Cartography utilities
