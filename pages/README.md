@@ -1,16 +1,16 @@
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://theo-armour.github.io/2020/xxxxx/readme.html  "View file as a web page." ) </span>
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://theo-armour.github.io/2021/#pages/README.md  "View file as a web page." ) </span>
 
-<div><input type=button onclick=window.location.href="https://github.com/theo-armour/2020/tree/master/xxxxx/";
+<div><input type=button onclick=window.location.href="https://github.com/theo-armour/2021/tree/master/pages/";
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
 
 
-# [Pages Read Me]( https://theo-armour.github.io/2020/xxxxx/readme.html )
+# [Pages Read Me]( https://theo-armour.github.io/2021/#pages/README.md )
 
 <!--@@@
-<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://theo-armour.github.io/2020/ height=100% width=100% ></iframe></div>
+<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://theo-armour.github.io/2021/#pages/README.md height=100% width=100% ></iframe></div>
 _Pages_
 
-### Full Screen: [Pages]( https://theo-armour.github.io/2020/xxxxx/ )
+### Full Screen: [Pages]( https://theo-armour.github.io/2021/pages/README.md )
 @@@-->
 
 
@@ -26,11 +26,21 @@ _Pages_
 
 ## Links of Interest
 
+Wikipedia biography of a loving person
+
+* https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons
+* https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons/Help
+* https://en.wikipedia.org/wiki/Wikipedia_talk:Biographies_of_living_persons
+* https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons_dos_and_don%27ts
+
 
 ## Change Log
 
+### 2021-01-03
 
-### 2020-12-31
+* Add links
+
+### 2021-12-31
 
 * First commit
 

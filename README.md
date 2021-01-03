@@ -36,7 +36,7 @@ See also
 
 ## To Do / Wish List
 
-* Flesh the about page so that it follows the format of a Wikipedia biography of a lving person
+* Flesh out the about page so that it follows the format of a Wikipedia biography of a lving person
 
 ## Issues
 
