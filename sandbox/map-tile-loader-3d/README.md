@@ -7,8 +7,8 @@ value='You are now in a GitHub web page view - Click this button to view this re
 # [MTL Map Tile Loader 3D Read Me]( https://theo-armour.github.io/2021/sandbox/map-tile-loader-3d/readme.html )
 
 <!--@@@
-<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/ sandbox/map-tile-loader-3d/ height=100% width=100% ></iframe></div>
-_ MTL Map Tile Loader 3D in a resizable window. One finger to rotate. Two to zoom._
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/sandbox/map-tile-loader-3d/ height=100% width=100% ></iframe></div>
+_MTL Map Tile Loader 3D in a resizable window. One finger to rotate. Two to zoom._
 
 ### Full Screen: [MTL Map Tile Loader 3D]( https://theo-armour.github.io/2021/sandbox/map-tile-loader-3d/ )
 @@@-->
@@ -20,6 +20,12 @@ See: https://theo-armour.github.io/2021/theo-2020-12-31.html#lib3d/map/README.md
 
 ## To Do / Wish List
 
+* Allow for smaller meshes - and thus increase FPS
+* Add select height with a slider
+* Add select tile overlay
+* Add export to glTF
+* Add display photos at lat * lon
+* Add view along KML
 
 ## Issues
 
@@ -32,6 +38,7 @@ See: https://theo-armour.github.io/2021/theo-2020-12-31.html#lib3d/map/README.md
 
 ### 2021-01-02
 
+* Many fixes and simplifications
 * First commit readme
 
 
