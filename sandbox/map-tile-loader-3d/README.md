@@ -20,6 +20,9 @@ See: https://theo-armour.github.io/2021/theo-2020-12-31.html#lib3d/map/README.md
 
 ## To Do / Wish List
 
+* 2021-01-03 ~ Add no terrain option
+* 2021-01-03 ~ Add terrain of any materieal
+* 2021-01-03 ~ Add no bitmap option
 * Allow for smaller meshes - and thus increase FPS
 * Add select height with a slider
 * Add select tile overlay
