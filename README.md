@@ -6,12 +6,12 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 # [Theo Armour 2021 Read Me]( https://theo-armour.github.io/2021/ )
 
-<!--
-<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/  height=100% width=100% ></iframe></div>
-_Theo Armour in a resizable window. One finger to rotate. Two to zoom._
+<!--@@@
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/demo-reel/v-2020-12-31/iframe-carousel-r1.html  height=100% width=100% ></iframe></div>
+_Demo Reel in a resizable window. One finger to rotate. Two to zoom._
 
-### Full Screen: [Theo Armour]( https://theo-armour.github.io/2021/ )
--->
+### Full Screen: [Theo Armour Demo Reel]( https://theo-armour.github.io/2021/demo-reel/ )
+@@@-->
 
 See also
 
@@ -24,7 +24,7 @@ See also
 
 * Provide an overview of and links to projects I am involved with - past, present and future
 * Provide a personal biography
-* Provide hosting for small or samdbox projects
+* Provide hosting for small or sandbox projects
 
 ## Links of Interest
 
@@ -33,15 +33,19 @@ See also
 * [Demo Reel]( https://theo-armour.github.io/2021/demo-reel/ )
 
 
-
 ## To Do / Wish List
 
-* Flesh out the about page so that it follows the format of a Wikipedia biography of a lving person
+* Flesh out the About Theo page so that it follows the format of a Wikipedia biography of a living person
 
 ## Issues
 
 
 ## Change Log
+
+### 2021-01-03
+
+* Typos
+* Add iframe with Demo Reel
 
 ### 2020-12-31
 

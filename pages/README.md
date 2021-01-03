@@ -33,6 +33,10 @@ Wikipedia biography of a loving person
 * https://en.wikipedia.org/wiki/Wikipedia_talk:Biographies_of_living_persons
 * https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons_dos_and_don%27ts
 
+Wikipedia Templates
+
+* https://en.wikipedia.org/wiki/Template:Biography
+* https://en.wikipedia.org/wiki/Category:People_and_person_templates
 
 ## Change Log
 
