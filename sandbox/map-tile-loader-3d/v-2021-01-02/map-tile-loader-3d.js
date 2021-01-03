@@ -1,4 +1,6 @@
 // copyright 2021 Theo Armour. MIT license.
+/* globals THREE */
+/* jshint esversion: 6 */
 
 function init () {
 
@@ -20,8 +22,6 @@ function init () {
 
 	divDescription.innerHTML = description;
 
-	MTL.init();
-
 	THR.init();
 
 	THR.animate();
@@ -29,6 +29,8 @@ function init () {
 	THR.addLights();
 
 	THR.addGround();
+
+	MTL.init();
 
 	//THR.group = THR.getGroupNew();
 
@@ -50,4 +52,4 @@ function init () {
 
 	}
 
-};
+}
