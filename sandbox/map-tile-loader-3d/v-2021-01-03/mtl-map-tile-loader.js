@@ -9,17 +9,24 @@ MTL.path = "../../../";
 // San Francisco Bay
 MTL.latitude = MTL.defaultLatitude = 37.796;
 MTL.longitude = MTL.defaultLongitude = -122.398;
-MTL.zoom = MTL.defaultZoom = 12;
 
-MTL.rows = MTL.defaultRows = 6;
-MTL.columns = MTL.defaultColumns = 6;
+
+// Hong Kong
+// MTL.latitude = MTL.defaultLatitude = 22.3193039;
+// MTL.longitude = MTL.defaultLongitude = 114.1693611;
+// MTL.zoom = 11;
+
+MTL.zoom = MTL.defaultZoom = 11;
+
+
+MTL.rows = MTL.defaultRows = 3;
+MTL.columns = MTL.defaultColumns = 3;
 
 MTL.overlayIndex = MTL.defaultOverlayIndex;
 MTL.heightScale = MTL.defaultHeightScale = 50;
 
 MTL.pixelsPerTile = 256;
 MTL.unitsPerTile = 50;  // controls size of Three.js PlaneBufferGeometry
-MTL.zoomDelta = -1;
 
 MTL.metersPerPixelPerZoom = [ 156412, 78206, 39103, 19551, 9776, 4888, 2444, 1222, 610.984, 305.492, 152.746, 76.373, 38.187, 19.093, 9.547, 4.773, 2.387, 1.193, 0.596, 0.298 ];
 MTL.metersPerPixel = MTL.metersPerPixelPerZoom[ MTL.zoom ];
@@ -77,11 +84,11 @@ MTL.init = function () {
 
 	<p>
 		Go
-		<button onclick="MTL.offsetX +=2;MTL.updateMapGroup();" title="Go west|left">&#8678;</button>
-		<button onclick="MTL.offsetX -=2;MTL.updateMapGroup();" title="Go east|right">&#8680;</button>
+		<button onclick="MTL.offsetX +=2;MTL.offsetHeightMapX +=1;MTL.updateMapGroup();" title="Go west|left">&#8678;</button>
+		<button onclick="MTL.offsetX -=2;MTL.offsetHeightMapX -=1;MTL.updateMapGroup();" title="Go east|right">&#8680;</button>
 
-		<button onclick="MTL.offsetY -=2;MTL.updateMapGroup();" title="Go north" |up>&#8679;</button>
-		<button onclick="MTL.offsetY +=2;MTL.updateMapGroup();" title="Go south|down">&#8681;</button>
+		<button onclick="MTL.offsetY -=2;MTL.offsetHeightMapY +=1;MTL.updateMapGroup();" title="Go north" |up>&#8679;</button>
+		<button onclick="MTL.offsetY +=2;MTL.offsetHeightMapY -=1;MTL.updateMapGroup();" title="Go south|down">&#8681;</button>
 	</p>
 
 	<details open>
@@ -160,10 +167,13 @@ MTL.onHashChange = function () {
 
 MTL.reset = function () {
 
-	MTLdivLog, innerHTML = "";
+	MTLdivLog.innerHTML = "";
 
-	MTL.offsetX = 3;
-	MTL.offsetY = -2;
+	MTL.offsetHeightMapX = 1;
+	MTL.offsetHeightMapY = -1;
+
+	MTL.offsetBitmapX = 1;
+	MTL.offsetBitmapY = -1;
 
 	MTL.updateMapGroup();
 
@@ -175,40 +185,162 @@ MTL.updateMapGroup = function () {
 
 	MTL.timeStart = performance.now();
 
+	//MTL.material = new THREE.MeshNormalMaterial( { side: 2 } );
+	MTL.getTilesHeightMaps();
+
 	// MTL.geometry = new THREE.PlaneBufferGeometry( MTL.columns * MTL.unitsPerTile, MTL.rows * MTL.unitsPerTile,
 	//	MTL.columns * MTL.pixelsPerTile - 1, MTL.rows * MTL.pixelsPerTile - 1 );
-
 	MTL.getTilesBitmaps();
 
-	//MTL.material = new THREE.MeshNormalMaterial( { side: 2 } );
 
-	MTL.getTilesHeightMaps();
 
 };
 
 
 
-MTL.getTilesBitmaps = function () {
+////////// Height Maps
 
+MTL.getTilesHeightMaps = function () {
+
+	if ( !MTL.canvasHeightMap ) { MTL.canvasHeightMap = document.createElement( 'canvas' ); }
+
+	MTL.rowsHeightMap = MTL.rows;
+	MTL.columnsHeightMap = MTL.columns;
+	MTL.zoomHeightMap = MTL.zoom;
+
+	MTL.canvasHeightMap.width = MTL.pixelsPerTile * MTL.columnsHeightMap;
+	MTL.canvasHeightMap.height = MTL.pixelsPerTile * MTL.rowsHeightMap;
+	MTL.canvasHeightMap.style.cssText = "width:256px;border:1px solid red;";
+	MTL.contextHeightMap = MTL.canvasHeightMap.getContext( "2d" );
+	//MTL.contextHeightMap.clearRect( 0, 0, MTL.canvasHeightMap.width, MTL.canvasHeightMap.height );
+
+	MTL.tileHeightMapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoomHeightMap );
+	MTL.tileHeightMapCenterY = MTL.latToTile( MTL.latitude, MTL.zoomHeightMap );
+
+	MTL.tileHeightMapsLoaded = 0;
+
+	for ( let y = 0; y < MTL.rowsHeightMap; y++ ) {
+
+		for ( let x = 0; x < MTL.columnsHeightMap; x++ ) {
+
+			//url = `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/${ MTL.zoomHeightMap }/${ MTL.tileHeightMapCenterX + x }/${ MTL.tileHeightMapCenterY + y }?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg`
+			const url = `https://api.mapbox.com/v4/mapbox.terrain-rgb/${ ( MTL.zoomHeightMap ) }/${ MTL.tileHeightMapCenterX + x - MTL.offsetHeightMapX }/${ MTL.tileHeightMapCenterY + y + MTL.offsetHeightMapY }.pngraw?access_token=${ MTL.mapboxToken }`;
+			//console.log( "url", url );
+
+			MTL.fetchTileHeightMap( url, x, y );
+
+		}
+
+	}
+
+};
+
+
+
+MTL.fetchTileHeightMap = function ( url = "", col = 0, row = 0 ) {
+
+	fetch( url ).then( ( response ) => {
+		if ( response.ok ) {
+			return response.blob();
+		} else {
+			console.log( "oops", 23 );
+			MTL.tileHeightMapsLoaded++;
+			MTLdivLog.innerHTML = '<p><mark>There was no available height map for for one or more tiles.</mark></p>';
+
+		}
+	} )
+		.then( blob => MTL.onLoadTileHeightMap( URL.createObjectURL( blob ), col, row ) )
+		.catch( ( error ) => {
+			console.log( error );
+		} );
+
+};
+
+
+MTL.onLoadTileHeightMap = function ( src, col = 0, row = 0 ) {
+
+	const img = document.createElement( "img" );
+	const size = 256;
+
+	img.onload = function () {
+		//console.log( "col row", col, row );
+
+		MTL.contextHeightMap.drawImage( img, 0, 0, size, size, col * size, row * size, size, size );
+
+		MTL.tileHeightMapsLoaded++;
+
+		if ( MTL.tileHeightMapsLoaded >= MTL.rowsHeightMap * MTL.columnsHeightMap ) {
+
+			//console.log( "height maps loaded", performance.now() - MTL.timeStart );
+
+			MTL.onLoadHeightMaps( MTL.contextHeightMap );
+
+		}
+
+	};
+
+	img.src = src;
+
+};
+
+
+
+MTL.onLoadHeightMaps = function ( context ) {
+
+	MTLdivLog.appendChild( MTL.canvasHeightMap );
+
+	if ( MTL.geometry ) MTL.geometry.dispose();
+
+	MTL.geometry = new THREE.PlaneBufferGeometry( MTL.columnsHeightMap * MTL.unitsPerTile, MTL.rowsHeightMap * MTL.unitsPerTile,
+		MTL.columnsHeightMap * MTL.pixelsPerTile - 1, MTL.rowsHeightMap * MTL.pixelsPerTile - 1 );
+
+	const vertices = MTL.geometry.attributes.position.array;
+	const data = context.getImageData( 0, 0, MTL.columnsHeightMap * MTL.pixelsPerTile,
+		MTL.rowsHeightMap * MTL.pixelsPerTile ).data;
+
+	for ( let i = 2, j = 0; i < vertices.length; i += 3, j += 1 ) {
+
+		vertices[ i ] = MTL.scaleTerrain * ( 0.1 * ( data[ j++ ] * 65536 + data[ j++ ] * 256 + data[ j++ ] ) - 10000 );
+
+	}
+
+	MTL.geometry.computeFaceNormals();
+	MTL.geometry.computeVertexNormals();
+
+	console.log( "height map", performance.now() - MTL.timeStart );
+
+	MTL.getMesh();
+
+};
+
+
+
+//////////
+
+MTL.getTilesBitmaps = function () {
 
 
 	if ( !MTL.canvasBitmap ) { MTL.canvasBitmap = document.createElement( 'canvas' ); }
 
-	MTL.canvasBitmap.width = MTL.pixelsPerTile * MTL.columns;
-	MTL.canvasBitmap.height = MTL.pixelsPerTile * MTL.rows;
+	MTL.columnsBitmap = MTL.columns;
+	MTL.rowsBitmap = MTL.rows;
+	MTL.zoomBitmap = MTL.zoom;
+
+	MTL.canvasBitmap.width = MTL.pixelsPerTile * MTL.columnsBitmap;
+	MTL.canvasBitmap.height = MTL.pixelsPerTile * MTL.rowsBitmap;
 	MTL.canvasBitmap.style.cssText = "width:256px;";
 	MTL.contextBitmap = MTL.canvasBitmap.getContext( "2d" );
 	//MTL.contextBitmap.clearRect( 0, 0, MTL.canvasBitmap.width, MTL.canvasBitmap.height );
 
-	MTL.tileBitmapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoom );
-	MTL.tileBitmapCenterY = MTL.latToTile( MTL.latitude, MTL.zoom );
+	MTL.tileBitmapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoomBitmap );
+	MTL.tileBitmapCenterY = MTL.latToTile( MTL.latitude, MTL.zoomBitmap );
 	MTL.tileBitmapsLoaded = 0;
 
-	for ( let y = 0; y < MTL.rows; y++ ) {
+	for ( let y = 0; y < MTL.rowsBitmap; y++ ) {
 
-		for ( let x = 0; x < MTL.columns; x++ ) {
+		for ( let x = 0; x < MTL.columnsBitmap; x++ ) {
 
-			const url = MTL.getUrlGoogle( x - MTL.offsetX, y + MTL.offsetY, MTL.zoom );
+			const url = MTL.getUrlGoogle( x - MTL.offsetBitmapX, y + MTL.offsetBitmapY, MTL.zoomBitmap );
 			MTL.requestFile( url, MTL.onCallbackBitmap, x, y );
 
 		}
@@ -232,7 +364,7 @@ MTL.onCallbackBitmap = function ( xhr, col, row ) {
 
 		MTL.tileBitmapsLoaded++; // console.log( "MTL.tileBitmapsLoaded", MTL.tileBitmapsLoaded );
 
-		if ( MTL.tileBitmapsLoaded >= MTL.rows * MTL.columns ) {
+		if ( MTL.tileBitmapsLoaded >= MTL.rowsBitmap * MTL.columnsBitmap ) {
 
 			MTL.onLoadBitmaps( MTL.canvasBitmap );
 
@@ -265,119 +397,6 @@ MTL.onLoadBitmaps = function ( canvas ) {
 
 //////////
 
-MTL.getTilesHeightMaps = function () {
-
-	if ( !MTL.canvasHeightMap ) { MTL.canvasHeightMap = document.createElement( 'canvas' ); }
-
-	MTL.canvasHeightMap.width = MTL.pixelsPerTile * ( MTL.columns + MTL.zoomDelta );
-	MTL.canvasHeightMap.height = MTL.pixelsPerTile * ( MTL.rows + MTL.zoomDelta );
-	MTL.canvasHeightMap.style.cssText = "width:256px;border:1px solid red;";
-	MTL.contextHeightMap = MTL.canvasHeightMap.getContext( "2d" );
-	//MTL.contextHeightMap.clearRect( 0, 0, MTL.canvasHeightMap.width, MTL.canvasHeightMap.height );
-
-	MTL.tileHeightMapCenterX = MTL.lonToTile( MTL.longitude, ( MTL.zoom + MTL.zoomDelta ) );
-	MTL.tileHeightMapCenterY = MTL.latToTile( MTL.latitude, ( MTL.zoom + MTL.zoomDelta ) );
-
-	MTL.tileHeightMapsLoaded = 0;
-
-	MTL.rowsHeightMap = MTL.rows / 2;
-	MTL.columnsHeightMap = MTL.columns / 2;
-
-	MTL.offsetXHeightMap = 1;
-	MTL.offsetYHeightMap = -1;
-
-	for ( let y = 0; y < MTL.rowsHeightMap; y++ ) {
-
-		for ( let x = 0; x < MTL.columnsHeightMap; x++ ) {
-
-			//url = `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/${ MTL.zoom }/${ MTL.tileHeightMapCenterX + x }/${ MTL.tileHeightMapCenterY + y }?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg`
-			const url = `https://api.mapbox.com/v4/mapbox.terrain-rgb/${ ( MTL.zoom + MTL.zoomDelta ) }/${ MTL.tileHeightMapCenterX + x - MTL.offsetXHeightMap }/${ MTL.tileHeightMapCenterY + y + MTL.offsetYHeightMap }.pngraw?access_token=${ MTL.mapboxToken }`;
-			//console.log( "url", url );
-
-			MTL.fetchTileHeightMap( url, x, y );
-
-		}
-
-	}
-
-};
-
-
-MTL.fetchTileHeightMap = function ( url = "", col = 0, row = 0 ) {
-
-	fetch( url ).then( ( response ) => {
-		if ( response.ok ) {
-			return response.blob();
-		} else {
-			console.log( "oops", 23 );
-			MTL.tileHeightMapsLoaded++;
-			MTLdivLog.innerHTML = '<p><mark>There was no available height map for for one or more tiles.</mark></p>';
-
-		}
-	} )
-		.then( blob => MTL.onLoadTileHeightMap( URL.createObjectURL( blob ), col, row ) )
-		.catch( ( error ) => {
-			console.log( error );
-		} );
-
-};
-
-
-MTL.onLoadTileHeightMap = function ( src, col = 0, row = 0 ) {
-
-	const img = document.createElement( "img" );
-	const size = 256;
-
-	img.onload = function () {
-
-		MTL.contextHeightMap.drawImage( img, 0, 0, size, size, col * size, row * size, size, size );
-
-		MTL.tileHeightMapsLoaded++;
-
-		//console.log( "col row", col, row );
-		if ( MTL.tileHeightMapsLoaded >= MTL.rowsHeightMap * MTL.columnsHeightMap ) {
-
-			//console.log( "height map 0", performance.now() - MTL.timeStart );
-
-
-			MTL.onLoadHeightMaps( MTL.contextHeightMap );
-
-		}
-
-	};
-
-	img.src = src;
-
-};
-
-
-
-MTL.onLoadHeightMaps = function ( context ) {
-
-	MTLdivLog.appendChild( MTL.canvasHeightMap );
-
-	if ( MTL.geometry ) MTL.geometry.dispose();
-
-	MTL.geometry = new THREE.PlaneBufferGeometry( MTL.columnsHeightMap * MTL.unitsPerTile, MTL.rowsHeightMap * MTL.unitsPerTile,
-		MTL.columnsHeightMap * MTL.pixelsPerTile - 1, MTL.rowsHeightMap * MTL.pixelsPerTile - 1 );
-
-	const vertices = MTL.geometry.attributes.position.array;
-	const data = context.getImageData( 0, 0, MTL.columnsHeightMap * MTL.pixelsPerTile, MTL.rowsHeightMap * MTL.pixelsPerTile ).data;
-
-	for ( let i = 2, j = 0; i < vertices.length; i += 3, j += 1 ) {
-
-		vertices[ i ] = MTL.scaleTerrain * ( 0.1 * ( data[ j++ ] * 65536 + data[ j++ ] * 256 + data[ j++ ] ) - 10000 );
-
-	}
-
-	MTL.geometry.computeFaceNormals();
-	MTL.geometry.computeVertexNormals();
-
-	console.log( "height map", performance.now() - MTL.timeStart );
-
-	MTL.getMesh();
-
-};
 
 
 //////////
