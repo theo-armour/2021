@@ -17,7 +17,7 @@ MTL.longitude = MTL.defaultLongitude = -122.398;
 // MTL.zoom = 11;
 
 MTL.zoom = MTL.defaultZoom = 11;
-
+MTL.delta = 2;
 
 MTL.rows = MTL.defaultRows = 3;
 MTL.columns = MTL.defaultColumns = 3;
@@ -35,13 +35,12 @@ MTL.metersPerPixel = MTL.metersPerPixelPerZoom[ MTL.zoom ];
 MTL.scale = [ 0.00003, 0.00005, 0.0001, 0.0001, 0.0002, 0.0003, 0.0005, 0.003, 0.009, 0.001, 0.005, 0.02 ];
 MTL.scaleTerrain = MTL.scale[ MTL.zoom - 7 ] * MTL.heightScale;
 
-MTL.getUrlGoogle = ( x, y, zoom = 1 ) => `https://mt1.google.com/vt/x=${ MTL.tileBitmapCenterX + x }&y=${ MTL.tileBitmapCenterY + y }&z=${ zoom }`;
 
 MTL.mapboxToken = 'pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg';
 //MTL.getUrlMapBox = ( x, y, zoom = 1 ) => `https://api.mapbox.com/v1/mapbox.satellite-v9/${ zoom }/${ MTL.tileHeightMapCenterX + x }/${ MTL.tileHeightMapCenterY + y }.png?access_token=${ MTL.mapboxToken }`;
 // https://api.mapbox.com/v1/mapbox.satellite-v9/6/9/25.png?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
 
-MTL.getUrlMapBox = ( x, y, zoom ) => `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/${ zoom }/${ MTL.tileHeightMapCenterX + x }/${ MTL.tileHeightMapCenterY + y }?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg`;
+//MTL.getUrlMapBox = ( x, y, zoom ) => `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/${ zoom }/${ x }/${ y }?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg`;
 
 
 
@@ -73,22 +72,22 @@ MTL.init = function () {
 	<label title="Slide me">
 		rows: <output id=outRows>${ MTL.rows }</output>
 		<input id=rngRows type=range oninput=MTL.rows=(+this.value);outRows.value=this.value;MTL.updateMapGroup()
-			min=6 max=12 step=2 value=${ MTL.rows }>
+			min=3 max=6 step=1 value=${ MTL.rows }>
 	</label>
 
 	<label title="Slide me">
 		columns: <output id=outColumns >${ MTL.columns }</output>
 		<input id=rngColumns type=range oninput=MTL.columns=(+this.value);outColumns.value=this.value;MTL.updateMapGroup()
-			min=6 max=12 step=2 value=${ MTL.columns }>
+			min=3 max=6 step=1 value=${ MTL.columns }>
 	</label>
 
 	<p>
 		Go
-		<button onclick="MTL.offsetX +=2;MTL.offsetHeightMapX +=1;MTL.updateMapGroup();" title="Go west|left">&#8678;</button>
-		<button onclick="MTL.offsetX -=2;MTL.offsetHeightMapX -=1;MTL.updateMapGroup();" title="Go east|right">&#8680;</button>
+		<button onclick="MTL.offsetBitmapX -=${ MTL.delta };MTL.offsetHeightMapX -=1;MTL.updateMapGroup();" title="Go west|left">&#8678;</button>
+		<button onclick="MTL.offsetBitmapX +=${ MTL.delta };MTL.offsetHeightMapX +=1;MTL.updateMapGroup();" title="Go east|right">&#8680;</button>
 
-		<button onclick="MTL.offsetY -=2;MTL.offsetHeightMapY +=1;MTL.updateMapGroup();" title="Go north" |up>&#8679;</button>
-		<button onclick="MTL.offsetY +=2;MTL.offsetHeightMapY -=1;MTL.updateMapGroup();" title="Go south|down">&#8681;</button>
+		<button onclick="MTL.offsetBitmapY -=${ MTL.delta };MTL.offsetHeightMapY -=1;MTL.updateMapGroup();" title="Go north" |up>&#8679;</button>
+		<button onclick="MTL.offsetBitmapY +=${ MTL.delta };MTL.offsetHeightMapY +=1;MTL.updateMapGroup();" title="Go south|down">&#8681;</button>
 	</p>
 
 	<details open>
@@ -167,13 +166,17 @@ MTL.onHashChange = function () {
 
 MTL.reset = function () {
 
-	MTLdivLog.innerHTML = "";
+	MTL.tileHeightMapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoom );
+	MTL.tileHeightMapCenterY = MTL.latToTile( MTL.latitude, MTL.zoom );
 
-	MTL.offsetHeightMapX = 1;
-	MTL.offsetHeightMapY = -1;
+	MTL.tileTopLeftLongitude = MTL.tile2lon( MTL.tileHeightMapCenterX - 1, MTL.zoom );
+	MTL.tileTopLeftLatitude  = MTL.tile2lat( MTL.tileHeightMapCenterY - 1, MTL.zoom );
 
-	MTL.offsetBitmapX = 1;
-	MTL.offsetBitmapY = -1;
+	MTL.offsetHeightMapX = 0;
+	MTL.offsetHeightMapY = 0;
+
+	MTL.offsetBitmapX = 0;
+	MTL.offsetBitmapY = 0;
 
 	MTL.updateMapGroup();
 
@@ -185,14 +188,14 @@ MTL.updateMapGroup = function () {
 
 	MTL.timeStart = performance.now();
 
+	MTLdivLog.innerHTML = "";
+
 	//MTL.material = new THREE.MeshNormalMaterial( { side: 2 } );
 	MTL.getTilesHeightMaps();
 
-	// MTL.geometry = new THREE.PlaneBufferGeometry( MTL.columns * MTL.unitsPerTile, MTL.rows * MTL.unitsPerTile,
-	//	MTL.columns * MTL.pixelsPerTile - 1, MTL.rows * MTL.pixelsPerTile - 1 );
+	//MTL.geometry = new THREE.PlaneBufferGeometry( MTL.columns * MTL.unitsPerTile, MTL.rows * MTL.unitsPerTile,
+	//MTL.columns * MTL.pixelsPerTile - 1, MTL.rows * MTL.pixelsPerTile - 1 );
 	MTL.getTilesBitmaps();
-
-
 
 };
 
@@ -214,8 +217,11 @@ MTL.getTilesHeightMaps = function () {
 	MTL.contextHeightMap = MTL.canvasHeightMap.getContext( "2d" );
 	//MTL.contextHeightMap.clearRect( 0, 0, MTL.canvasHeightMap.width, MTL.canvasHeightMap.height );
 
-	MTL.tileHeightMapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoomHeightMap );
-	MTL.tileHeightMapCenterY = MTL.latToTile( MTL.latitude, MTL.zoomHeightMap );
+	//MTL.tileHeightMapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoomHeightMap );
+	//MTL.tileHeightMapCenterY = MTL.latToTile( MTL.latitude, MTL.zoomHeightMap );
+
+	MTL.heightMapTopLeftX = MTL.lonToTile( MTL.tileTopLeftLongitude, MTL.zoomHeightMap );
+	MTL.heightMapTopLeftY = MTL.latToTile( MTL.tileTopLeftLatitude, MTL.zoomHeightMap );
 
 	MTL.tileHeightMapsLoaded = 0;
 
@@ -224,7 +230,7 @@ MTL.getTilesHeightMaps = function () {
 		for ( let x = 0; x < MTL.columnsHeightMap; x++ ) {
 
 			//url = `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/${ MTL.zoomHeightMap }/${ MTL.tileHeightMapCenterX + x }/${ MTL.tileHeightMapCenterY + y }?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg`
-			const url = `https://api.mapbox.com/v4/mapbox.terrain-rgb/${ ( MTL.zoomHeightMap ) }/${ MTL.tileHeightMapCenterX + x - MTL.offsetHeightMapX }/${ MTL.tileHeightMapCenterY + y + MTL.offsetHeightMapY }.pngraw?access_token=${ MTL.mapboxToken }`;
+			const url = `https://api.mapbox.com/v4/mapbox.terrain-rgb/${ ( MTL.zoomHeightMap ) }/${ x + MTL.heightMapTopLeftX + MTL.offsetHeightMapX }/${ y + MTL.heightMapTopLeftY + MTL.offsetHeightMapY }.pngraw?access_token=${ MTL.mapboxToken }`;
 			//console.log( "url", url );
 
 			MTL.fetchTileHeightMap( url, x, y );
@@ -255,6 +261,7 @@ MTL.fetchTileHeightMap = function ( url = "", col = 0, row = 0 ) {
 		} );
 
 };
+
 
 
 MTL.onLoadTileHeightMap = function ( src, col = 0, row = 0 ) {
@@ -317,14 +324,17 @@ MTL.onLoadHeightMaps = function ( context ) {
 
 //////////
 
-MTL.getTilesBitmaps = function () {
+MTL.getUrlGoogle = ( x, y, zoom = 1 ) => `https://mt1.google.com/vt/x=${ x }&y=${ y }&z=${ zoom }`;
 
+
+MTL.getTilesBitmaps = function () {
 
 	if ( !MTL.canvasBitmap ) { MTL.canvasBitmap = document.createElement( 'canvas' ); }
 
-	MTL.columnsBitmap = MTL.columns;
-	MTL.rowsBitmap = MTL.rows;
-	MTL.zoomBitmap = MTL.zoom;
+	MTL.delta = 2;
+	MTL.columnsBitmap = 2 * MTL.columns;
+	MTL.rowsBitmap = 2 * MTL.rows;
+	MTL.zoomBitmap = 1 + MTL.zoom;
 
 	MTL.canvasBitmap.width = MTL.pixelsPerTile * MTL.columnsBitmap;
 	MTL.canvasBitmap.height = MTL.pixelsPerTile * MTL.rowsBitmap;
@@ -332,15 +342,15 @@ MTL.getTilesBitmaps = function () {
 	MTL.contextBitmap = MTL.canvasBitmap.getContext( "2d" );
 	//MTL.contextBitmap.clearRect( 0, 0, MTL.canvasBitmap.width, MTL.canvasBitmap.height );
 
-	MTL.tileBitmapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoomBitmap );
-	MTL.tileBitmapCenterY = MTL.latToTile( MTL.latitude, MTL.zoomBitmap );
+	MTL.bitmapTopLeftX = MTL.lonToTile( MTL.tileTopLeftLongitude, MTL.zoomBitmap );
+	MTL.bitmapTopLeftY = MTL.latToTile( MTL.tileTopLeftLatitude, MTL.zoomBitmap );
 	MTL.tileBitmapsLoaded = 0;
 
 	for ( let y = 0; y < MTL.rowsBitmap; y++ ) {
 
 		for ( let x = 0; x < MTL.columnsBitmap; x++ ) {
 
-			const url = MTL.getUrlGoogle( x - MTL.offsetBitmapX, y + MTL.offsetBitmapY, MTL.zoomBitmap );
+			const url = MTL.getUrlGoogle( x + MTL.bitmapTopLeftX + MTL.offsetBitmapX, y + MTL.bitmapTopLeftY + + MTL.offsetBitmapY, MTL.zoomBitmap );
 			MTL.requestFile( url, MTL.onCallbackBitmap, x, y );
 
 		}
