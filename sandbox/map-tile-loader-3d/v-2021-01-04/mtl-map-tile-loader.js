@@ -16,7 +16,7 @@ MTL.longitude = MTL.defaultLongitude = -122.398;
 // MTL.longitude = MTL.defaultLongitude = 114.1693611;
 // MTL.zoom = 11;
 
-MTL.zoom = MTL.defaultZoom = 11;
+MTL.zoom = MTL.defaultZoom = 14;
 MTL.delta = 2;
 
 MTL.rows = MTL.rowsDefault = 3;
@@ -32,13 +32,12 @@ MTL.metersPerPixelPerZoom = [ 156412, 78206, 39103, 19551, 9776, 4888, 2444, 122
 MTL.metersPerPixel = MTL.metersPerPixelPerZoom[ MTL.zoom ];
 
 // following was by trial and error. An algorithm would be nice
-MTL.scale = [ 0.00003, 0.00005, 0.0001, 0.0001, 0.0002, 0.0003, 0.0005, 0.003, 0.009, 0.001, 0.005, 0.02 ];
+MTL.scale = [ 0.00003, 0.00005, 0.0001, 0.0001, 0.0002, 0.0003, 0.0004,  0.0004, 0.002, 0.002, 0.003, 0.02 ];
 MTL.scaleTerrain = MTL.scale[ MTL.zoom - 7 ] * MTL.heightScale;
-
 
 MTL.mapboxToken = 'pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg';
 //MTL.getUrlMapBox = ( x, y, zoom = 1 ) => `https://api.mapbox.com/v1/mapbox.satellite-v9/${ zoom }/${ MTL.tileHeightMapCenterX + x }/${ MTL.tileHeightMapCenterY + y }.png?access_token=${ MTL.mapboxToken }`;
-// https://api.mapbox.com/v1/mapbox.satellite-v9/6/9/25.png?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
+//https://api.mapbox.com/v1/mapbox.satellite-v9/6/9/25.png?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
 
 //MTL.getUrlMapBox = ( x, y, zoom ) => `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/${ zoom }/${ x }/${ y }?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg`;
 
@@ -62,8 +61,6 @@ MTL.init = function () {
 	</summary>
 
 	<div class=divNavResize>
-
-	<div id=MTLdivLog></div>
 
 	<div id=LOCdivDetails ></div>
 
@@ -102,6 +99,9 @@ MTL.init = function () {
 
 	<br>
 
+	<div id=MTLdivLog></div>
+
+
 </details>`;
 
 	MTLdivDetails.innerHTML = htm;
@@ -133,7 +133,7 @@ MTL.onHashChange = function () {
 
 	const zoom = items.find( item => item[ 0 ].includes( "zoom" ) );
 	MTL.zoom = zoom ? ( + zoom[ 1 ] ) : MTL.zoomDefault;
-	console.log( "zoom", MTL.zoom );
+	//console.log( "zoom", MTL.zoom );
 
 	const scale = items.find( item => item[ 0 ].includes( "scale" ) );
 	MTL.heightScale = scale ? ( + scale[ 1 ] ) : MTL.heightScaleDefault;
@@ -181,7 +181,7 @@ MTL.updateMapGroup = function () {
 	MTL.tileTopLeftLongitude = MTL.tile2lon( MTL.tileHeightMapCenterX - Math.floor( 0.5 * MTL.columns ), MTL.zoom );
 	MTL.tileTopLeftLatitude = MTL.tile2lat( MTL.tileHeightMapCenterY - Math.floor( 0.5 * MTL.rows ), MTL.zoom );
 
-	MTL.material = new THREE.MeshNormalMaterial( { side: 2 } );
+	//MTL.material = new THREE.MeshNormalMaterial( { side: 2 } );
 	MTL.getTilesHeightMaps();
 
 	// MTL.geometry = new THREE.PlaneBufferGeometry( MTL.columns * MTL.unitsPerTile, MTL.rows * MTL.unitsPerTile,
@@ -282,7 +282,7 @@ MTL.onLoadTileHeightMap = function ( src, col = 0, row = 0 ) {
 
 MTL.onLoadHeightMaps = function ( context ) {
 
-	MTLdivLog.appendChild( MTL.canvasHeightMap );
+	//MTLdivLog.appendChild( MTL.canvasHeightMap );
 
 	if ( MTL.geometry ) MTL.geometry.dispose();
 
@@ -302,7 +302,7 @@ MTL.onLoadHeightMaps = function ( context ) {
 	MTL.geometry.computeFaceNormals();
 	MTL.geometry.computeVertexNormals();
 
-	console.log( "height map", performance.now() - MTL.timeStart );
+	//console.log( "height map", performance.now() - MTL.timeStart );
 
 	MTL.getMesh();
 
@@ -329,15 +329,6 @@ MTL.getTilesBitmaps = function () {
 	MTL.canvasBitmap.style.cssText = "width:256px;";
 	MTL.contextBitmap = MTL.canvasBitmap.getContext( "2d" );
 	//MTL.contextBitmap.clearRect( 0, 0, MTL.canvasBitmap.width, MTL.canvasBitmap.height );
-
-	// const tileBitmapCenterX = MTL.lonToTile( MTL.longitude, MTL.zoom );
-	// const tileBitmapCenterY = MTL.latToTile( MTL.latitude, MTL.zoom );
-
-	// const tileTopLeftLongitude = MTL.tile2lon( tileBitmapCenterX - Math.floor( 0.5 * MTL.columns ), MTL.zoom );
-	// const tileTopLeftLatitude = MTL.tile2lat( tileBitmapCenterY - Math.floor( 0.5 * MTL.rows ), MTL.zoom );
-
-	// MTL.tileTopLeftLongitude = MTL.tile2lon( MTL.tileHeightMapCenterX - Math.floor( 0.5 * MTL.columns ), MTL.zoom );
-	// MTL.tileTopLeftLatitude = MTL.tile2lat( MTL.tileHeightMapCenterY - Math.floor( 0.5 * MTL.rows ), MTL.zoom );
 
 	MTL.bitmapTopLeftX = MTL.lonToTile( MTL.tileTopLeftLongitude, MTL.zoomBitmap );
 	MTL.bitmapTopLeftY = MTL.latToTile( MTL.tileTopLeftLatitude, MTL.zoomBitmap );
@@ -402,11 +393,6 @@ MTL.onLoadBitmaps = function ( canvas ) {
 };
 
 
-
-//////////
-
-
-
 //////////
 
 MTL.getMesh = function () {
@@ -414,7 +400,6 @@ MTL.getMesh = function () {
 	THR.scene.remove( THR.group );
 
 	//console.log( "MTL.geometry", MTL.geometry );
-
 
 	if ( MTL.geometry && MTL.material ) {
 
