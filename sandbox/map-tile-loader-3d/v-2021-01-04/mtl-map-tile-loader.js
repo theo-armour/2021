@@ -99,6 +99,8 @@ MTL.init = function () {
 
 	<br>
 
+	<div id=SBSdivSelect >ccc</div>
+
 	<div id=MTLdivLog></div>
 
 
@@ -109,6 +111,8 @@ MTL.init = function () {
 	window.addEventListener( "hashchange", MTL.onHashChange );
 
 	LOC.init();
+
+	SBS.init();
 
 	MTL.reset();
 
