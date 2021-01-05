@@ -21,11 +21,10 @@ See: https://theo-armour.github.io/2021/theo-2020-12-31.html#lib3d/map/README.md
 
 ## To Do / Wish List
 
-* 2021-01-03 ~ Add select location instead of links * add populate by script
+
 * 2021-01-03 ~ Add no terrain option
 * 2021-01-03 ~ Add terrain of any material
 * 2021-01-03 ~ Add no bitmap option, normals option
-* Add select height with a slider
 * Add select tile overlay
 * Add export to glTF
 * Add display photos at lat * lon
@@ -38,6 +37,13 @@ See: https://theo-armour.github.io/2021/theo-2020-12-31.html#lib3d/map/README.md
 
 
 ## Change Log
+
+### 2021-01-04
+
+Dealt with
+
+* 2021-01-03 ~ Add select location instead of links * add populate by script
+* Add select height with a slider
 
 ### 2021-01-03
 
