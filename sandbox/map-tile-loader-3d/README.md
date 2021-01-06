@@ -21,7 +21,8 @@ See: https://theo-armour.github.io/2021/theo-2020-12-31.html#lib3d/map/README.md
 
 ## To Do / Wish List
 
-
+* 2021-01-05 ~ Add initial camera position and tile server
+* 2021-01-05 ~ Add bounding box and better zoom
 * 2021-01-03 ~ Add no terrain option
 * 2021-01-03 ~ Add terrain of any material
 * 2021-01-03 ~ Add no bitmap option, normals option
@@ -32,11 +33,20 @@ See: https://theo-armour.github.io/2021/theo-2020-12-31.html#lib3d/map/README.md
 
 ## Issues
 
+* Think about using https://leafletjs.com/
+* https://www.openglobus.org/
 
 ## Links of Interest
 
 
 ## Change Log
+
+### 2021-01-05
+
+* SBS working OK
+* Add more tile servers
+* Adjust settings
+
 
 ### 2021-01-04
 
@@ -44,6 +54,7 @@ Dealt with
 
 * 2021-01-03 ~ Add select location instead of links * add populate by script
 * Add select height with a slider
+* Add start of SBS
 
 ### 2021-01-03
 

@@ -16,7 +16,7 @@ MTL.longitude = MTL.defaultLongitude = -122.398;
 // MTL.longitude = MTL.defaultLongitude = 114.1693611;
 // MTL.zoom = 11;
 
-MTL.zoom = MTL.defaultZoom = 14;
+MTL.zoom = MTL.defaultZoom = 11;
 MTL.delta = 2;
 
 MTL.rows = MTL.rowsDefault = 3;
@@ -35,13 +35,18 @@ MTL.metersPerPixel = MTL.metersPerPixelPerZoom[ MTL.zoom ];
 MTL.scale = [ 0.00003, 0.00005, 0.0001, 0.0001, 0.0002, 0.0003, 0.0004,  0.0004, 0.002, 0.002, 0.003, 0.02 ];
 MTL.scaleTerrain = MTL.scale[ MTL.zoom - 7 ] * MTL.heightScale;
 
-MTL.mapboxToken = 'pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg';
+MTL.mapboxToken = "pk.eyJ1IjoidGhlb2EiLCJhIjoiY" + "2o1YXFra3V2MGIzbzJxb2l" + "neDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg";
 //MTL.getUrlMapBox = ( x, y, zoom = 1 ) => `https://api.mapbox.com/v1/mapbox.satellite-v9/${ zoom }/${ MTL.tileHeightMapCenterX + x }/${ MTL.tileHeightMapCenterY + y }.png?access_token=${ MTL.mapboxToken }`;
 //https://api.mapbox.com/v1/mapbox.satellite-v9/6/9/25.png?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg
 
 //MTL.getUrlMapBox = ( x, y, zoom ) => `https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/${ zoom }/${ x }/${ y }?access_token=pk.eyJ1IjoidGhlb2EiLCJhIjoiY2o1YXFra3V2MGIzbzJxb2lneDUzaWhtZyJ9.7bYFAQabMXiYmcqW8NLfwg`;
 
 
+MTL.getUrlGoogle = ( x, y, zoom ) => `https://mt.google.com/vt/x=${ x }&y=${ y }&z=${ zoom }`;
+MTL.getUrlGoogleSatellite = ( x, y, zoom ) => `https://mt1.google.com/vt/lyrs=y&x=${ x }&y=${ y }&z=${ zoom }`;
+MTL.getUrlEsriSat = ( x, y, zoom ) => `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/${ zoom }/${ y }/${ x }.jpg`;
+
+MTL.getUrl = MTL.getUrlGoogleSatellite;
 
 MTL.init = function () {
 
@@ -123,7 +128,7 @@ MTL.init = function () {
 MTL.onHashChange = function () {
 
 	const items = location.hash.split( "," ).map( item => item.split( ":" ) );
-	console.log( "items", items );
+	//console.log( "items", items );
 
 	MTL.longitude = + items.find( item => item[ 0 ].includes( "longitude" ) )[ 1 ];
 	MTL.latitude = + items.find( item => item[ 0 ].includes( "latitude" ) )[ 1 ];
@@ -316,10 +321,11 @@ MTL.onLoadHeightMaps = function ( context ) {
 
 //////////
 
-MTL.getUrlGoogle = ( x, y, zoom = 1 ) => `https://mt1.google.com/vt/x=${ x }&y=${ y }&z=${ zoom }`;
 
+MTL.getTilesBitmaps = function ( getUrl = MTL.getUrl ) {
 
-MTL.getTilesBitmaps = function () {
+	MTL.getUrl = getUrl;
+	//console.log( "get", getUrl );
 
 	if ( !MTL.canvasBitmap ) { MTL.canvasBitmap = document.createElement( 'canvas' ); }
 
@@ -339,11 +345,13 @@ MTL.getTilesBitmaps = function () {
 
 	MTL.tileBitmapsLoaded = 0;
 
+	//getUrl = MTL.getUrlGoogle;
+
 	for ( let y = 0; y < MTL.rowsBitmap; y++ ) {
 
 		for ( let x = 0; x < MTL.columnsBitmap; x++ ) {
 
-			const url = MTL.getUrlGoogle( x + MTL.bitmapTopLeftX + MTL.offsetBitmapX, y + MTL.bitmapTopLeftY + + MTL.offsetBitmapY, MTL.zoomBitmap );
+			const url = getUrl( x + MTL.bitmapTopLeftX + MTL.offsetBitmapX, y + MTL.bitmapTopLeftY + + MTL.offsetBitmapY, MTL.zoomBitmap );
 			MTL.requestFile( url, MTL.onCallbackBitmap, x, y );
 
 		}
@@ -391,7 +399,7 @@ MTL.onLoadBitmaps = function ( canvas ) {
 	MTL.material = new THREE.MeshPhongMaterial( { color: 0xffffff, map: MTL.texture, side: 2 } );
 	//MTL.material = new THREE.MeshBasicMaterial( { map: texture, side: 2 } );
 
-	console.log( "bitmap", performance.now() - MTL.timeStart );
+	//console.log( "bitmap", performance.now() - MTL.timeStart );
 	MTL.getMesh();
 
 };
@@ -438,7 +446,7 @@ MTL.getMesh = function () {
 		}
 		THR.scene.add( THR.group );
 
-		console.log( "get mesh", performance.now() - MTL.timeStart );
+		//console.log( "get mesh", performance.now() - MTL.timeStart );
 
 	}
 
