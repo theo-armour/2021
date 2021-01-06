@@ -9,8 +9,7 @@ function init () {
 
 	const description = document.head.querySelector( "[ name=description ]" ).content;
 
-
-	MNU.path = "../../../";
+	MNU.path = location.protocol === "https:" || !window.top ? "https://theo-armour.github.io/2021/" : "../../../";
 	MNU.init();
 
 	spnTitle.innerHTML = "US County Presidents Vote";
