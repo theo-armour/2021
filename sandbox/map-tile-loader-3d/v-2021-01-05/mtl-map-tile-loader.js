@@ -431,7 +431,7 @@ MTL.getMesh = function () {
 		//console.log( "radius", radius );
 
 		THR.camera.position.copy(
-			THR.center.clone().add( new THREE.Vector3( 0 * radius, -0.8 * radius, 0.8 * radius ) )
+			THR.center.clone().add( new THREE.Vector3( 0 * radius, -1.0 * radius, 0.3 * radius ) )
 		);
 
 		if ( THR.lightDirectional ) {

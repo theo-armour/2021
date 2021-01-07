@@ -18,20 +18,41 @@ _US County Votes in a resizable window. One finger to rotate. Two to zoom. Three
 
 Mission
 
-To display the changes in voting margins by party over a series of elections for every county in the USA
+* To display the changes in voting margins by political parties over a series of elections for every county in the USA
+* Display the relative importance of each county by indicating the size of the margin and the number of voters distinctly for each county
+* Provide the numbers behind each visual on demand in real time
+* Compare visually the margins for a series of elections
+
+
 
 Vision
 
-Where do we want this to go? and why?
+* Where do we want this to go? and why?
+* Provide a rationale with demographic evidence as to the variety of outcomes
+* Enable access to demographics such as income, education and health for each county
+* Create charts useful to people with great domain expertise in politics and economics and the the social sciences
+* Help them identify and catalog nuances in huge data sets
+* Build charts that may challenge common understandings by making hitherto unseen trends apparent and and measurable
+
+Features
+
+* bar charts compressed into overlaid 3D [proportional symbols]( https://wiki.gis.com/wiki/index.php/Proportional_symbol_map ) enabling a instance or location to represent multiple values
+* pop-up windows provide instant access to the actual numbers
+* Zoom, rotate and pan enable detailed exploration of both laregest and tiniest symbols
+
 
 ## To Do / Wish List
 
+* Indicate the swing of each county in relation to previous election
+* Use arrows and direction to indicate magnitude of swing
+* Increase the curvature??
+* Enable toggles to linear anf exponential height of bars
 * Streamline the data wrangler
 	* Make it produce a single file to load
 * Add display of multiple-flip states
-* Animate the years
+* Animate the year updates
 * Add color shading
-* Highlight winner in pop-up
+* Highlight county winning party in pop-up
 * Show state boundaries and shade slightly with winning color
 * Add education, health and wealth characteristics
 * Tidy the code
@@ -68,6 +89,11 @@ Where do we want this to go? and why?
 
 ## Change Log
 
+### 2021-01-06
+
+* Fix broken icons in iframr
+* update readme
+
 ### 2020-12-16
 
 * Add updated geojson utility that works as expected - at last
@@ -81,23 +107,22 @@ Done
 
 ### 2020-12-11
 
-The chart you are looking at may be one of the most complex charts you have ever viewed.
+The chart you are looking at may be one of the most complex charts you have ever viewed. This chart is not for the faint-hearted. This is intentional. 
 
-This chart is not for the faint-hearted.
+In five years time the same future chart will display twice the data in half the time. Fingers crossed they find better methods of visualization.
 
-In five years time this chart will display twice the data in half the time.
 
 Welcome to the future.
 
 The chart links to over 50,000 lines of records
-The chart displays 3,114 individual data points
+The chart displays 3D proportional symbols for 3,114 counties
 Each data point display its area
 Each data point displays its geophysical characteristics
 Each data point may display the data of five different date cohorts
 Each data point displays three tallies scaled by the total numbers
 Separate indicators display two sets of differences with previous cohorts
 
-It would take 15,000 pie charts to display this data.
+It would take 18,923 pie charts to display this data.
 
 As you move your pointer over each data point a bunch more data points are displayed in a pop-up window next to the cursor
 	* Includes likes to Google search results for the selected data point
@@ -116,7 +141,7 @@ Future releases may
 	* Levels of education
 	* Per capita income
 	* Healthiness
-	* Metrics of which I am clueless
+	* Metrics of which I am as yet clueless
 * Load and display faster
 * Animate the display of the date data
 * Expose more sophisticated shading rendering techniques
@@ -215,7 +240,7 @@ The over-arching goal always: you understand the map without having to look at t
 
 ### 2020-11-17
 
-* Add color varies RGB( %rep, 0, %dem)
+* Add color varies RGB( %rep, 0, %dem )
 * Add years 2010 to 2018;
 
 
