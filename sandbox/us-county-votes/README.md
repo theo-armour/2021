@@ -14,6 +14,15 @@ _US County Votes in a resizable window. One finger to rotate. Two to zoom. Three
 ### Full Screen: [US County Votes]( https://theo-armour.github.io/2021/sandbox/us-county-votes/ )
 
 
+## Team
+
+Brian M Hamlin <maplabs@light42.com>,
+John Head <jfhead@headlawyers.com>,
+Cynthia Burrage Armour <armour.cb@gmail.com>,
+Don Mesa <donmesa@sbcglobal.net>,
+John Maeck <mwfarmcsa@gmail.com>,
+Jose Leos <joseleos@gmail.com>
+
 ## Concept
 
 Mission
