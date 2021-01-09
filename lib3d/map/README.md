@@ -120,7 +120,7 @@ Mostly working as expected
 
 ### 2020-07-31
 
-* Add: * Enable selecting from the various sources bitmap tile servers
+* Add: Enable selecting from the various sources bitmap tile servers
 * Add: direction arrows and code to update location
 * Add: Update the height scale in real time with a slider
 
