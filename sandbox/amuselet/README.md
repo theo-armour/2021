@@ -7,11 +7,11 @@ value='You are now in a GitHub web page view - Click this button to view this re
 # [Amuselet Read Me]( https://theo-armour.github.io/2021/sandbox/amuselet/readme.html )
 
 <!--@@@
-<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/ sandbox/amuselet/ height=100% width=100% ></iframe></div>
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/sandbox/amuselet/ height=100% width=100% ></iframe></div>
 _Amuselet in a resizable window. One finger to rotate. Two to zoom._
+@@@-->
 
 ### Full Screen: [Amuselet]( https://theo-armour.github.io/2021/sandbox/amuselet/ )
-@@@-->
 
 
 ## Concept
