@@ -1,13 +1,32 @@
-## Goals
+# Goals
 
-this is about goals. this is not about
+This is about goals. this is not about
 
 * Time management ~ GTD
 * Changing behavior ~ Covey
 * Feelings or [Emotions]( https://society6.com/product/wheel-of-emotions_print )
 
-## Introduction
+## Summary
 
+* Knowing ~ Perceive ~ Health goals - Personal goals ~ individual
+* Being ~ Judge ~ Family goals - Spiritual goals ~ family & friends
+* Doing ~ Act ~ Career goals - Money/finance goals ~ society
+
+Plus the why for each
+
+* Happiness, Beauty, Security
+
+Links
+
+* https://en.wikipedia.org/wiki/Happiness
+* https://en.wikipedia.org/wiki/Beauty
+* https://en.wikipedia.org/wiki/Security
+	* https://en.wikipedia.org/wiki/Peace
+	* https://en.wikipedia.org/wiki/Safety
+	* https://en.wikipedia.org/wiki/Risk_management
+
+
+## Introduction
 
 Anyway, As  I was adding topics, I decoded I needed a way of cataloging or categorizing the topics. I tried to apply my "Perceive Act Judge" ideas and this was a fail. There seemed to be no reason as to why one of these categories was better or more focussed on an activity than the others. Maslow's Hierarchy also was of little help. So then I started rummaging through my bookmarks and hit a gold mine - that hit the goal line.
 
@@ -177,6 +196,7 @@ Spiritual, Family & Friends, Romance, Social
 * Mindfulness, Self examination
 * Character - what to stand for
 
+***
 
 ## Parsing ~ 10 Commandments
 
@@ -236,6 +256,14 @@ Spiritual, Family & Friends, Romance, Social
 * Perceiving - yours is better than mine
 * Act ~ de
 
+More lists to parse
+
+* https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
+* https://en.wikipedia.org/wiki/Seven_virtues - and sins
+* https://en.wikipedia.org/wiki/Virtue_ethics#Lists_of_virtues
+
+
+***
 
 ## Links of interest
 
@@ -246,8 +274,3 @@ Spiritual, Family & Friends, Romance, Social
 * https://en.wikipedia.org/wiki/Manfred_Max-Neef's_Fundamental_human_needs
 * Yikes: http://www.scientologycourses.org/courses-view/tone-scale/step/the-hubbard-chart-of-human-evaluation.html
 
-Lists to parse
-
-* https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
-* https://en.wikipedia.org/wiki/Seven_virtues - and sins
-* https://en.wikipedia.org/wiki/Virtue_ethics#Lists_of_virtues

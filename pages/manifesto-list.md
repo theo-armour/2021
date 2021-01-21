@@ -1,8 +1,12 @@
 # List of Manifestos
 
-* * https://en.wikipedia.org/wiki/Manifesto
+* https://en.wikipedia.org/wiki/Manifesto
 
 > A manifesto is a published declaration of the intentions, motives, or views of the issuer, be it an individual, group, political party or government. A manifesto usually accepts a previously published opinion or public consensus or promotes a new idea with prescriptive notions for carrying out changes the author believes should be made. It often is political or artistic in nature, but may present an individual's life stance. Manifestos relating to religious belief are generally referred to as creeds.
+
+* https://en.wikipedia.org/wiki/Art_manifesto
+
+> An art manifesto is a public declaration of the intentions, motives, or views of an artist or artistic movement. Manifestos are a standard feature of the various movements in the modernist avant-garde and are still written today. Art manifestos are sometimes in their rhetoric intended for shock value, to achieve a revolutionary effect. They often address wider issues, such as the political system. Typical themes are the need for revolution, freedom (of expression) and the implied or overtly stated superiority of the writers over the status quo.[citation needed] The manifesto gives a means of expressing, publicizing and recording ideas for the artist or art group—even if only one or two people write the words, it is mostly still attributed to the group name.
 
 ## Examples of manifestos
 
