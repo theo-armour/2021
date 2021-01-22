@@ -8,18 +8,40 @@ This is about goals. this is not about
 
 ## Summary
 
-* Knowing ~ Perceive ~ Health goals - Personal goals ~ individual
-* Being ~ Judge ~ Family goals - Spiritual goals ~ family & friends
-* Doing ~ Act ~ Career goals - Money/finance goals ~ society
+* Knowing ~ Perceive ~ Health goals - Personal goals ~ individual ~ short term
+* Being ~ Judge ~ Family goals - Spiritual goals ~ family & friends & tribes & clans ~ social ~ medium term
+* Doing ~ Act ~ Career goals - Money/finance goals ~ society ~ global ~ long term
 
 Plus the why for each
 
 * Happiness, Beauty, Security
 
-Links
+or
+
+* Knowing = Happiness
+* Being = Beauty
+* Doing = Security
+
+
+### Happiness ~ Personal
 
 * https://en.wikipedia.org/wiki/Happiness
+	>The term happiness is used in the context of mental or emotional states, including positive or pleasant emotions ranging from contentment to intense joy. It is also used in the context of life satisfaction, subjective well-being, eudaimonia, flourishing and well-being.
+* https://en.wikipedia.org/wiki/Eudaimonia
+	>Eudaimonia is a Greek word commonly translated as 'happiness' or 'welfare'; however, more accurate translations have been proposed to be 'human flourishing, prosperity' and 'blessedness'
+
+### Beauty
+
 * https://en.wikipedia.org/wiki/Beauty
+* https://en.wikipedia.org/wiki/Beauty_(ancient_thought)
+	* Beauty = Good = Justice??
+
+### Security
+
+Security = freedoms from and rights to
+
+The feeling of being free from encountering harm and of having the right to prosper
+
 * https://en.wikipedia.org/wiki/Security
 	* https://en.wikipedia.org/wiki/Peace
 	* https://en.wikipedia.org/wiki/Safety
@@ -72,48 +94,10 @@ How do these fit in?
 * Recurring goals
 * Immediate goals
 
-
-## Do ~ Acting Goals
-
-Christian trinity: God ~ there at the start and finish
-
-* Who: team - collaborative ~ with others - outward looking
-* When: timelines ~ start & finish ~ deadlines
-* Why: Pinnacle Time / Hope? - which is a future time
-* Where: office
-
-Doing: ::Fireworks:: Level 3, Production
-
-**money** ~ fame/power ~ love
-
-Knowing ~ Being ~ **Doing**
-
-**Mission** ~ Vision ~ Values
-
-Primary senses: touch smell taste *hear* *see* things at a distance
-
-### What Acting Goals
-
-Career, Money, Business, Finance, Education, Personal Development
-
-* Career - yours ?
-* Business - theirs ?
-* Finances
-* Money
-	* Expenses, advisors, debt
-* Education
-* Occupation
-* Planning Design Preparing Projects
-* Citizenship Civics
-* Mission
-* Events awareness
-* Consuming media
-* Aging Legacy Retirement
-* Intellectual Learning Research
-* Admin? Managing
+***
 
 
-## Know ~ Perceiving Goals
+## Knowing ~ Perceiving Goals ~ Happiness
 
 Christian trinity: Jesus ~ here for a short time
 
@@ -121,6 +105,8 @@ Christian trinity: Jesus ~ here for a short time
 * when: timed
 * Where: house / a room / inward looking
 * Why: pinnacle: Beauty / Aesthetics
+
+### Place in the triads
 
 Doing: level 1 - activity
 
@@ -132,7 +118,8 @@ Mission ~ **Vision** ~ Values
 
 Primary senses: *touch* *smell* *taste* things at hand hear see
 
-### What Perceiving Goals
+
+### The What of Knowing
 
 Health, Physical environment, Leisure, Fun & Recreation
 
@@ -154,7 +141,7 @@ Health, Physical environment, Leisure, Fun & Recreation
 * Simplify Minimalism
 
 
-## Be ~ Judging Goals
+## 2. Being ~ Judging Goals ~ Beauty
 
 Christian trinity: Holy ghost
 
@@ -162,6 +149,9 @@ Christian trinity: Holy ghost
 * When: timeless
 * Why: Pinnacle: Love
 * Where: in nature
+
+
+### Place in the Triads
 
 BrainLevel:: 2-Deliberate-based doing
 
@@ -173,7 +163,7 @@ money ~ **fame/power** ~ love
 
 senses: touch smell taste hear see - none but listen to your heart, feelings, intuition
 
-### What "Being" Goals
+### The What of Being
 
 Spiritual, Family & Friends, Romance, Social
 
@@ -195,6 +185,49 @@ Spiritual, Family & Friends, Romance, Social
 * Empathy Pity Compassion
 * Mindfulness, Self examination
 * Character - what to stand for
+
+
+## 3 Doing ~ Acting Goals ~ Security
+
+Christian trinity: God ~ there at the start and finish
+
+* Who: team - collaborative ~ with others - outward looking
+* When: timelines ~ start & finish ~ deadlines
+* Why: Pinnacle Time / Hope? - which is a future time
+* Where: office
+
+### Place in the Triads
+
+Doing: ::Fireworks:: Level 3, Production
+
+**money** ~ fame/power ~ love
+
+Knowing ~ Being ~ **Doing**
+
+**Mission** ~ Vision ~ Values
+
+Primary senses: touch smell taste *hear* *see* things at a distance
+
+### The What of Doing
+
+Career, Money, Business, Finance, Education, Personal Development
+
+* Career - yours ?
+* Business - theirs ?
+* Finances
+* Money
+	* Expenses, advisors, debt
+* Education
+* Occupation
+* Planning Design Preparing Projects
+* Citizenship Civics
+* Mission
+* Events awareness
+* Consuming media
+* Aging Legacy Retirement
+* Intellectual Learning Research
+* Admin? Managing
+
 
 ***
 
