@@ -23,6 +23,8 @@ or
 * Doing = Security
 
 
+
+
 ### Happiness ~ Personal
 
 * https://en.wikipedia.org/wiki/Happiness
@@ -306,4 +308,11 @@ More lists to parse
 * https://en.wikipedia.org/wiki/Metamotivation
 * https://en.wikipedia.org/wiki/Manfred_Max-Neef's_Fundamental_human_needs
 * Yikes: http://www.scientologycourses.org/courses-view/tone-scale/step/the-hubbard-chart-of-human-evaluation.html
+
+## Jornal
+
+### 2021-01-24
+
+
+Is sustainability a better word than security? Does sustainability include rights and freedoms?
 

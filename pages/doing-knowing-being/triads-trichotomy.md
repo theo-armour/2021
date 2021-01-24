@@ -1,5 +1,40 @@
 
-# Perception /  Action / Judgment /
+# Triads or Trichotomy
+
+* https://en.wikipedia.org/wiki/Triad
+* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
+	* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
+* https://en.wikipedia.org/wiki/Triad_(religion)
+* https://en.wikipedia.org/wiki/Rule_of_three_(writing)
+* https://en.wikipedia.org/wiki/Rule_of_thirds
+* https://en.wikipedia.org/wiki/Hendiatris
+* https://en.wikipedia.org/wiki/The_three_Rs
+* https://en.wikipedia.org/wiki/Trivium
+* https://en.wikipedia.org/wiki/Isocolon#Tricolon
+* https://en.wikipedia.org/wiki/Trilemma
+
+About
+
+* https://en.wikipedia.org/wiki/Epistemological_pluralism
+* https://en.wikipedia.org/wiki/Epistemological_anarchism
+* https://en.wikipedia.org/wiki/Sensemaking
+* https://en.wikipedia.org/wiki/Concept_map
+* https://en.wikipedia.org/wiki/Multimethodology
+
+Also of possible related interest
+
+* https://en.wikipedia.org/wiki/Inconsistent_triad
+* https://en.wikipedia.org/wiki/Condorcet_paradox
+* https://en.wikipedia.org/wiki/Project_management_triangle
+* https://en.wikipedia.org/wiki/Ternary_plot
+* https://en.wikipedia.org/wiki/Category:3_(number)
+* https://en.wikipedia.org/wiki/Threesome
+* https://en.wikipedia.org/wiki/Triadization
+* https://en.wikipedia.org/wiki/Beck%27s_cognitive_triad
+* https://en.wikipedia.org/wiki/VPEC-T
+
+
+Perception /  Action / Judgment /
 
 ## money ~ fame/power ~ love
 
@@ -58,6 +93,12 @@ Computer terms
 
 * Problems 		syntax|grammar 		solution
 
+## Hegelian Dialectic
+
+thesis-antithesis-synthesis
+
+* https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic
+
 
 ## John Locke
 
@@ -84,4 +125,11 @@ https://en.wikipedia.org/wiki/OODA_loop
 ## SWOT
 
 https://en.wikipedia.org/wiki/SWOT_analysis
+
+
+## Ferdinandi
+
+Code, get stuck, research, repeat
+
+* https://gomakethings.com/code-get-stuck-research-repeat
 
