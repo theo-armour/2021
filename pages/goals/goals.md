@@ -22,7 +22,7 @@ or
 * Being = Beauty
 * Doing = Security
 
-
+Does sustainability = security?
 
 
 ### Happiness ~ Personal
