@@ -3,7 +3,7 @@
 
 ## 2021-02-03
 
-* Category ~ Functor ~ Natural Transformation: yet another triadic
+* Category ~ Functor ~ Natural Transformation >> yet another triadic
 * When comparing triadics to ACT, try all four settings choices
 * To do: parse: "What is Applied Category Theory"
 
@@ -31,8 +31,8 @@
 * http://lambda-the-ultimate.org/node/5581
 
 ## Dave Spivak
+
 * http://math.mit.edu/~dspivak/
-* http://math.mit.edu/~dspivak
 * http://math.mit.edu/~dspivak/CT4S.pdf
 * http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf
 
