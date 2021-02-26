@@ -28,6 +28,12 @@
 
 * https://fridaysforfuture.org/
 * https://humanact.org/movehumanity/
+* https://thp.org/news/a-working-framework-for-2030-sustainable-development-goals/
+* https://amrefusa.org/sustainable-development-goals/
+* https://www.istat.it/en/well-being-and-sustainability/sustainable-development-goals/useful-links
+* https://catalyst2030.net/resources/useful-links/
+
+
 
 
 ## Green Manifesto
