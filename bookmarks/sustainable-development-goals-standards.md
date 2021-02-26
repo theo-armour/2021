@@ -30,6 +30,11 @@
 * https://humanact.org/movehumanity/
 
 
+## Green Manifesto
+
+Bill Gates: My green manifesto
+* https://www.ft.com/content/c11bb885-1274-4677-ba05-fcbac67dc808
+
 ### Me
 
 * Where is the beauty?

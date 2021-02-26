@@ -38,6 +38,7 @@ mailman data accessible only via admin
 
 ### jaanga.com
 
+2021-02-25 gone??
 
 * https://admin.google.com/jaanga.com/
 * https://admin.google.com/jaanga.com/VerifyAdminAccountPasswordReset
