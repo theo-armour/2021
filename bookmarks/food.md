@@ -56,16 +56,26 @@ vinegar drinks are good
 * Dash of Sriracha
 * Dollop of ginger paste
 
-
-
-
-
-
 ### Beer
 
 * https://thetakeout.com/5-beer-styles-recommendation-for-total-newbies-1830591759
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzE2Njc3NSwxMjY0NTY2MTM0LC02ND
-Q0ODI2MDJdfQ==
--->
+
+## Vegetables
+
+* https://en.wikipedia.org/wiki/List_of_leaf_vegetables
+* https://news.ycombinator.com/item?id=26133601
+* https://news.ycombinator.com/item?id=25914008
+
+* Lamb's Quarters
+* Good King Henry
+* Siberian spring beauty
+* Spotted Cat's-ear
+* Fishwort
+* John's Cabbage
+* Shawnee Sala
+* Dragon's head
+* Henbit deadnettle
+* Nipplewort
+* Gooseneck Loosestrife
+* Love-restorer
