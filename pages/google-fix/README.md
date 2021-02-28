@@ -2,6 +2,20 @@
 
 ## [8-0957000031103] Your Google Fi Support Inquiry
 
+## Codes
+
+Dial
+* *#*#34963#*#* ~ repair service
+* *#*#344636#*#* ~ identify service
+
+Text
+* 32665 facebook > "To stop receiving texts from Facebook, reply stop. ..."
+* 89203 Uber > no reply
+* 22444 google > no reply
+* 256447 google > "Sorry, this service is not available"
+* 55074 Lyft > "Sorry, this service is not available"
+* 46080 Lyft > "Lyft Alerts: Help at support@lyft.com ..."
+
 ## Devices and apps used for Testing
 
 * Google Pixel 5 with Hangouts, Messages, Telegram etc
@@ -12,6 +26,22 @@
 `latest Win10
 	* OS and apps all on auto-update
 * Samsung Chromebook with Google Hangouts, Google Messages
+
+## 2021-02-27
+
+Hi Krishana
+
+Thank you for taking this case on.
+
+>> It seems that the issues are only with the Lynk app on your device.
+
+Actually, currently there are two codes that do not work: Lyft is one plus one of the Google codes. The third one (for Uber) mysteriously started working again. Would you like me to search for others?
+
+>> I suggest you check the permissions for the Lynk App on your device
+
+Which device? I am currently testing on four devices? ;-)
+
+BTW, I checked the Google Pixel 5. It reports "no permissions denied" for the Lyft app.
 
 ## 2021-02-26
 
@@ -36,7 +66,7 @@ Request a verification code from Uber app
 
 10:56
 
-Dial the code: *#*#34963#*#*
+Dial the code: *#*#34963#*#* ~
 
 Reply appears via Notification service
 > Google Fi
@@ -100,7 +130,7 @@ Using the Lyft app on W10 computer, I requested a verification code, but none ap
 
 To: 32665 (facebook)> Help reply "To stop receiving texts..."
 To: 89203 (uber)> Help reply > no reply appears for over a minute
-To: 22444 (google)> Help reply > no reply appears for over a minute
+To: 22444 (google) > Help reply > no reply appears for over a minute
 To: 256447 (google)> Help reply > "Sorry, this service is not available."
 
 WiFi Only / No mobile connection

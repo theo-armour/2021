@@ -15,3 +15,7 @@
 * https://rzero.com/
 * https://www.independent.com/2020/11/11/r-zeros-uvc-lamp-fights-covid-in-restaurants-classrooms-and-beyond/
 
+## accommodating
+
+* https://www.nytimes.com/2021/01/01/opinion/nursing-home-senior-living-coronavirus.html
+* https://www.nytimes.com/2020/12/16/opinion/nursing-home-pandemic-life.html
