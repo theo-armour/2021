@@ -36,7 +36,6 @@ Short codes that respond to a "HELP" text - includes first part of text message 
 * 32665 > Facebook > "To stop receiving texts from Facebook, reply stop. ..."
 * 692632 > BofA > "BofA: For more info, go to https://www.bankofamerica.com."
 * 242733 > Chase > "From: Chase Online Reminder: We'll never call you to ask for this code ..."
-
 * 729725 > PayPal > "PayPal: For assistance, please visit the Help Center"
 * 777539 > ?? > "Sorry, this service is not available"
 * 72488 > ?? > "For HELP with alerts, please call the number on the back of your card."
@@ -47,6 +46,10 @@ Short codes that do not respond to a "HELP" text
 
 * 42904 > ?? > No reply
 * 48368 > ?? > No reply
+* 89203 (uber) > No reply
+* 224444 (google) > No reply
+
+
 
 ## 2021-02-27
 
