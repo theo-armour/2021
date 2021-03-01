@@ -8,9 +8,9 @@ This is about goals. this is not about
 
 ## Summary
 
-* Knowing ~ Perceive ~ Health goals - Personal goals ~ individual ~ short term
-* Being ~ Judge ~ Family goals - Spiritual goals ~ family & friends & tribes & clans ~ social ~ medium term
-* Doing ~ Act ~ Career goals - Money/finance goals ~ society ~ global ~ long term
+* Knowing ~ Perceive ~ Happiness ~ Health goals - Personal goals ~ individual ~ short term
+* Being ~ Judge ~ Family goals ~ Beauty - Spiritual goals ~ family & friends & tribes & clans ~ social ~ medium term
+* Doing ~ Act ~ Career goals ~ Security - Money/finance goals ~ society ~ global ~ long term
 
 Plus the why for each
 

@@ -33,7 +33,9 @@ file:///D:/
 ## JavaScript Fun Tip Collections
 
 15 HTML element methods you’ve potentially never heard of
-https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
+* https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
 
-
+6 Unpopular and Powerful HTML Features that You Should Know
+* https://javascript.plainenglish.io/6-unpopular-and-powerful-html-features-that-you-should-know-a0c3d62f1294
+> <meter> attribute: required draggable=true defer(!) abbr = identify items with titles
 

@@ -7,6 +7,10 @@
 * https://en.wikipedia.org/wiki/List_of_Sustainable_Development_Goal_targets_and_indicators
 * https://www.cfr.org/backgrounder/sustainable-development-goals
 
+## Viz
+
+* https://globaldatalab.org/sdgs/
+
 ## Climate
 
 * https://unfccc.int/news/applications-for-10th-anniversary-edition-of-the-un-global-climate-action-awards-now-open
