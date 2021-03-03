@@ -33,21 +33,22 @@ On a Win10 computer using Google Messages
 
 Short codes that respond to a "HELP" text - includes first part of text message received:
 
+* 242733 > Chase > "From: Chase Online Reminder: We'll never call you to ask for this code ..."
+* 256447 > ?? > "Sorry, this service is not available."
 * 32665 > Facebook > "To stop receiving texts from Facebook, reply stop. ..."
 * 692632 > BofA > "BofA: For more info, go to https://www.bankofamerica.com."
-* 242733 > Chase > "From: Chase Online Reminder: We'll never call you to ask for this code ..."
+* 692484 > Citi > "1/2 Citi: If you have any questions about your account,"
 * 729725 > PayPal > "PayPal: For assistance, please visit the Help Center"
 * 777539 > ?? > "Sorry, this service is not available"
 * 72488 > ?? > "For HELP with alerts, please call the number on the back of your card."
-* 77982 Cielo > "This is a service from Cielo Alerts."
-* 692484 > Citi > "1/2 Citi: If you have any questions about your account,"
+* 77982 > Cielo > "This is a service from Cielo Alerts."
 
 Short codes that do not respond to a "HELP" text
 
+* 224444 (google) > No reply
 * 42904 > ?? > No reply
 * 48368 > ?? > No reply
 * 89203 (uber) > No reply
-* 224444 (google) > No reply
 
 
 
