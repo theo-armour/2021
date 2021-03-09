@@ -18,3 +18,7 @@ Transform your handwriting or calligraphy into a font!
 
 Copy and paste icon SVG code
 * https://inspyr.io/
+
+## Tips
+
+https://css-tricks.com/the-art-of-comments/

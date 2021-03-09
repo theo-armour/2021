@@ -1,6 +1,8 @@
 
 # perceive-judge-act
 
+* https://tachy.org/posts/book-of-why/
+
 ## The Rules of Life
 
 * Your attitude is your life
@@ -35,7 +37,6 @@ Edward M. Glaser proposed that the ability to think critically involves three el
 * An attitude of being disposed to consider in a thoughtful way the problems and subjects that come within the range of one's experiences
 * Knowledge of the methods of logical inquiry and reasoning
 * Some skill in applying those methods.
-
 
 
 
@@ -125,3 +126,9 @@ If you vow to change, then … change. "Words without action are empty and meani
 	* An app / chrome extension!
 
 * <https://www.taramohr.com/8-ways-women-undermine-themselves-with-their-words/>
+
+## Mental Models
+
+https://www.farnamstreetblog.com/mental-models/
+
+
