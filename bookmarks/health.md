@@ -20,3 +20,8 @@ Access to current stories and articles on recent research
 ## Forums
 
 Web sites where you can ask questions about diet and receive replies
+
+## Hearing
+
+* https://www.nytimes.com/wirecutter/blog/is-your-hearing-at-risk/
+* https://www.hearingspeech.org/

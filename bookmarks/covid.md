@@ -1,5 +1,18 @@
 # COVID
 
+
+## CMS
+
+* https://www.cms.gov/newsroom/fact-sheets/cms-updates-nursing-home-guidance-revised-visitation-recommendations
+
+McKm\night
+
+* https://www.mcknights.com/news/breaking-cms-eases-nursing-home-visitation-rules/
+
+## Leadingage
+
+* https://www.leadingage.org/regulation/nursing-home-visitation-guidance-updated
+
 ## Immunity
 
 * https://www.wsj.com/articles/well-have-herd-immunity-by-april-11613669731
