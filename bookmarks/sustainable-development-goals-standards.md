@@ -10,6 +10,8 @@
 ## Viz
 
 * https://globaldatalab.org/sdgs/
+* Variable font: https://www.itsnicethat.com/news/climate-crisis-font-daniel-coull-eino-korkala-helsingin-sanomat-tbwa-helsinki-graphic-design-220221
+
 
 ## Climate
 
