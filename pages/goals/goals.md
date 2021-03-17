@@ -8,9 +8,9 @@ This is about goals. this is not about
 
 ## Summary
 
-* Knowing ~ Perceive ~ outcome: Happiness ~ Health goals ~ owner: Personal goals ~ individual ~ time: short term
-* Being ~ Judge ~ Family goals ~ outcome: Beauty - Spiritual goals ~ owner: family & friends & tribes & clans ~ social ~ time: medium term
-* Doing ~ Act ~ Career goals ~ outcome: Security - Money/finance goals ~ owner: society ~ global ~ time: long term
+* Knowing ~ Perceive ~ outcome: Happiness ~ Health goals ~ owner: Personal goals ~ individual ~ time: short term ~ Location: places, communication between places
+* Being ~ Judge ~ Family goals ~ outcome: Beauty - Spiritual goals ~ owner: family & friends & tribes & clans ~ social ~ time: medium term ~ people Location: on a person
+* Doing ~ Act ~ Career goals ~ outcome: Security - Money/finance goals ~ owner: society ~ global ~ time: long term ~ service, working, careers ~ Location on a group of people
 
 Plus the why for each
 
@@ -26,6 +26,7 @@ Does sustainability = security?
 
 * How we gauge our degrees of success
 * Actions, Owners, Time-frames, Resources, Outcomes
+
 
 ### Happiness ~ Personal
 
