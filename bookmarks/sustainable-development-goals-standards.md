@@ -32,6 +32,7 @@
 
 ## Others
 
+* https://www.investopedia.com/terms/c/corp-social-responsibility.asp
 * https://fridaysforfuture.org/
 * https://humanact.org/movehumanity/
 * https://thp.org/news/a-working-framework-for-2030-sustainable-development-goals/
