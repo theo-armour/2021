@@ -1,19 +1,17 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://theo-armour.github.io/2021/bookmarks/readme.html  "View file as a web page." ) </span>
 
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://pushme-pullyou.github.io/#snippets/bookmarks/README.md "View file as a web page." ) </span>
+<div><input type=button onclick=window.top.location.href="https://github.com/theo-armour/2021/tree/master/bookmarks/";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
 
-<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="https://github.com/pushme-pullyou/pushme-pullyou.github.io/blob/master/snippets/bookmarks/README.md"
-value="You are now in a GitHub web page view - Click this button to view this read me file as source code" ></div>
 
-<br>
+# [Bookmarks Read Me]( https://theo-armour.github.io/2021/bookmarks/readme.html )
 
-# [Bookmarks Read Me]( #snippets/bookmarks/README.md )
+<!--  @@@
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/ bookmarks/ height=100% width=100% ></iframe></div>
+_Bookmarks in a resizable window. One finger to rotate. Two to zoom._
+@@@  -->
 
-<!--
-<iframe src=https://pushme-pullyou.github.io/snippets/bookmarks/snippets/bookmarks.html width=100% height=500px >Iframes are not viewable in GitHub source code views</iframe>
-_<small>Bookmarks</small>_
-
-## Full Screen: [Bookmarks]( https://pushme-pullyou.github.io/snippets/bookmarks/snippets/bookmarks.html )
--->
+### Full Screen: [Bookmarks]( https://theo-armour.github.io/2021/bookmarks/ )
 
 
 ## Concept
@@ -28,15 +26,14 @@ _<small>Bookmarks</small>_
 ## Links of Interest
 
 
-
 ## Change Log
 
-### 2018-11-25
 
-* First commit
+### 123
+
+* 2021-03-24
 
 
 ***
 
-# <center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > ❦ </a></center>
-
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
