@@ -1,15 +1,25 @@
 # Music
 
-## Awesome lists on GitHub
+## Franks list
 
-* https://github.com/ad-si/awesome-music-production
+* https://www.notion.so/CLASSICAL-MUSIC-LINKS-fed0e52e34174b14bf8d8359b7744153
+
+## Awesome lists on [GitHub]( https://github.com)
+
+GitHub - "Where the world builds software" - "Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world."
+
+Creating the ["Awesome list of <whatevers>"]( https://github.com/topics/awesome-list ) is a favored thing to do in GitHub. Here are links to a few GitHub awesome list that pertain to music
+
 * https://github.com/ciconia/awesome-music
+* https://github.com/ad-si/awesome-music-production
 * https://github.com/DolbyIO/awesome-audio
 * https://github.com/pjagielski/awesome-live-coding-music
 * https://github.com/VictorParraCant/awesome-music-for-developers
 * https://github.com/ybayle/awesome-music-listening
+* https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning
 
-## Lists Elsewhere
+
+## Lists of music sites elsewhere
 
 * https://awesomeopensource.com/projects/music
 * https://classicalarchives.com/newca/#!/
@@ -17,13 +27,32 @@
 * https://en.wikipedia.org/wiki/Category:Classical_music_radio_stations
 * https://en.wikipedia.org/wiki/Category:Classical_music_radio_stations_in_the_United_States
 
-## Radio
+
+## Lists of Radio Stations
 
 * https://radio.net/genre/classical
 * https://internet-radio.com/stations/classical/
 
-## Live Music
+
+## Live Music and Concerts
 
 * https://classicfm.com/music-news/live-streamed-classical-music-concerts-coronavirus/
 * https://concertzender.nl/
 * https://livemusicproject.org/tag/beethoven/
+
+
+## More
+
+http://www.last.fm/
+http://www.projectopus.com/
+http://www.radioblogclub.com/
+http://somafm.com/
+http://www.iheard.com/
+http://wfmu.org/
+http://www.spin.com/
+http://www.mtvmusic.com/
+http://www.slacker.com/
+http://www.theradio.com/
+
+***
+

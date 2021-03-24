@@ -13,5 +13,6 @@
 ## ancestor
 
 How-to book: The Good Ancestor
+
 * https://www.romankrznaric.com/good-ancestor
 * How to think long-term in a short term world

@@ -18,6 +18,12 @@ McKm\night
 * https://www.wsj.com/articles/well-have-herd-immunity-by-april-11613669731
 
 
+## Glasses
+
+* https://www.seattletimes.com/nation-world/people-who-wear-glasses-less-likely-to-catch-covid-19-new-study-suggests/
+
+
+
 
 ## Air
 
