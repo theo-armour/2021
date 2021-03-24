@@ -1,6 +1,11 @@
-# Music
+# Music Read Me
 
-## Franks list
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://theo-armour.github.io/2021/bookmarks/readme.html#music.md  "View file as a web page." ) </span>
+
+<div><input type=button onclick=window.top.location.href="https://github.com/theo-armour/2021/tree/master/bookmarks/music.md";
+value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
+
+## Frank's list
 
 * https://www.notion.so/CLASSICAL-MUSIC-LINKS-fed0e52e34174b14bf8d8359b7744153
 
@@ -8,7 +13,7 @@
 
 GitHub - "Where the world builds software" - "Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world."
 
-Creating the ["Awesome list of <whatevers>"]( https://github.com/topics/awesome-list ) is a favored thing to do in GitHub. Here are links to a few GitHub awesome list that pertain to music
+Creating the ["Awesome list of (whatevers)"]( https://github.com/topics/awesome-list ) is a favored thing to do in GitHub. Here are links to a few GitHub awesome list that pertain to music
 
 * https://github.com/ciconia/awesome-music
 * https://github.com/ad-si/awesome-music-production
