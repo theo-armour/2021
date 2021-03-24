@@ -3,8 +3,8 @@
 ## Retiring
 
 * https://www.nytimes.com/column/retiring
-
-
+* https://theconversationproject.org/
+* http://www.ihi.org/
 
 ## Obituaries
 
