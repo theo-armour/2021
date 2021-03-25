@@ -16,3 +16,9 @@ How-to book: The Good Ancestor
 
 * https://www.romankrznaric.com/good-ancestor
 * How to think long-term in a short term world
+
+
+# debt
+
+* https://blogs.cfainstitute.org/investor/2021/03/24/capitalism-is-dead-long-live-debtism/
+> Should a loan that one neither intends nor is required to repay be considered debt or equity?

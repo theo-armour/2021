@@ -13,6 +13,8 @@ HTML and CSS still isn’t about painting with code
 Transform your handwriting or calligraphy into a font!
 * https://www.calligraphr.com/en/
 
+* https://aisforfonts.com/sinograms
+Lively, cursive Japanese
 
 ## Icons
 

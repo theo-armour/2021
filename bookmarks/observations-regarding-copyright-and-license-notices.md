@@ -1,5 +1,5 @@
-Observations Regarding Copyright and License Notices
-===
+# Observations Regarding Copyright and License Notices
+
 
 2014-04-26 ~ Theo Armour
 
@@ -14,7 +14,7 @@ The following is a list of links to well-known repositories in GitHub followed b
 
 At the end is a work-in-progress list of recommendations
 
-### Notes
+## Notes
 In very few instances, which was a surprise, have I found a copyright notice or license actually embedded in the source code.
 Then again, I have tended to open only a few source code files in these repos so I may have missed some.
 
@@ -34,7 +34,7 @@ Am I the only one who reads this and thinks that people are trying to copyright 
 _In alphabetical order. Ones I like have an asterisk_
 
 ### Angular
-<https://github.com/angular/angular.js/blob/master/LICENSE>  
+<https://github.com/angular/angular.js/blob/master/LICENSE>
 It would appear that the MIT License is copyrighted by Google
 
 ### Bootstrap *
@@ -47,33 +47,33 @@ Docs are under CC License. One of the few repositories to differentiate between 
 Clearest and most complete copyright and license seen to date.
 
 ### D3
-<https://github.com/mbostock/d3/blob/master/LICENSE>  
-Title does not indicate this is also a copyright notice  
+<https://github.com/mbostock/d3/blob/master/LICENSE>
+Title does not indicate this is also a copyright notice
 Copyright notice lists one author but repo stats indicate 76 contributors
 No copyright in source code
 
 
 ### Font Awesome
-<https://github.com/FortAwesome/Font-Awesome>  
-Very complete licensing details in Read Me  
+<https://github.com/FortAwesome/Font-Awesome>
+Very complete licensing details in Read Me
 No copyright notice
 
 ### GitHub Cheat Sheet
-<https://github.com/tiimgreen/github-cheat-sheet>    
-Title does not indicate this is also a copyright notice  
+<https://github.com/tiimgreen/github-cheat-sheet>
+Title does not indicate this is also a copyright notice
 Copyright notice lists one author but repo stats indicate 21 contributors
 
 ### jQuery
-<https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt>  
+<https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt>
 Title does not indicate this is also a copyright notice
 
-<https://github.com/jquery/jquery/blob/master/AUTHORS.txt>  
+<https://github.com/jquery/jquery/blob/master/AUTHORS.txt>
 Repo does include a list of all authors
 
 ### Jekyll
 <https://github.com/jekyll/jekyll/blob/master/LICENSE>
-It would appear that the MIT License is copyrighted by Tom Preston-Warner  
-Copyright notice lists one author but repo stats indicate 313 contributors  
+It would appear that the MIT License is copyrighted by Tom Preston-Warner
+Copyright notice lists one author but repo stats indicate 313 contributors
 
 ### Khronos Group / glTF ***
 <https://github.com/KhronosGroup/glTF/blob/master/LICENSE.md>
@@ -81,20 +81,20 @@ Notice that there is formatting, the text is nicely laid out and that the copyri
 
 ### Leap Motion
 <https://github.com/leapmotion/leapjs/blob/master/LICENSE.txt>
-Copyright out of date.  
-Saved as a text file so word-wrap does not work.  
-Text is confusing. How do you release JavaScript in 'Binary form'.  
+Copyright out of date.
+Saved as a text file so word-wrap does not work.
+Text is confusing. How do you release JavaScript in 'Binary form'.
 Uses 'all rights reserved'.
 
 
 ### Node
 <https://github.com/joyent/node/blob/master/LICENSE>
-MIT License  
-Also includes notices for all incorporated software.  
+MIT License
+Also includes notices for all incorporated software.
 
 ### Three.js
 <https://github.com/mrdoob/three.js/blob/master/LICENSE>
-It would appear that the MIT License is copyrighted by the three.js authors  
+It would appear that the MIT License is copyrighted by the three.js authors
 
 
 ## Recommendations for Notices in GitHub Repositories
