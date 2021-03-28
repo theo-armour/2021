@@ -1,49 +1,84 @@
-# [![]( https://theo-armour.github.io/lib/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2021/tree/main/bookmarks "Source code on GitHub") [Catalogs]( https://theo-armour.github.io/bookmarks/catalog.html )
+# [![]( https://theo-armour.github.io/lib/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2021/tree/main/bookmarks/catalogs.md "Source code on GitHub") [Catalogs]( https://theo-armour.github.io/2021/bookmarks/catalogs.html )
 
 
-In alphabetical order
+Catalogs are listed in alphabetical order
 
-* https://www.american-scientific.com/
-* https://www.arborsci.com/
+* https://www.american-scientific.com/ ~ STEM stuff
+* https://www.arborsci.com/~ STEM stuff
 * https://www.boutiquesdemusees.fr/en/ ~ Art from the Louvre and other French museums
 * https://www.bucketboss.com/ ~ organizers
-* https://ccrane.com/ ~ radios
-* http://www.shakershops.com/
+* https://www.ccrane.com/ ~ radios
+* http://www.shakershops.com/ ~ Simple Shaker furniture and accessories
 * https://www.marklin.com/ ~ model trains
-* https://www.cabelas.com/
+* https://www.cabelas.com/ ~ outdoors
 * https://www.carparts.com ~ JC Whitney
-* https://www.crutchfield.com/
-* https://www.drleonards.com/
-* https://www.duluthtrading.com/
-* https://www.dwr.com/ ~ design within reach
-* https://www.exploratoriumstore.com/
-* https://www.hammacher.com/
-* https://www.ikea.com/
-* https://intothewind.com/
-* https://jpeterman.com/
+* https://www.crutchfield.com/ ~ gear
+* https://www.drleonards.com/ ~ fun things for elder peeps
+* https://www.duluthtrading.com/ ~ gear
+* https://www.dwr.com/ ~ Design Within Reach
+* https://www.exploratoriumstore.com/ ~ STEM stuff
+* https://www.hammacher.com/ ~ gadgets
+* https://www.ikea.com/ ~ Household
+* https://www.intothewind.com/ ~ kites
+* https://www.jpeterman.com/ ~ snobbery
 * https://www.leevalley.com/en-us
-* https://www.lego.com/
-* https://www.levenger.com/
+* https://www.lego.com/ ~ modelling
+* https://www.levenger.com/ ~ desk work
 * https://lilmoco.com/ ~ Lilliput Motor Company
 	* Tin toys, steam engines, Shuco & MicroRacers, model trains
 	* Bring joy to the boy in you
-* https://www.magellans.com/
-* https://store.moma.org/
-* https://www.muji.us/
-* https://www.officedepot.com/
-* https://www.rei.com/
-* https://rh.com/ ~ Restoration Hardware
+* https://www.llbean.com ~ outdoors
+* https://www.magellans.com/ ~ travel
+* https://store.moma.org/ ~ design
+* https://www.muji.us/ ~ housefold & clothes ~ “no-brand quality goods.”
+* https://www.officedepot.com/ ~ office
+* https://www.rei.com/ ~ outdoors
+* https://www.rh.com/ ~ Restoration Hardware ~ household
 * https://www.sciplus.com/ ~ American Science & Surplus was established in about 1937
-* https://www.sharperimage.com/
-* https://www.staples.com/
-* https://www.surlatable.com/
-* https://www.westmarine.com/
-* https://www.westmusic.com/
+* https://www.sharperimage.com/ ~ gadgets
+* https://www.stacksocial.com/ ~ gadgets
+* https://www.staples.com/ ~ office
+* https://www.surlatable.com/ ~ cooking
+* https://www.thegrommet.com/ ~ gadgets
+* https://www.westmarine.com/ ~ boating
+* https://www.westmusic.com/ ~ music
 
-More
+## More
+
+Reviews
 
 * https://kk.org/cooltools/
-* https://www.thegrommet.com/gifts
+>Cool tools really work. A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true. All reviews on this site are written by readers who have actually used the tool and others like it. Items can be either old or new as long as they are wonderful. We only post things we like and ignore the rest. Suggestions for tools much better than what is recommended here are always wanted. Tell me what you love.
+
+* https://www.nytimes.com/wirecutter/
+
+List of catalogs
+
 * https://www.catalogmonster.com/
 * https://shoppingkim.com/free-catalogs/
+
+Posts
+
 * https://ask.metafilter.com/349807/the-most-fun-PAPER-mail-order-catalogs-for-browsing-not-buying#bottom-of-content
+
+## To Do
+
+* Translate links into a JSON file
+* Add tags and categories
+* Build a suitable JSON reader
+
+## Change Log
+
+
+### 2021-03-28
+
+A first pass at a techie male-oriented list of online catalogs
+
+* Add titles with links
+* Add footer
+* Add description to eacc catalog link
+* First public share
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
