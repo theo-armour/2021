@@ -17,7 +17,7 @@ Catalogs are listed in alphabetical order
 * https://www.duluthtrading.com/ ~ gear
 * https://www.dwr.com/ ~ Design Within Reach
 * https://www.exploratoriumstore.com/ ~ STEM stuff
-* https://www.hammacher.com/ ~ gadgets
+* https://www.hammacher.com/ ~ Hammacher Schlemmer gadgets
 * https://www.ikea.com/ ~ Household
 * https://www.intothewind.com/ ~ kites
 * https://www.jpeterman.com/ ~ snobbery
@@ -30,7 +30,7 @@ Catalogs are listed in alphabetical order
 * https://www.llbean.com ~ outdoors
 * https://www.magellans.com/ ~ travel
 * https://store.moma.org/ ~ design
-* https://www.muji.us/ ~ housefold & clothes ~ “no-brand quality goods.”
+* https://www.muji.us/ ~ household & clothes ~ “no-brand quality goods.”
 * https://www.officedepot.com/ ~ office
 * https://www.rei.com/ ~ outdoors
 * https://www.rh.com/ ~ Restoration Hardware ~ household
@@ -66,9 +66,10 @@ Posts
 * Translate links into a JSON file
 * Add tags and categories
 * Build a suitable JSON reader
+* Define a "catalog" site
+
 
 ## Change Log
-
 
 ### 2021-03-28
 
