@@ -80,4 +80,19 @@ Perrel
 
 ## See also: Designing Your Life
 
+Nice introduction to design thinking - and maybe even useful! ;-)
+
 * https://heretics-sf.github.io/#pages/Designing-Your-Life.md
+
+Start here:
+
+5 steps to designing the life you want | Bill Burnett | TEDxStanford
+
+>Designers spend their days dreaming up better products and better worlds, and you can use their thinking to re-envision your own life, says design professor Bill Burnett. He shares five tips to try, whether you’re at the start of your career or contemplating your next act.  
+
+* https://www.youtube.com/watch?v=SemHh0n19LA
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
