@@ -1,0 +1,83 @@
+# Design Thinking
+
+> Design thinking is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.
+
+Tim Brown
+
+Start here:
+
+Tim Brown urges designers to think big: https://www.youtube.com/watch?v=UAinLaT42xY&t=5s
+
+## Links of interest
+
+### Wikipedia
+
+Articles
+
+* https://en.wikipedia.org/wiki/Abductive_reasoning
+* https://en.wikipedia.org/wiki/Design_thinking
+* https://en.wikipedia.org/wiki/Systems_theory
+	* https://en.wikipedia.org/wiki/Systems_theory#Systems_thinking
+* https://en.wikipedia.org/wiki/Lateral_thinking
+* https://en.wikipedia.org/wiki/Fork_(software_development)
+
+Categories
+
+* https://en.wikipedia.org/wiki/Category:Design
+* https://en.wikipedia.org/wiki/Category:Problem_solving
+* https://en.wikipedia.org/wiki/Category:Systems_thinking
+& https://en.wikipedia.org/wiki/Category:Problem_solving_skills
+
+
+## Observations
+
+* Design thinking is good for innovation, creativity, [thinking outside of the box]( https://en.wikipedia.org/wiki/Thinking_outside_the_box ), ideation, re-imaginiing, dealing with unknown unknowns, and being curious about the possibilities
+* Systems thinking is good for solving problems, finding the best answer, dealing with very large numbers of known unknowns
+
+
+## Tim Brown
+
+* https://www.youtube.com/watch?v=UAinLaT42xY&t=5s
+* https://www.ideo.com/people/tim-brown
+* https://designthinking.ideo.com/ ~ was Ted Brown's page
+* https://www.amazon.com/Change-Design-Transforms-Organizations-Innovation/dp/0061766089
+* https://readings.design/PDF/Tim%20Brown,%20Design%20Thinking.pdf
+* https://www.linkedin.com/in/timbrownatlindkedin/
+* https://twitter.com/hashtag/cbdq?
+* https://twitter.com/hashtag/designthinking
+
+## IDEO U
+
+* https://www.ideou.com/blogs/inspiration/what-is-design-thinking
+
+### interaction design foundation
+
+* https://www.interaction-design.org/literature/topics/design-thinking
+* https://www.interaction-design.org/literature/topics/empathize
+
+
+### More
+
+* https://www.linkedin.com/pulse/top-10-things-read-you-want-understand-design-thinking-samina-rahman/
+* https://theaccidentaldesignthinker.com/2017/09/16/40-design-thinking-success-stories/
+* https://hbr.org/2018/09/why-design-thinking-works
+* https://www.forbes.com/sites/reuvencohen/2014/03/31/
+* https://www.gsb.stanford.edu/exec-ed/programs/design-thinking-bootcamp-make-impact-drive-growth-your-organizatiodesign-thinking-a-unified-framework-for-innovation/
+* https://whyisthisinteresting.substack.com/p/the-invention-vs-innovation-edition
+* http://edutechwiki.unige.ch/en/Design_thinking
+* https://www.jstor.org/stable/1511637 ~ Wicked Problems in Design Thinking ~ Richard Buchanan
+* https://boingboing.net/2020/11/13/isaac-asimov-on-how-to-come-up-with-new-ideas.html
+* https://runpondr.com/blog/brainstorming
+
+* https://www.designforchange.us/pages/get-started/design-thinking-classroom
+
+Perrel
+
+
+* https://www.youtube.com/watch?v=YlY5oVmhfwI
+* https://perell.com/note/look-for-things-that-dont-make-sense/
+
+
+## See also: Designing Your Life
+
+* https://heretics-sf.github.io/#pages/Designing-Your-Life.md
