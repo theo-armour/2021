@@ -68,7 +68,6 @@ Categories
 * https://www.jstor.org/stable/1511637 ~ Wicked Problems in Design Thinking ~ Richard Buchanan
 * https://boingboing.net/2020/11/13/isaac-asimov-on-how-to-come-up-with-new-ideas.html
 * https://runpondr.com/blog/brainstorming
-
 * https://www.designforchange.us/pages/get-started/design-thinking-classroom
 
 Perrel
@@ -88,7 +87,7 @@ Start here:
 
 5 steps to designing the life you want | Bill Burnett | TEDxStanford
 
->Designers spend their days dreaming up better products and better worlds, and you can use their thinking to re-envision your own life, says design professor Bill Burnett. He shares five tips to try, whether you’re at the start of your career or contemplating your next act.  
+>Designers spend their days dreaming up better products and better worlds, and you can use their thinking to re-envision your own life, says design professor Bill Burnett. He shares five tips to try, whether you’re at the start of your career or contemplating your next act.
 
 * https://www.youtube.com/watch?v=SemHh0n19LA
 
