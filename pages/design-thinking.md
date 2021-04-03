@@ -63,15 +63,18 @@ Categories
 * https://hbr.org/2018/09/why-design-thinking-works
 * https://www.forbes.com/sites/reuvencohen/2014/03/31/
 * https://www.gsb.stanford.edu/exec-ed/programs/design-thinking-bootcamp-make-impact-drive-growth-your-organizatiodesign-thinking-a-unified-framework-for-innovation/
-* https://whyisthisinteresting.substack.com/p/the-invention-vs-innovation-edition
 * http://edutechwiki.unige.ch/en/Design_thinking
 * https://www.jstor.org/stable/1511637 ~ Wicked Problems in Design Thinking ~ Richard Buchanan
-* https://boingboing.net/2020/11/13/isaac-asimov-on-how-to-come-up-with-new-ideas.html
 * https://runpondr.com/blog/brainstorming
 * https://www.designforchange.us/pages/get-started/design-thinking-classroom
 
-Perrel
+thinking
 
+* https://www.calnewport.com/blog/2021/03/31/in-defense-of-thinking/
+* https://boingboing.net/2020/11/13/isaac-asimov-on-how-to-come-up-with-new-ideas.html
+* https://whyisthisinteresting.substack.com/p/the-invention-vs-innovation-edition
+
+Perrel
 
 * https://www.youtube.com/watch?v=YlY5oVmhfwI
 * https://perell.com/note/look-for-things-that-dont-make-sense/

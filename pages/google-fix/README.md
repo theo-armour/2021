@@ -32,6 +32,16 @@ Text
 	* OS and apps all on auto-update
 * Samsung Chromebook with Google Hangouts, Google Messages
 
+## 2021-04-02
+
+Hi Lyft Support
+
+The Lyft app is sending SMS verification codes to my number 415 828 000 but they are not arriving on my phone. There same thing happens with Uber and GitHub apps. Otherwise all verification codes from other apps are coming through. My phone service is via GooGle Fi and the problem is most likely an issue with their service. I have been in touch with them very frequently. They seem to be working on the issue but it has not been resolved yet. I have tried using a temporary number (415 644 8890) but that number is also failing.
+
+In the meantime, I would really, really like to to be using Lyft again. Please can you help my phone to be re-authorized using some other method?
+
+Theo
+
 ## 2021-02-28
 
 On a Win10 computer using Google Messages
