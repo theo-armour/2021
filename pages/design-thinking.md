@@ -21,6 +21,7 @@ Articles
 * https://en.wikipedia.org/wiki/Lateral_thinking
 * https://en.wikipedia.org/wiki/Fork_(software_development)
 
+
 Categories
 
 * https://en.wikipedia.org/wiki/Category:Design
@@ -58,6 +59,7 @@ Categories
 
 ### More
 
+* https://hbr.org/2018/02/plan-a-better-meeting-with-design-thinking
 * https://www.linkedin.com/pulse/top-10-things-read-you-want-understand-design-thinking-samina-rahman/
 * https://theaccidentaldesignthinker.com/2017/09/16/40-design-thinking-success-stories/
 * https://hbr.org/2018/09/why-design-thinking-works
