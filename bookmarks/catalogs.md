@@ -17,6 +17,7 @@ Catalogs are listed in alphabetical order
 * https://www.duluthtrading.com/ ~ gear
 * https://www.dwr.com/ ~ Design Within Reach
 * https://www.exploratoriumstore.com/ ~ STEM stuff
+* http://hackerthings.com/
 * https://www.hammacher.com/ ~ Hammacher Schlemmer gadgets
 * https://www.ikea.com/ ~ Household
 * https://www.intothewind.com/ ~ kites
@@ -24,13 +25,15 @@ Catalogs are listed in alphabetical order
 * https://www.leevalley.com/en-us
 * https://www.lego.com/ ~ modelling
 * https://www.levenger.com/ ~ desk work
+* https://www.liebherr.com/liebherrshop/de/deu/modelle.html ~ scale models of construction equioment
 * https://lilmoco.com/ ~ Lilliput Motor Company
 	* Tin toys, steam engines, Shuco & MicroRacers, model trains
 	* Bring joy to the boy in you
 * https://www.llbean.com ~ outdoors
 * https://www.magellans.com/ ~ travel
-* https://store.moma.org/ ~ design
+* https://mensgear.net/
 * https://www.muji.us/ ~ household & clothes ~ “no-brand quality goods.”
+* https://www.niftyhuman.com/
 * https://www.officedepot.com/ ~ office
 * https://www.rei.com/ ~ outdoors
 * https://www.rh.com/ ~ Restoration Hardware ~ household
@@ -40,6 +43,7 @@ Catalogs are listed in alphabetical order
 * https://www.staples.com/ ~ office
 * https://www.surlatable.com/ ~ cooking
 * https://www.thegrommet.com/ ~ gadgets
+* https://www.thisiswhyimbroke.com/
 * https://www.westmarine.com/ ~ boating
 * https://www.westmusic.com/ ~ music
 
@@ -70,6 +74,11 @@ Posts
 
 
 ## Change Log
+
+## 2021-04-05
+
+* https://www.liebherr.com/liebherrshop/de/deu/modelle.html
+
 
 ### 2021-03-28
 
