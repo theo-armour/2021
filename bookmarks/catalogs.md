@@ -25,7 +25,7 @@ Catalogs are listed in alphabetical order
 * https://www.leevalley.com/en-us
 * https://www.lego.com/ ~ modelling
 * https://www.levenger.com/ ~ desk work
-* https://www.liebherr.com/liebherrshop/de/deu/modelle.html ~ scale models of construction equioment
+* https://www.liebherr.com/liebherrshop/de/deu/modelle.html ~ scale models of construction equipment
 * https://lilmoco.com/ ~ Lilliput Motor Company
 	* Tin toys, steam engines, Shuco & MicroRacers, model trains
 	* Bring joy to the boy in you
