@@ -15,3 +15,11 @@ gtmcsr@gildan.com
 ## Furniture
 
 * https://us.harmonidesk.com/
+
+## Anti-Fog
+
+OptiPlus Anti Fog Lens Wipes
+* https://www.amazon.com/gp/product/B085VDQYS4/
+
+LifeArt Anti Fog Cloth for Eyeglasses, Microfiber Cleaning Cloth for Screen, Goggles and Ski Masks, Nano Technology, Reusable 700 Times, Safe on All Types of Lens Coating, Streak-Free (1 Pack)
+* https://www.amazon.com/dp/B088K8QKVQ
