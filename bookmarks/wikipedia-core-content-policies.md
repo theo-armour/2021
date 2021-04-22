@@ -1,4 +1,4 @@
-# Authoritative Verifiable
+# Wikipedia Core Content Policies
 
 ## Parallel Constitution
 

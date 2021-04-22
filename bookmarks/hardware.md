@@ -12,6 +12,10 @@ RAM, 1TB SSD, GeForce RTX 3070, ScreenPad Plus, Windows 10 Pro, Celestial Blue, 
 
 ??
 
+## Monitors
+
+* https://www.amazon.com/4k-portable-monitor/s?k=4k+portable+monitor
+
 ## Printers
 
 * https://www.wsj.com/articles/the-best-affordable-ink-tank-and-laser-printers-for-your-home-office-11616596381
