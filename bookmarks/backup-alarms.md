@@ -4,7 +4,7 @@ As a member of the HotM community you have a right to quietness while on the pre
 
 HotM cannot and does not control all noisome nuisances.
 
-HotM seek to identify, design or control, and monitor excessive noise.
+HotM seeks to identify, design or control, and monitor excessive noise.
 
 Your right to peace and quiet is defined and delineated via numerous authoritative sources.
 
@@ -17,7 +17,7 @@ Your right to peace and quiet is defined and delineated via numerous authoritati
 	* A sound level meter is available for identifying issues
 	* A work order template is available record and catalog disturbances
 	* One or members of the HotM community are tasked with the duty of being knowledgeable with:
-		*  the concepts of noise pollution, hearing loss prevention and general issues of acoustics.
+		* the concepts of noise pollution, hearing loss prevention and general issues of acoustics.
 		* Understnding of hearing aids may amplify or cut-off beeps
 
 
