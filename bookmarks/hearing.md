@@ -1,4 +1,0 @@
-# hearing
-
-* https://hearingspeech.org
-
