@@ -37,6 +37,8 @@ Catalogs are listed in alphabetical order
 * https://www.officedepot.com/ ~ office
 * https://www.rei.com/ ~ outdoors
 * https://www.rh.com/ ~ Restoration Hardware ~ household
+* https://www.scientificsonline.com/
+	* Formerly Edmund Scientific
 * https://www.sciplus.com/ ~ American Science & Surplus was established in about 1937
 * https://www.sharperimage.com/ ~ gadgets
 * https://www.stacksocial.com/ ~ gadgets

@@ -21,6 +21,18 @@ Lively, cursive Japanese
 Copy and paste icon SVG code
 * https://inspyr.io/
 
+## How To
+
+Pure CSS Sidebar Toggle Menu
+* https://codepen.io/plavookac/pen/qomrMw
+
+
 ## Tips
 
-https://css-tricks.com/the-art-of-comments/
+* https://web.dev/one-line-layouts/ ~ ***
+* https://css-tricks.com/the-art-of-comments/
+* https://css-tricks.com/see-you-around/
+* https://dev.to/sbrevolution5/my-5-favorite-html-css-shortcuts-in-vscode-2m5d
+* https://www.bram.us/2020/12/28/html-and-css-techniques-to-reduce-your-javascript/
+* https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
+* https://dev.to/cydstumpel/4-css-tricks-that-will-get-you-dirty-looks-from-other-developers-43d0

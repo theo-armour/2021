@@ -1,10 +1,23 @@
 # JavaScript Resources
 
+## API
+
+* !!! https://www.browserling.com/tools
+	* dozens of API tools example" XML to JSON
+	* also https://onlinetexttools.com/?msg3
+
+
 ## Articles
 
 * https://remysharp.com/2021/02/11/the-web-didnt-change-you-did
-* https://www.youtube.com/watch?v=dCEGx-thXD4
-> Augmented Reality - Generate a 3D model that looks like you. #AR #VR #AugmentedReality #Unity3D - YouTube
+
+## About
+
+* https://www.wired.com/story/healing-power-javascript-code-programming/
+
+## Cheat Sheets
+
+* https://mbeaudru.github.io/modern-js-cheatsheet/
 
 ## Journals
 

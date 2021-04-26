@@ -5,6 +5,15 @@
 	* https://astralcodexten.substack.com/
 * https://perell.com/notebook/
 
+
+## Expressive Fonyts
+
+* http://tom7.org/lowercase/
+
+## Titles
+
+* https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/
+
 ## Publishing
 
 * https://scroll.com/
