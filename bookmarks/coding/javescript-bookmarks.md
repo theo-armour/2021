@@ -8,5 +8,6 @@
 
 ## Developer Console
 
-* https://davidwalsh.name/logpoints
+* https://davidwalsh.name/logpoints ~ ***
+
 * https://markodenic.com/use-console-log-like-a-pro/
