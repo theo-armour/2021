@@ -18,6 +18,7 @@
 ## Cheat Sheets
 
 * https://mbeaudru.github.io/modern-js-cheatsheet/
+* https://dev.to/worldindev/200-js-resources-to-master-programming-3aj6
 
 ## Journals
 
@@ -33,5 +34,6 @@
 
 * !!! https://javascript.plainenglish.io/9-useful-web-apps-for-web-developers-4cd9a0ea9a2f
 * 2017 https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d
-
+* https://dev.to/pascavld/20-useful-free-resources-for-web-developers-2c3n
+* https://dev.to/coffeestasia/background-music-for-coding-for-every-taste-2oo6
 
