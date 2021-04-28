@@ -29,6 +29,8 @@ Pure CSS Sidebar Toggle Menu
 
 ## Tips
 
+* https://markodenic.com/css-tips/
+	* https://news.ycombinator.com/item?id=26945263
 * https://web.dev/one-line-layouts/ ~ ***
 * https://css-tricks.com/the-art-of-comments/
 * https://css-tricks.com/see-you-around/
