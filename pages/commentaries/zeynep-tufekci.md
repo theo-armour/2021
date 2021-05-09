@@ -29,13 +29,19 @@
 
 * https://www.nytimes.com/2021/05/07/opinion/coronavirus-airborne-transmission.html
 
-Zeynep Tufekci has written a very good article on the research, management, duties, failings of the CDC and WHO on handling the virus. She argues clearly and logically. She provides insights you can use. She describes actions that these organizations should take. The article contains links to authoritative sources. It's not a difficult read.
+Zeynep Tufekci has written a very good article on the research, findings, and outcomes carried out by the CDC and WHO on the handling the Covid-19 virus.
+
+She argues clearly, forcefully and logically the missteps taken by the two organizations. The guidance provided hampered effectiveness by wasting resources on efforts that served no good purpose. In describing issues with mental models, she provides insights you can use here and elsewhere. She describes actions that these organizations should take.
+
+The article contains links to authoritative sources. It's not a difficult read and more over provides a number of historical situations that make the story understandable.
+
 
 >Another dynamic we’ve seen is something that is not unheard-of in the history of science: setting a higher standard of proof for theories that challenge conventional wisdom than for those that support it.
 
 >Another key problem is that, understandably, we find it harder to walk things back. It is easier to keep adding exceptions and justifications to a belief than to admit that a challenger has a better explanation.
 
 >So much of what we have done throughout the pandemic — the excessive hygiene theater and the failure to integrate ventilation and filters into our basic advice — has greatly hampered our response.
+
 
 ## Aerosols, Droplets
 
@@ -65,14 +71,14 @@ https://www.ncbi.nlm.nih.gov/books/NBK554776/
 
 ### Aerosol
 
-https://en.wikipedia.org/wiki/Aerosol
+* https://en.wikipedia.org/wiki/Aerosol
 
 The liquid or solid particles have diameters typically less than 1 μm or 1,000 nm;
 
 
 ### Droplet
-\
-https://en.wikipedia.org/wiki/Respiratory_droplet
+
+* https://en.wikipedia.org/wiki/Respiratory_droplet
 
 Large droplets: > 5 µm
 
@@ -80,6 +86,22 @@ Currently, the term droplet is often taken to refer to droplets >5 μm in diamet
 
 large” droplets, “small” droplets and droplet nuclei being >60 μm in diameter, ≤60 μm in diameter and <10 μm in diameter, respectively
 
+## Fomite
+
+* https://en.wikipedia.org/wiki/Fomite
+>A fomite (/ˈfoʊmaɪt/) or fomes (/ˈfoʊmiːz/) is any inanimate object that, when contaminated with or exposed to infectious agents (such as pathogenic bacteria, viruses or fungi), can transfer disease to a new host. In the 21st century, the role of fomites in disease transfer is higher than ever in human history because of the indoor lifestyle.
+
+## Vector
+
+* https://en.wikipedia.org/wiki/Vector_(epidemiology)
+
+In epidemiology, a disease vector is any agent which carries and transmits an infectious pathogen into another living organism; agents regarded as vectors are organisms, such as intermediate parasites or microbes. The first major discovery of a disease vector came from Ronald Ross in 1897, who discovered the malaria pathogen when he dissected a mosquito.
+
+### airborne transmission
+
+* https://en.wikipedia.org/wiki/Airborne_transmission
+
+An airborne transmission is disease transmission through small particulates that can be transmitted through the air over time and distance.[2] Diseases capable of airborne transmission include many of considerable importance both in human and veterinary medicine. The relevant pathogens may be viruses, bacteria, or fungi, and they may be spread through breathing, talking, coughing, sneezing, raising of dust, spraying of liquids, flushing toilets, or any activities which generate aerosol particles or droplets. Human airborne diseases do not include conditions caused by air pollution such as volatile organic compounds (VOCs), gases and any airborne particles.
 
 ### Droplets are the cause
 
@@ -98,11 +120,17 @@ large” droplets, “small” droplets and droplet nuclei being >60 μm in diam
 
 * https://www.bmj.com/content/373/bmj.n1036
 * https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html
-* https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext
+* https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext <<< ***
+	* 10 authenticated reasons why C19 is spread by aerosols
+
 
 Ventilation
 
 * https://www.who.int/publications/i/item/9789240021280
+* https://www.nature.com/articles/d41586-021-00810-9
+	* Taiwan, Norway and Portugal have laws that limit indoor CO2 to 1,000 p.p.m.
+
+
 
 ### Cholera in London
 
