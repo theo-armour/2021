@@ -16,7 +16,7 @@ Yikes! So many newsletters
 
 ## 12 sites for Happenings
 
-# Media Diet
+# My Media Diet
 
 * https://nextdraft.com
 * https://kottke.org/
