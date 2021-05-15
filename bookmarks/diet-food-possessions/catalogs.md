@@ -48,6 +48,8 @@ Catalogs are listed in alphabetical order
 * https://www.thisiswhyimbroke.com/
 * https://www.westmarine.com/ ~ boating
 * https://www.westmusic.com/ ~ music
+* https://whizbangprojects.com/
+	* Vintage digital project plans
 
 ## More
 
