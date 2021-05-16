@@ -18,9 +18,6 @@ IC-BK05
 *  https://www.iclever.com/storage/product/guide/10/15766589806177.pdf
 
 
-## Monitors
-
-* https://www.amazon.com/4k-portable-monitor/s?k=4k+portable+monitor
 
 ## Printers
 

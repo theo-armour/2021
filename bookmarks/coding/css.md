@@ -12,7 +12,6 @@ HTML and CSS still isn’t about painting with code
 
 Transform your handwriting or calligraphy into a font!
 * https://www.calligraphr.com/en/
-
 * https://aisforfonts.com/sinograms
 Lively, cursive Japanese
 
@@ -20,6 +19,8 @@ Lively, cursive Japanese
 
 Copy and paste icon SVG code
 * https://inspyr.io/
+* https://experience-japan.info/en
+	* https://www.ndc.co.jp/en/
 
 ## How To
 

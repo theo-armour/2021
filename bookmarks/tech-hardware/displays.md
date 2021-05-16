@@ -3,6 +3,9 @@
 
 ## USB-C 15" 1080P
 
+## Monitors
+
+* https://www.amazon.com/4k-portable-monitor/s?k=4k+portable+monitor
 * https://www.amazon.com/dp/B07VFF4TZG/ref=sspa_dk_detail_0 $135 #1719
 * Niuto store: https://www.amazon.com/stores/NIUTO/page/CDABBEB1-5B62-4C2A-8EB3-17C776E35746
 * uPerfect store: https://www.amazon.com/stores/page/6B1FB057-8273-437C-AA25-8EB4E66C2FCF
