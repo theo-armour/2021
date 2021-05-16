@@ -29,7 +29,7 @@
 	* s pen support 2014
 	* App only
 * https://inker.co
-	* for drawing
+	* deprecated
 * https://inkscape.org/
 	* Download only
 * https://keep.google.com/

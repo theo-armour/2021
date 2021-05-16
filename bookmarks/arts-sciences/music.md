@@ -48,16 +48,17 @@ Creating the ["Awesome list of (whatevers)"]( https://github.com/topics/awesome-
 
 ## More
 
-http://www.last.fm/
-http://www.projectopus.com/
-http://www.radioblogclub.com/
-http://somafm.com/
-http://www.iheard.com/
-http://wfmu.org/
-http://www.spin.com/
-http://www.mtvmusic.com/
-http://www.slacker.com/
-http://www.theradio.com/
+* https://theglobaljukebox.org/#
+* http://www.last.fm/
+* http://www.projectopus.com/
+* http://www.radioblogclub.com/
+* http://somafm.com/
+* http://www.iheard.com/
+* http://wfmu.org/
+* http://www.spin.com/
+* http://www.mtvmusic.com/
+* http://www.slacker.com/
+* http://www.theradio.com/
 
 & many many more
 
