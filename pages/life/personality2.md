@@ -11,6 +11,7 @@
 
 
 ## Five Risk
+
 https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy
 albert ellis
 lewis five risk

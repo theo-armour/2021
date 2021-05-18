@@ -1,6 +1,4 @@
-
-
-Finis Conner
+# Finis Conner
 
 Sell then design then build
 

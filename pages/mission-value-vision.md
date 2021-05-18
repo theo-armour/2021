@@ -142,7 +142,7 @@ https://en.wikipedia.org/wiki/Analogy
 * Motive	Purpose
 
 
-## Five Ws
+### Five Ws
 
 Wikipedia [Five Ws]( https://en.wikipedia.org/wiki/Five_Ws )
 
@@ -154,20 +154,42 @@ Wikipedia [Five Ws]( https://en.wikipedia.org/wiki/Five_Ws )
 
 Some authors add a sixth question, how, to the list:
 
+### Wikipedia
+
+* https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
+
 
 ## Links of Interest
+
+Burning Man > The 10 Principles of Burning Man
+
+> Burning Man co-founder Larry Harvey wrote the 10 Principles in 2004 as guidelines for the newly-formed Regional Network. They were crafted not as a dictate of how people should be and act, but as a reflection of the community’s ethos and culture as it had organically developed since the event’s inception.
+* https://burningman.org/culture/philosophical-center/10-principles/
+
+
+Goals
 
 * http://www.aef.com/industry/careers/memos/8022
 * http://www.slideshare.net/lidhiyababu/vision-mission-goals-and-objectives << good
 * http://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main
 * http://www.mindtools.com/pages/article/newSTR_72.htm
 * http://image.slidesharecdn.com/integrating-goal-modeling-and-execution-in-adaptive-complex3321/95/integrating-goal-modeling-and-execution-in-adaptive-complex-6-728.jpg
+
+
+Lessons Learned
+
+* https://en.wikipedia.org/wiki/Lessons_learned
+* https://www.pmi.org/learning/library/lessons-learned-next-level-communicating-7991
+
+Mental Models
+
 * https://medium.com/swlh/100-mental-models-to-make-you-a-worldly-wise-person-19b9ca9d034c
 * https://www.visualcapitalist.com/12-ways-smarter-mental-models/
 	* https://www.visualcapitalist.com/wp-content/uploads/2018/01/12-ways-smarter.html
-		Goal Setting
-		* C
+	* https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 * https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh
+https://medium.com/accelerated-intelligence/the-1-mental-model-for-writers-who-want-to-write-high-quality-viral-content-43ecf0d4ec05
+
 
 Theo
 

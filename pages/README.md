@@ -26,7 +26,7 @@ _Pages_
 
 ## Links of Interest
 
-Wikipedia biography of a loving person
+Wikipedia biography of a living person
 
 * https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons
 * https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons/Help

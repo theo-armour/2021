@@ -1,61 +1,19 @@
 
-# perceive-judge-act
+# Apologies
 
-* https://tachy.org/posts/book-of-why/
-
-## The Rules of Life
-
-* Your attitude is your life
-* Maximize your options
-* Don't let the seed stop you from enjoying the watermelon
-* Be nice
-
-Sources
-
-* https://books.google.com/books?id=8awkqcL91uMC
-* https://wiredcraft.com/blog/robin-williams-four-basic-design-principles-for-non-designers/
-* https://8-images.blogspot.com/2014/02/3-rules-of-life-your-attitude-is-your.html
-
-
-### More rules
-
-* http://albaab.free.fr/The%20Rules%20of%20Life.pdf
-* http://albaab.free.fr/The%20Rules%20of%20Life.pdf
-* https://en.wikipedia.org/wiki/12_Rules_for_Life
-* https://www.betterhelp.com/advice/how-to/how-to-make-the-7-rules-of-life-work-for-you/
-* https://medium.com/the-mission/6-golden-rules-for-living-a-good-life-now-c639ba15b8e
-* https://www.success.com/13-life-rules-to-keep-you-motivated/
-* https://www.inc.com/jessica-stillman/the-12-life-rules-everyone-should-make-for-themselves.html
-
-
-## Critical Thinking
-
-https://en.wikipedia.org/wiki/Critical_thinking
-
-Edward M. Glaser proposed that the ability to think critically involves three elements:[16]
-
-* An attitude of being disposed to consider in a thoughtful way the problems and subjects that come within the range of one's experiences
-* Knowledge of the methods of logical inquiry and reasoning
-* Some skill in applying those methods.
-
-
-
-
-## Apologies
-
-### Links
+## Links
 
 * <https://www.reddit.com/r/LifeProTips/comments/58hw8h/lpt_a_real_effective_apology_has_three_parts_1/>
 
 
-### Reddit / LifeProTips
+## Reddit / LifeProTips
 
 1 Acknowledge how your action affected the person
 2 Say you're sorry
 3 Describe what you're going to do to make it right or make sure it doesn't happen again. Don't excuse or explain.
 
 
-### How to say 'I'm sorry' -- and mean it
+## How to say 'I'm sorry' -- and mean it
 * <http://www.chicagotribune.com/lifestyles/sc-apologizing-effectively-family-1006-20151001-story.html>
 1. An "I'm sorry" statement.
 2. Expression of regret for your mistake.
@@ -75,7 +33,7 @@ Put yourself in the shoes of the person you hurt. Consider how the person you hu
 If you vow to change, then … change. "Words without action are empty and meaningless and often just reinforce the belief ... that you aren't sorry at all," Coleman said.
 
 
-### The Right Way to Say ‘I’m Sorry’
+## The Right Way to Say ‘I’m Sorry’
 
 * <https://www.nytimes.com/2017/01/30/well/mind/the-right-way-to-say-im-sorry.html>
 * When ‘but’ is tagged on to an apology, it’s an excuse that counters the sincerity of the original message
@@ -84,7 +42,7 @@ If you vow to change, then … change. "Words without action are empty and meani
 * The focus of an apology should be on what the offender has said or done, not on the person’s reaction to it.
 	* Saying “I’m sorry you feel that way” shifts the focus away from the person who is supposedly apologizing and turns “I’m sorry” into “I’m not really sorry at all,”
 
-### Links
+## Links
 
 * <https://www.psychologytoday.com/us/blog/moments-matter/201701/saying-i-m-sorry>
 * <http://www.chatelaine.com/health/sex-and-relationships/how-to-apologize-the-right-way/>
@@ -127,8 +85,5 @@ If you vow to change, then … change. "Words without action are empty and meani
 
 * <https://www.taramohr.com/8-ways-women-undermine-themselves-with-their-words/>
 
-## Mental Models
-
-https://www.farnamstreetblog.com/mental-models/
 
 

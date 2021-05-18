@@ -4,7 +4,6 @@
 
 ## Judgments
 
-
 * Rules are judgments
 * Goals are judgments
 * Mission: mostly actions
