@@ -1,5 +1,6 @@
 # 2020-09-13 ~ Mission Vision Values & Strategies
 
+
 _A work-in-progress_
 
 https://en.wikipedia.org/wiki/Strategic_planning
