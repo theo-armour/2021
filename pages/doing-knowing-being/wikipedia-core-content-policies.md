@@ -34,12 +34,14 @@ Generally speaking, an authoritative source is a highly trusted and reliable pla
 	* [Verifiability]( https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view ) – Material challenged or likely to be challenged, and all quotations, must be attributed to a reliable, published source. In Wikipedia, verifiability means that people reading and editing the encyclopedia can check that information comes from a reliable source.
 	* [No original research]( https://en.wikipedia.org/wiki/Wikipedia:No_original_research ) – Wikipedia does not publish original thought: all material in Wikipedia must be attributable to a reliable, published source. Articles may not contain any new analysis or synthesis of published material that serves to advance a position not clearly advanced by the sources.
 
+
 ## Wikipedia on authoritative sources
 
 * https://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources
 	* Wikipedia articles should be based on reliable, published sources, making sure that all majority and significant minority views that have appeared in those sources are covered (see Wikipedia:Neutral point of view). If no reliable sources can be found on a topic, Wikipedia should not have an article on it.
 * https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples
 * https://en.wikipedia.org/wiki/Wikipedia:Academic_use
+
 
 ### Verifiability
 
