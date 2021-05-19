@@ -224,6 +224,8 @@ Some authors add a sixth question, how, to the list:
 
 ## Links of Interest
 
+* https://en.wikipedia.org/wiki/Mission_statement
+* https://en.wikipedia.org/wiki/Vision_statement
 * https://www.bain.com/insights/management-tools-mission-and-vision-statements
 * https://www.clearvoice.com/blog/difference-between-mission-vision-statement-examples/
 * http://www.aef.com/industry/careers/memos/8022

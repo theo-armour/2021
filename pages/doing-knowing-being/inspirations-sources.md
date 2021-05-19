@@ -15,7 +15,9 @@ Below are texts & sources that I look to for inspiration as I tackle projects.
 4. There are no mistakes!
 
 
-## Saint Paul’s School ~ The School Prayer ~ https://www.sps.edu/living/chapel-program
+## Saint Paul’s School ~ The School Prayer
+
+https://www.sps.edu/living/chapel-program
 
 Theo: I am an atheist. I strip out all the god stuff here and keep the rest
 
@@ -89,13 +91,6 @@ Each pattern describes a problem which occurs over and over again in our environ
 
 patterns are descriptions of common problems and proposal for the solutions that can be used repeatedly every time the problem is encountered and producing an different outcome.
 
-
-
-### Wikipedia
-
-* https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
-
-
 ## Burning Man > The 10 Principles of Burning Man
 
 > Burning Man co-founder Larry Harvey wrote the 10 Principles in 2004 as guidelines for the newly-formed Regional Network. They were crafted not as a dictate of how people should be and act, but as a reflection of the community’s ethos and culture as it had organically developed since the event’s inception.
@@ -147,6 +142,9 @@ If I am to create a vision statement I might as well stand on the shoulders of t
 The SDGs are such. And given that they offer a vision for the entire world in 2030 it behooves us to know about them and take them to heart.
 
 ## Follow Wikipedia
+
+
+* https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
 
 A fundamental aspect of this project is to follow the Wikipedia Core Content Policies
 
