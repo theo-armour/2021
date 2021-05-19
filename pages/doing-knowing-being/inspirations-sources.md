@@ -1,11 +1,18 @@
-# Inspirations & Sources
+# [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2021/blob/main/pages/doing-knowing-being/inspirations-sources.md "Source code on GitHub" ) [TA 2021]( https://theo-armour.github.io/2021/ "Home page" ) / [Inspirations & Sources]( https://theo-armour.github.io/2021/pages/doing-knowing-being/inspirations-sources.html )
+
 
 Responding to questions is easier when you have good templates to build upon.
 
 Below are texts & sources that I look to for inspiration as I tackle projects.
 
-2021-05-18 ~ There is a fair amount of more stuff that may be added here.
+* 2021-05-19 ~ May better as a series of small files
+* 2021-05-18 ~ There is a fair amount of more stuff that may be added here.
 
+## Aphorisms
+
+Will ba adding my favs
+
+* Those who do not learn from history are doomed to repeat it
 
 ## Tina Fey ~ Four Rules of Improv
 
@@ -13,6 +20,17 @@ Below are texts & sources that I look to for inspiration as I tackle projects.
 2. “Yes” isn’t enough, you must “yes, and…”
 3. Make statements.
 4. There are no mistakes!
+
+About
+
+* http://sostark.net/post/4965998605/tina-feys-rules-of-improvisation-that-will-change
+* https://www.boost.co.nz/blog/2012/01/rules-of-improv-applied-to-scrum
+* https://balancedworklife.com/tina-feys-rules-for-improv-and-the-workplace/
+* https://en.wikipedia.org/wiki/Yes,_and...
+
+Glossary of Stand Up Comedy Terms
+
+* https://news.ycombinator.com/item?id=19063053
 
 
 ## Saint Paul’s School ~ The School Prayer
@@ -31,6 +49,18 @@ Theo: I am an atheist. I strip out all the god stuff here and keep the rest
 
 > The 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, provides a shared blueprint for peace and prosperity for people and the planet, now and into the future. At its heart are the 17 Sustainable Development Goals (SDGs), which are an urgent call for action by all countries - developed and developing - in a global partnership. They recognize that ending poverty and other deprivations must go hand-in-hand with strategies that improve health and education, reduce inequality, and spur economic growth – all while tackling climate change and working to preserve our oceans and forests.
 
+
+## Peter Drucker Quotes
+
+https://en.wikipedia.org/wiki/Peter_Drucker#Key_ideas
+
+https://succeedfeed.com/peter-drucker-quotes/
+
+* What gets measured gets improved
+* You can’t manage what you don’t measure.
+* There is nothing so useless as doing efficiently that which should not be done at all.
+* Doing the right thing is more important than doing the thing right
+* if you want something new, you have to stop doing something old.
 
 ## Teddy Roosevelt
 
