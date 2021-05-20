@@ -5,7 +5,7 @@ Responding to questions is easier when you have good templates to build upon.
 
 Below are texts & sources that I look to for inspiration as I tackle projects.
 
-* 2021-05-19 ~ May better as a series of small files
+* 2021-05-19 ~ May be better as a series of small files
 * 2021-05-18 ~ There is a fair amount of more stuff that may be added here.
 
 ## Aphorisms
