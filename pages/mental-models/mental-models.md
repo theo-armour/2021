@@ -1,4 +1,4 @@
-# [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )](https://github.com/theo-armour/2021/ "Source code on GitHub" ) [TA 2021]( https://theo-armour.github.io/2021/ "Home page" ) / [Mental Models]( https://theo-armour.github.io/2021/#pages/mental-models/mental-models.md)
+# [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )]( https://github.com/theo-armour/2021/blob/main/pages/mental-models/mental-models.md "Source code on GitHub" ) [TA 2021]( https://theo-armour.github.io/2021/ "Home page" ) / [Mental Models]( https://theo-armour.github.io/2021/#pages/mental-models/mental-models.md)
 
 
 ## To Do
