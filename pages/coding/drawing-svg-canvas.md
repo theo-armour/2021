@@ -35,7 +35,7 @@
 * https://keep.google.com/
 	* no svg export
 * https://editor.method.ac/
-	* GH 2021 / drawing / No SVG
+	* GH 2021 / drawing / Save as SVG
 	* https://github.com/methodofaction/Method-Draw
 * https://sketch.io/sketchpad
 	* exports to svg
@@ -56,7 +56,7 @@
 	* No touch support
 	* https://github.com/DRAWSVG/drawsvg-editor
 * https://editor.graphite.design/
-
+	* WIP
 * https://yqnn.github.io/svg-path-editor/
 	* good editor
 	* Not so good for drawing
