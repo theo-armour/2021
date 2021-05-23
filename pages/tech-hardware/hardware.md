@@ -17,10 +17,3 @@ RAM, 1TB SSD, GeForce RTX 3070, ScreenPad Plus, Windows 10 Pro, Celestial Blue, 
 IC-BK05
 *  https://www.iclever.com/storage/product/guide/10/15766589806177.pdf
 
-
-
-## Printers
-
-* https://www.amazon.com/Best-Sellers-Computers-Accessories-Computer-Printers/zgbs/pc/172635
-* https://www.wsj.com/articles/the-best-affordable-ink-tank-and-laser-printers-for-your-home-office-11616596381
-* https://www.amazon.com/HP-DeskJet-Wireless-Printing-Replenishment/dp/B01GAIU7HG/ref=zg_bs_172646_9?

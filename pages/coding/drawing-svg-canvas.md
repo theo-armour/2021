@@ -99,6 +99,27 @@
 
 * Export to PDF
 * https://www.onenote.com/hrd
+* needs desktop version to save or export
+
+#### pros
+
+* background grids a good
+* Creates and saves fully editable bitmap files
+* Saves to cloud
+
+#### Cons
+
+* Does not export to PNG
+	* Must copy and paste to Paint or other
+
+## FreshPaint
+
+* https://en.wikipedia.org/wiki/Microsoft_Fresh_Paint
+* https://www.microsoft.com/en-us/p/fresh-paint/9wzdncrfjb13
+* Windows program From 2015, not really being updated
+* Some funky art features
+* Not pressure sensitive with Yoga Book
+
 
 ### Evernote
 
