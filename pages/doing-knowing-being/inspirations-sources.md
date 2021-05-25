@@ -197,3 +197,22 @@ Looking back at the way things were done in the past may not always help you cre
 
 <center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
 
+
+## Diet
+
+* Alice Waters ~ Chez Panisse
+	* First restaurant serving organic food
+	* What's good at the market today makes the menu
+	* Fusing Western and Eastern cooking techniques
+* Andrew Weil
+* Michael Pollen
+* Warren Willets
+
+## Cooking
+
+* Joy of Cooking
+* https://www.amazon.com/CUISINE-POUR-TOUS-Ginette-MATHIOT/dp/2253006335
+* Red Cookbook from England
+* Cooking in a Bedsit
+* Julia Child
+* Michelin 3 stars

@@ -33,7 +33,7 @@ Uperfect - v nice
 ### Huion
 
 * 12 $219 November 23, 2020 ~ https://www.amazon.com/dp/B08P1MB6FB
-* YES 12 2021 with stand $239 - $12 ~ https://www.amazon.com/HUION-Graphics-Lamination-Battery-Free-Adjustable/dp/B08P1MR8F2
+* YES 12 2021 with stand $239 - $12 ~ https://www.amazon.com/HUION-Graphics-Lamination-Battery-Free-Adjustable/dp/B08P1MR8F2 ~ purchased 2021-05-24
 
 * 13: 2020: https://www.amazon.com/HUION-13-Graphics-Full-Laminated-Battery-Free/dp/B083TTN47J
 * HUION Kamvas 13 púrpura-Stand ~ $259 ~ 2020: https://www.amazon.com/Graphics-Full-Laminated-Battery-Free-Function-Pressure/dp/B083TZKSL8
