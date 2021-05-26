@@ -21,6 +21,12 @@
 * https://app.diagrams.net/
 	* No touch
 	* No good free hand
+* Drawing Google
+	* Exports to SVG
+	* Easy scribbling and curving
+	* Nice extra features I can play with
+* Evernote Web
+	* no drawing
 * https://excalidraw.com/
 	* Collaborative
 	* Excellent handwriting
@@ -37,13 +43,19 @@
 * https://editor.method.ac/
 	* GH 2021 / drawing / Save as SVG
 	* https://github.com/methodofaction/Method-Draw
+* https://miro.com/app/board/o9J_ktaLfRg=/
+	* No export SVG
+* Painter
+	* No SVG export
 * https://sketch.io/sketchpad
 	* exports to svg
 	* very good for handwriting
 	* Closed source
 	* Online, app, download
-* https://www.squidnotes.com/
+* Squid ~ https://www.squidnotes.com/
 	* Available as an app only??
+	* Chromebook app
+	* No SVG export
 * https://vectr.com
 	* for drawing not handwriting
 	* No touch capability
