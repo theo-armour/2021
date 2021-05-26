@@ -34,6 +34,8 @@ Edward M. Glaser proposed that the ability to think critically involves three el
 * Some skill in applying those methods.
 
 
+
+
 ## To Do / Wish List
 
 
