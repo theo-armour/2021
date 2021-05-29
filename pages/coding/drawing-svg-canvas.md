@@ -25,12 +25,14 @@
 	* Exports to SVG
 	* Easy scribbling and curving
 	* Nice extra features I can play with
+	* no pressure, no layers
 * Evernote Web
 	* no drawing
 * https://excalidraw.com/
 	* Collaborative
 	* Excellent handwriting
 	* Export to SVG, Clipboard, Link
+	* no pressure
 * https://www.hand-write.com/
 	* s pen support 2014
 	* App only
@@ -50,6 +52,7 @@
 * https://sketch.io/sketchpad
 	* exports to svg
 	* very good for handwriting
+	* no pressure
 	* Closed source
 	* Online, app, download
 * Squid ~ https://www.squidnotes.com/
@@ -59,6 +62,7 @@
 * https://vectr.com
 	* for drawing not handwriting
 	* No touch capability
+* https://snap.svg
 
 
 
@@ -131,6 +135,15 @@
 * Windows program From 2015, not really being updated
 * Some funky art features
 * Not pressure sensitive with Yoga Book
+
+## Miro
+
+
+## Microsoft Paint 3D
+
+## Microsoft Whiteboard
+
+* No SVG export
 
 
 ### Evernote
