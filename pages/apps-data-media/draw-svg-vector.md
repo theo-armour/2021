@@ -25,22 +25,24 @@
 
 
 ## https://www.autodraw.com/
-	* Draws for you
+* Draws for you
 
 ## https://boxy-svg.com/ ~ $$
-	* touch but no pressure
-	* Many cool features
+* touch but no pressure
+* Many cool features
+
 ## canva ~ https://www.canva.com/
 * design program
 
-## Clip Studio Paint ~ Clip Studio Paint
+## *** Clip Studio Paint ~ Clip Studio Paint
 * 1M installs, 4K stars
 * $49 ~ all versions
 * vector and bitmap
 
-## Concepts ~
-* 5k stars, 1M installs
-
+## *** Concepts ~ https://concepts.app/en/
+* 6k stars, 1M installs, California
+* Interesting user interface
+* $30 year ~ W10, Android, ChromeOS, etc
 
 ## Draw.io https://app.diagrams.net/ ~ draw.io
 * No touch, has touch issues
@@ -60,16 +62,16 @@
 * edit polylines
 
 ## https://excalidraw.com/
-	* Collaborative
-	* Excellent handwriting
-	* Export to SVG, Clipboard, Link
-	* no pressure
+* Collaborative
+* Excellent handwriting
+* Export to SVG, Clipboard, Link
+* no pressure
 
 ## https://www.hand-write.com/ ~ fremium ~
-	* s pen support 2020
-	* App only, works on Chrome OS
+* s pen support 2020
+* App only, works on Chrome OS
 
-## Infinite Studio ~ https://www.infinitestudio.art/discover.php
+## *** Infinite Studio ~ https://www.infinitestudio.art/discover.php
 * 66k stars, 10M installs
 * $10
 * Handles pressure nicely
@@ -83,8 +85,8 @@
 * https://github.com/methodofaction/Method-Draw
 
 ## Nomad Sculpt ~ https://nomadsculpt.com/
-* Sculpting and painting
-
+* 100K installs ~ 1.7K stars
+* Sculpting and painting ~ amaining
 
 ## https://www.sketch.com/
 * $100 / year
@@ -101,13 +103,9 @@
 * Very finger oriented
 * Good water color??
 
-
 ## https://vectr.com
 	* for drawing not handwriting
 	* No touch capability
-
-## https://snap.svg
-	* The JavaScript SVG library for the modern web
 
 ## https://vectorpaint.yaks.co.nz
 	* Nothing special
@@ -118,6 +116,10 @@
 ***
 
 ## Tech on GitHub
+
+## https://snap.svg
+	* The JavaScript SVG library for the modern web
+
 ## http://drawsvg.org/drawsvg.html
 * No touch support
 * https://github.com/DRAWSVG/drawsvg-editor
@@ -134,9 +136,12 @@
 * More for drawing
 
 ## https://n-peugnet.github.io/image-map-creator/
+
 ## https://github.com/rough-stuff/rough
+
 ## https://turnerdev.github.io/svg-studio/
 	* https://github.com/turnerdev/svg-studio
+
 ## https://svgedit.netlify.app/editor/index.html
 	* https://github.com/SVG-Edit/svgedit
 
