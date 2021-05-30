@@ -32,18 +32,43 @@ _A few of the sites listed in the portal pages_
 	* Google Slides on DropBox?
 * https://www.groupboard.com
 	* https://www.groupboard.com/demo/groupboard-online-whiteboard-demo.shtml
-* https://jamboard.google.com/
-	* Google
-	* PDF vector export
+
 * https://github.com/literallycanvas/literallycanvas
 	* GitHub / Not maintained / export SVG
 * https://lucidspark.com/
 	* $$$
-* https://miro.com/
-	* Free for 3
-* https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app
-	* The elephant in the room
-* https://github.com/cojapacze/sketchpad
+
+### JamBoard ~ Google ~ https://jamboard.google.com
+* export as PDF or JPG
+
+## https://miro.com/ ~ https://miro.com/app/board/o9J_ktaLfRg=/
+* Free for 3
+* Unlimited size
+* No pressure
+* Many addons
+* No export SVG
+
+## Microsoft Whiteboard ~ https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app
+* The elephant in the room
+* No SVG export
+### OneNote ~ https://www.onenote.com/hrd
+* Not pressuse sensitive
+* Export to PDF
+* needs desktop version to save or export
+
+
+#### pros
+
+* background grids a good
+* Creates and saves fully editable bitmap files
+* Saves to cloud
+
+#### Cons
+
+* Does not export to PNG
+	* Must copy and paste to Paint or other
+
+## https://github.com/cojapacze/sketchpad
 	* GH / 2018 / Many features
 * https://sketchpad.app/en/?
 	* Closed maintaines export SVG
@@ -65,7 +90,7 @@ _A few of the sites listed in the portal pages_
 	* Export SVG
 	* Free/$$$ closed
 
-## Dowload only
+## Download only
 
 * https://openboard.ch/index.en.html
 
