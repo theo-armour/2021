@@ -28,6 +28,7 @@ The Bay Area Air Quality Management District aims to create a healthy breathing 
 
 We maintain the right of Bay Area residents to breathe clean air.
 
+
 ### Knowing if your air clean
 
 How do you know if the air you are breathing is clean? It's complicated. There are many factors.
@@ -42,6 +43,7 @@ Studies have found that tobacco smoke particle size ranges from 0.01 to 1.0 micr
 
 COVID19 has a diameter of approximately 60–140 nm or 0.06 to 1.4 microns.
 
+
 ### What are good indicators for smoke and virus aerosols?
 
 * Smoke: AQI is a good indicator
@@ -55,11 +57,10 @@ COVID19 has a diameter of approximately 60–140 nm or 0.06 to 1.4 microns.
 >So how do you know if the room you’re in has enough air exchange? It’s actually a pretty hard number to calculate. But there’s an easy-to-measure proxy that can help. Every time you exhale, you release CO2 into the air. Since the coronavirus is most often spread by breathing, coughing or talking, you can use CO2 levels to see if the room is filling up with potentially infectious exhalations. The CO2 level lets you estimate if enough fresh outside air is getting in.
 
 
-### Air quality monitors
+### Air quality monitoring
 
 
 ### Air purification
-
 
 
 ### Air Purifiers
@@ -160,6 +161,9 @@ Reference
 
 ## Air Quality Monitors
 
+Tests
+* http://www.aqmd.gov/aq-spec/evaluations/summary-pm
+
 Reviews
 
 * https://reviewsofairpurifiers.com/best-air-quality-monitor/
@@ -175,7 +179,7 @@ Local
 * $195 https://www.amazon.com/Temtop-Particles-Temperature-Recording-Calibration/dp/B07DJ1WCVP/~
 	* Data export USB
 * #1 best seller: https://www.amazon.com/BIAOLING-Accurate-Formaldehyde-Multifunctional-Recording/dp/B084N7ZRMJ
-* Cheaper $48: https://www.amazon.com/SEAAN-Formaldehyde-Portable-Detector-Recording/dp/B082HH9SXY/
+* Ordered: Cheaper $48: https://www.amazon.com/SEAAN-Formaldehyde-Portable-Detector-Recording/dp/B082HH9SXY/
 
 WiFi
 
@@ -191,6 +195,7 @@ Concern for need for 2.4 GHz connection,  misuse of permissions
 * https://www.amazon.com/IQAir-AirVisual-Temperature-Real-Time-Forecasting/dp/B0784TZFRW
 * https://www.amazon.com/dp/B07RKYLMTD
 
+
 ## Air Purifier Products
 
 Reviews
@@ -200,6 +205,8 @@ Reviews
 Products
 
 * https://www.amazon.com/stores/Coway/page/0CDBA6E0-63C9-44E4-89B4-219B10C265E5
+* https://www.amazon.com/gp/product/B0899GYD96
+	* Coway Airmega 150 True HEPA Purifier with Air Quality Monitoring and Auto Mode, Filter Change Indicator, Dove White
 * https://www.amazon.com/Coway-AP-1512HH-Mighty-Purifier-True/dp/B01728NLRG
 * https://www.amazon.com/gp/product/B07VVK39F
 	* LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom, H13 True HEPA Filter, 24db Filtration System Cleaner Odor Eliminators, Remove 99.97% Dust Smoke Mold Pollen, Core 300, White
@@ -215,3 +222,4 @@ https://learnmetrics.com/air-changes-per-hour-calculator-and-formula/
 
 * https://ww2.arb.ca.gov/list-carb-certified-air-cleaning-devices
 	* Coway and Levoit are on the list
+

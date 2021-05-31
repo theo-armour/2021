@@ -18,6 +18,7 @@
 
 * https://www.san-juan-bautista.ca.us/
 * https://www.sanjuanbautistaca.com/
+* https://www.missionvillagevoice.com/
 
 ## Food
 
