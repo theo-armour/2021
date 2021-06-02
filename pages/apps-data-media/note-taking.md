@@ -11,5 +11,5 @@
 	* Available as an app only??
 	* Chromebook app
 	* No SVG export
-	
+
 ## https://play.google.com/store/apps/details?id=com.acadoid.lecturenotes
