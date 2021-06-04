@@ -7,6 +7,7 @@
 
 ## Portal
 
+* https://www.goodfirms.co/blog/best-free-open-source-Vector-Graphics-Software
 * https://www.justinmind.com/blog/11-great-free-paid-svg-editors-for-ux-designers/
 * https://www.pngtosvg.com/blog/top-24-online-and-offline-vector-graphics-editor/
 * https://www.sitepoint.com/6-free-web-based-svg-editors-compared/
@@ -66,6 +67,7 @@
 * Excellent handwriting
 * Export to SVG, Clipboard, Link
 * no pressure
+* Cannot edit vertices
 
 ## https://www.hand-write.com/ ~ fremium ~
 * s pen support 2020
@@ -164,6 +166,12 @@
 ## Krita
 * https://krita.org/en
 	* App in beta,W10, iOS, linux
+
+## LibreOffice Draw
+* Has tablet support
+* Many export formats
+*
+
 ***
 
 ## Windows or download only

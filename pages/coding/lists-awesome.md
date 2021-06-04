@@ -10,9 +10,8 @@
 
 * https://github.com/bradtraversy/design-resources-for-developers
 * https://github.com/pawelborkar/awesome-repos
-
+* https://github.com/bradtraversy/design-resources-for-developers#vectors--clip-art
 
 ## Web Dev
 
 * https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5
-
