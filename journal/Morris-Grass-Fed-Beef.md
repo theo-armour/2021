@@ -1,7 +1,8 @@
 # Morris Grass-Fed Beef
 
-* https://github.com/heretics-sf/heretics-sf.github.io/blob/master/drafts/Morris-Grass-Fed-Beef.md
-* https://heretics-sf.github.io/#drafts/Morris-Grass-Fed-Beef.md
+The following is a discombobulated series of notes, references and whatever that started as a list of possible questions to ask Joe which them morphed into some of his responses and even more references.
+
+The use of this document is merely as a repository of thoughts with no particular outcome in mind other than as a record and reminder of a delightful encounter.
 
 
 ## My first question
@@ -9,12 +10,6 @@
 If you want be holistic about this, where is the starting point? where do you begin?
 
 Where to begin: the land ~ the animals ~ the ideas?
-
-***
-
-The following is a discombobulated series of notes, references and whatever that started as a list of possible questions to ask Joe which them morphed into some of his responses and even more references.
-
-The use of this document is merely as a repository of the thoughts with no particular outcome in mind other than as a record of a delightful encounter.
 
 
 ## Reference
