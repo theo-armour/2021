@@ -185,6 +185,9 @@ WiFi
 
 Concern for need for 2.4 GHz connection,  misuse of permissions
 
+* https://microbot.is/products/microbot-alert
+	* https://www.indiegogo.com/projects/alert-smart-alert-with-push-alerts-co2-tvoc#/updates/all
+* https://www.thepocketlab.com/store/pocketlab-air
 * https://getuhoo.com/buy
 * https://www.amazon.com/uHoo-Indoor-Air-Quality-Sensor/dp/B076PV9X99
 * https://www.amazon.com/Airthings-2930-Quality-Detection-Dashboard/dp/B07JB8QWH6/
