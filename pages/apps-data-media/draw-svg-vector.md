@@ -35,10 +35,12 @@
 ## canva ~ https://www.canva.com/
 * design program
 
-## *** Clip Studio Paint ~ Clip Studio Paint
+
+## Clip Studio Paint ~ https://www.clipstudio.net/
 * 1M installs, 4K stars
 * $49 ~ all versions
 * vector and bitmap
+
 
 ## *** Concepts ~ https://concepts.app/en/
 * 6k stars, 1M installs, California
@@ -52,9 +54,11 @@
 
 ## https://designer.gravit.io ~ $$
 * https://designer.io
-* Looks very full featured ~ but complicated
-* No pressure ??
+* Looks very featured ~ but complicated
+* No pressure, no touch??
 * $49 / year
+* Few vertex editing tools, no decimate
+* Not exciting
 
 ## Drawings Google ~ https://docs.google.com/drawings
 * Exports to SVG
@@ -86,12 +90,16 @@
 * No touch support
 * https://github.com/methodofaction/Method-Draw
 
+
 ## Nomad Sculpt ~ https://nomadsculpt.com/
 * 100K installs ~ 1.7K stars
 * Sculpting and painting ~ amaining
 
+##
+
 ## https://www.sketch.com/
 * $100 / year
+* Mac only
 
 ## https://sketch.io/sketchpad
 * exports to svg
@@ -99,6 +107,7 @@
 * no pressure
 * Closed source
 * Online, app, download
+* Missing features
 
 ## Sketches ~ https://tayasui.com/
 * Many apps
@@ -106,14 +115,21 @@
 * Good water color??
 
 ## https://vectr.com
-	* for drawing not handwriting
-	* No touch capability
+* for drawing not handwriting
+* No touch capability
+* Accepts pen but seems to have no settings
+* URL for every design - very collaborative
+* Limited set of tools and controls. boring?
 
 ## https://vectorpaint.yaks.co.nz
-	* Nothing special
-	* simple
-	* no pressure
-	* No SVG export
+* Nothing special
+* simple
+* no pressure
+* No SVG export
+
+## YouiDraw ~ https://www.youidraw.com/
+* looks OK. $99 per year
+* Odd things with strokes
 
 ***
 
@@ -157,32 +173,22 @@
 * iOS, Android W10
 
 
-### Google Canvas ~ https://canvas.apps.chrome/
-* touch but not pressure
-* Bitmap only, save as png
-* Can export png to Google Drive
-* Then open with irfanview
-
-## Krita
-* https://krita.org/en
-	* App in beta,W10, iOS, linux
-
 ## LibreOffice Draw
 * Has tablet support
 * Many export formats
-*
+* Not so good for just drawing
 
 ***
 
 ## Windows or download only
 
+
 ## https://inkscape.org/
-	* Download only
+* Download only
 
 ## Microsoft Paint 3D
-	* No pressure
+* No pressure
 
 ## Evernote
-
 * no drawing note??
 

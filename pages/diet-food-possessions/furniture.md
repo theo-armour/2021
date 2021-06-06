@@ -17,3 +17,11 @@
 * Larry's method:
 
 https://www.amazon.com/National-Nail-0345015-Fastnr-Marksman/dp/B006YAGIRY
+
+
+## Rugs
+
+Boho Stripe Cotton Area Rug amazon
+
+* https://www.amazon.com/Safavieh-Collection-RAR121A-Woven-Cotton/dp/B01B9AUUQ8/
+* https://www.amazon.com/dp/B07Y9VCS1N

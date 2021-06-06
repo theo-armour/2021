@@ -1,5 +1,11 @@
 # Paint apps
 
+### Google Canvas ~ https://canvas.apps.chrome/
+* touch but not pressure
+* Bitmap only, save as png
+* Can export png to Google Drive
+* Then open with irfanview
+
 ## Sketchbook ~ Autodesk ~ https://www.autodesk.com/products/sketchbook/overview
 
 * Bitmap only
@@ -23,9 +29,13 @@
 * 50M installs
 
 ## Infinite Painter ~ https://www.infinitestudio.art/discover.php
-	* 10,000,000+ installs
-	* iOS, Android
-	* No SVG export
+* 10,000,000+ installs
+* iOS, Android
+* No SVG export
+
+## Krita ~ https://krita.org/en
+* App in beta, W10, iOS, linux
+* looks nice
 
 
 ## PenUp ~ https://www.penup.com/main/home
