@@ -153,7 +153,7 @@ Registered? Bulls
 
 Do you spend more time on the cattle or the grass?
 
->> The Grass
+Answer: The Grass
 
 * American Grassfed Association (AGA) ~ https://www.americangrassfed.org/
 > From the farm to the marketplace and in government policy, we support, advocate, and promote American grassfed and pasture-based farms and ranches.
