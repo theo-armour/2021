@@ -1,13 +1,17 @@
 # Paint apps
 
-### Google Canvas ~ https://canvas.apps.chrome/
+## https://www.autodraw.com/
+* Draws for you and fair set of tools!
+* Real-time collaboration
+* Save as PNG
+
+## Google Canvas ~ https://canvas.apps.chrome/
 * touch but not pressure
 * Bitmap only, save as png
 * Can export png to Google Drive
 * Then open with irfanview
 
 ## Sketchbook ~ Autodesk ~ https://www.autodesk.com/products/sketchbook/overview
-
 * Bitmap only
 * Download or app
 * Can set image size
@@ -16,22 +20,25 @@
 * UI complex though
 * Pressure support
 
-## FreshPaint ~ Microsoft
 
+## FreshPaint ~ Microsoft
 * https://en.wikipedia.org/wiki/Microsoft_Fresh_Paint
 * https://www.microsoft.com/en-us/p/fresh-paint/9wzdncrfjb13
 * Windows program From 2015, not really being updated
 * Some funky art features
 * Not pressure sensitive with Yoga Book
 
+
 ## ibis Paint X
 * 1.5 m stars
 * 50M installs
+
 
 ## Infinite Painter ~ https://www.infinitestudio.art/discover.php
 * 10,000,000+ installs
 * iOS, Android
 * No SVG export
+
 
 ## Krita ~ https://krita.org/en
 * App in beta, W10, iOS, linux

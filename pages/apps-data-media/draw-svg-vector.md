@@ -20,32 +20,41 @@
 * https://news.ycombinator.com/item?id=26036719
 * https://www.softr.io/tools/svg-shape-generator
 
-***
+## Journal
+
+### 2021-06-07
+
+Concepts seems to be leading - woorks wherever I need it
 
 ## Web Drawing SVG
 
 
-## https://www.autodraw.com/
-* Draws for you
-
 ## https://boxy-svg.com/ ~ $$
 * touch but no pressure
 * Many cool features
+* Text on curve
+* Acad Polyline arcs
+* SVG text window
+* No layers
 
 ## canva ~ https://www.canva.com/
-* design program
+* website design program
 
 
-## Clip Studio Paint ~ https://www.clipstudio.net/
+## Clip Studio Paint ~ https://www.clipstudio.net/en/
 * 1M installs, 4K stars
 * $49 ~ all versions
 * vector and bitmap
+* Android/W10/etc
 
 
 ## *** Concepts ~ https://concepts.app/en/
 * 6k stars, 1M installs, California
 * Interesting user interface
-* $30 year ~ W10, Android, ChromeOS, etc
+* $30 year pain June 2021 ~ W10, Android, ChromeOS, etc
+* Link W10 and Android
+* Has pen, layers, good lettering
+
 
 ## Draw.io https://app.diagrams.net/ ~ draw.io
 * No touch, has touch issues
@@ -81,6 +90,7 @@
 * 66k stars, 10M installs
 * $10
 * Handles pressure nicely
+* No W10
 
 ## https://inker.co
 * deprecated
@@ -95,7 +105,6 @@
 * 100K installs ~ 1.7K stars
 * Sculpting and painting ~ amaining
 
-##
 
 ## https://www.sketch.com/
 * $100 / year
@@ -131,7 +140,23 @@
 * looks OK. $99 per year
 * Odd things with strokes
 
-***
+## W10
+
+## Evernote
+* no drawing note??
+
+## https://inkscape.org/
+* Download only
+
+## LibreOffice Draw
+* Has tablet support
+* Many export formats
+* Not so good for just drawing
+
+## Microsoft Paint 3D
+* No pressure
+
+
 
 ## Tech on GitHub
 
@@ -162,33 +187,4 @@
 
 ## https://svgedit.netlify.app/editor/index.html
 	* https://github.com/SVG-Edit/svgedit
-
-
-***
-
-## Android, W10 etc
-
-### Concepts https://concepts.app/en/
-* App or download
-* iOS, Android W10
-
-
-## LibreOffice Draw
-* Has tablet support
-* Many export formats
-* Not so good for just drawing
-
-***
-
-## Windows or download only
-
-
-## https://inkscape.org/
-* Download only
-
-## Microsoft Paint 3D
-* No pressure
-
-## Evernote
-* no drawing note??
 
