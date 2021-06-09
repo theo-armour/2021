@@ -60,6 +60,10 @@ Also
 
 * https://www.mindful.org/difference-between-being-and-doing/
 
+tropes
+
+* https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes
+
 
 ## Change Log
 

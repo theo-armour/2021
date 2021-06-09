@@ -30,15 +30,13 @@ Concepts seems to be leading - woorks wherever I need it
 
 
 ## https://boxy-svg.com/ ~ $$
-* touch but no pressure
+* touch & pressure chrome & Asus ~ not on huion
 * Many cool features
 * Text on curve
 * Acad Polyline arcs
 * SVG text window
-* No layers
-
-## canva ~ https://www.canva.com/
-* website design program
+* No layers - but can group
+* No fun brushes
 
 
 ## Clip Studio Paint ~ https://www.clipstudio.net/en/
@@ -51,9 +49,9 @@ Concepts seems to be leading - woorks wherever I need it
 ## *** Concepts ~ https://concepts.app/en/
 * 6k stars, 1M installs, California
 * Interesting user interface
-* $30 year pain June 2021 ~ W10, Android, ChromeOS, etc
+* $30 year paind June 2021 ~ W10, Android, ChromeOS, etc
 * Link W10 and Android
-* Has pen, layers, good lettering
+* Has s-pen not huion, layers, good lettering
 
 
 ## Draw.io https://app.diagrams.net/ ~ draw.io
@@ -61,13 +59,15 @@ Concepts seems to be leading - woorks wherever I need it
 * No good free hand
 * Many vector features
 
-## https://designer.gravit.io ~ $$
+## https://designer.gravit.io ~ $$ ~ Owned by Corel!
 * https://designer.io
 * Looks very featured ~ but complicated
 * No pressure, no touch??
 * $49 / year
-* Few vertex editing tools, no decimate
+* Few vertex editing tools, no decimate, can delete one by one
 * Not exciting
+* Has layers
+* no brushes
 
 ## Drawings Google ~ https://docs.google.com/drawings
 * Exports to SVG
@@ -79,8 +79,9 @@ Concepts seems to be leading - woorks wherever I need it
 * Collaborative
 * Excellent handwriting
 * Export to SVG, Clipboard, Link
-* no pressure
+* no pressure, no layers
 * Cannot edit vertices
+* Browser only
 
 ## https://www.hand-write.com/ ~ fremium ~
 * s pen support 2020
@@ -90,7 +91,8 @@ Concepts seems to be leading - woorks wherever I need it
 * 66k stars, 10M installs
 * $10
 * Handles pressure nicely
-* No W10
+* Very nice "vectorize" feature
+* Android & ChromeOS. No W10, no browser
 
 ## https://inker.co
 * deprecated
@@ -103,12 +105,13 @@ Concepts seems to be leading - woorks wherever I need it
 
 ## Nomad Sculpt ~ https://nomadsculpt.com/
 * 100K installs ~ 1.7K stars
-* Sculpting and painting ~ amaining
+* Sculpting and painting ~ amazining
 
 
 ## https://www.sketch.com/
 * $100 / year
 * Mac only
+
 
 ## https://sketch.io/sketchpad
 * exports to svg
@@ -118,10 +121,6 @@ Concepts seems to be leading - woorks wherever I need it
 * Online, app, download
 * Missing features
 
-## Sketches ~ https://tayasui.com/
-* Many apps
-* Very finger oriented
-* Good water color??
 
 ## https://vectr.com
 * for drawing not handwriting
@@ -129,6 +128,9 @@ Concepts seems to be leading - woorks wherever I need it
 * Accepts pen but seems to have no settings
 * URL for every design - very collaborative
 * Limited set of tools and controls. boring?
+* Can edit vertices a bit (move delete) no simplify
+* No control over smoothness
+* No continuous drawing -
 
 ## https://vectorpaint.yaks.co.nz
 * Nothing special
@@ -140,18 +142,25 @@ Concepts seems to be leading - woorks wherever I need it
 * looks OK. $99 per year
 * Odd things with strokes
 
+
+
 ## W10
+
+## Adobe Illustrator
+* $20/month
 
 ## Evernote
 * no drawing note??
 
 ## https://inkscape.org/
 * Download only
+* Could use https://offidocs.com but looks like no touch or pen support
 
 ## LibreOffice Draw
 * Has tablet support
 * Many export formats
 * Not so good for just drawing
+* No way on Chromebook
 
 ## Microsoft Paint 3D
 * No pressure

@@ -17,6 +17,7 @@
 
 _A few of the sites listed in the portal pages_
 
+
 * https://www.yourworldoftext.com/home/
 	* Text only
 * https://www.groupboard.com/products/
@@ -38,6 +39,9 @@ _A few of the sites listed in the portal pages_
 * https://lucidspark.com/
 	* $$$
 
+## canva ~ https://www.canva.com/
+* website design program
+
 ### JamBoard ~ Google ~ https://jamboard.google.com
 * export as PDF or JPG
 
@@ -51,11 +55,11 @@ _A few of the sites listed in the portal pages_
 ## Microsoft Whiteboard ~ https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app
 * The elephant in the room
 * No SVG export
+
 ### OneNote ~ https://www.onenote.com/hrd
 * Not pressuse sensitive
 * Export to PDF
 * needs desktop version to save or export
-
 
 #### pros
 

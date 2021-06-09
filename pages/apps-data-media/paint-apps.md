@@ -53,3 +53,9 @@
 ## Sanapseed ~ Google ~ https://support.google.com/snapseed#topic=6155507
 
 * 100M installs, 1.3m stars
+
+
+## Sketches ~ https://tayasui.com/
+* Many apps
+* Very finger oriented
+* Good water color??
