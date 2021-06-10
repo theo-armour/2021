@@ -27,6 +27,10 @@ Copy and paste icon SVG code
 Pure CSS Sidebar Toggle Menu
 * https://codepen.io/plavookac/pen/qomrMw
 
+Semantic tagging
+
+* https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
+
 
 ## Tips
 

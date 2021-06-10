@@ -37,3 +37,6 @@
 * https://dev.to/pascavld/20-useful-free-resources-for-web-developers-2c3n
 * https://dev.to/coffeestasia/background-music-for-coding-for-every-taste-2oo6
 
+## Principles
+
+* https://uxdesign.cc/the-web-we-choose-to-build-e921510e3f1b
