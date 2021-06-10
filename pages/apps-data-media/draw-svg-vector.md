@@ -167,6 +167,23 @@ Concepts seems to be leading - woorks wherever I need it
 
 
 
+## Vectorization
+
+* https://vectormagic.com/
+* https://www.vectorizer.io/
+
+### Infinite Designer
+
+Nice
+
+Quality: 200 ~ makes dots smaller ~ increases number of things to be calculated ~ slows things down
+Colors: 32 ~ 16 or less creates more dots
+Smooth: 1 < anything greater may create gaps ~ but better splotches
+Minimum points: 0 - 2 ~ anything greater: more dots
+Expand: 4
+Simplify: 0 - 0.4 ~ not much differencen ~ slows things down
+Style: stack ~ best ~ flatten & stencil: round dots to surface ~
+
 ## Tech on GitHub
 
 ## https://snap.svg
