@@ -169,6 +169,12 @@ Concepts seems to be leading - woorks wherever I need it
 
 ## Vectorization
 
+* http://vectorizer.oscaralexander.com/
+* http://maxim-s-barabash.github.io/ZebraTrace/
+* https://drawingbotv3.readthedocs.io/en/latest/
+* https://markmohr.github.io/virtual_sketching/
+* https://github.com/stickerum/contourer
+* https://svgurt.com/#/ ~ https://github.com/Anemy/svgurt
 * https://vectormagic.com/
 * https://www.vectorizer.io/
 
