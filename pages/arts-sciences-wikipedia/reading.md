@@ -35,3 +35,8 @@ On Exactitude in Science
 * https://www.milibrary.org/events/writers-lunch-your-writing-routine-jun-18-2021
 * https://www.milibrary.org/events/write-if-you-dare-jun-03-2021
 * https://www.milibrary.org/events/write-if-you-dare-jun-03-2021
+
+## Cowboy Poetry
+
+* https://en.wikipedia.org/wiki/Cowboy_poetry
+
