@@ -20,6 +20,16 @@ About
 * https://www.theatlantic.com/magazine/archive/2019/04/amy-hempel-sing-to-it/583231/
 * https://www.theparisreview.org/interviews/227/the-art-of-fiction-no-176-amy-hempel
 
+
+## Borges
+
+On Exactitude in Science
+
+* https://kwarc.info/teaching/TDM/Borges.pdf
+* https://en.wikipedia.org/wiki/On_Exactitude_in_Science
+* The map is not the territory
+
+
 ## Mechanics Institute Library
 
 * https://www.milibrary.org/events/writers-lunch-your-writing-routine-jun-18-2021
