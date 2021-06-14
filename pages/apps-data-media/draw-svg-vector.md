@@ -178,7 +178,13 @@ Concepts seems to be leading - woorks wherever I need it
 * https://vectormagic.com/
 * https://www.vectorizer.io/
 
-### Infinite Designer
+
+## Patterns / Dither
+
+* https://doodad.dev/
+
+
+### Infinite Designer Usage
 
 Nice
 
