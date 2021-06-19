@@ -8,11 +8,17 @@ Below are texts & sources that I look to for inspiration as I tackle projects.
 * 2021-05-19 ~ May be better as a series of small files
 * 2021-05-18 ~ There is a fair amount of more stuff that may be added here.
 
+## Basic Idea
+
+https://www.salon.com/2021/06/15/why-our-wandering-brains-are-wired-to-love-art-and-nature/
+
+But here is the takeaway: we are not biologically programmed to like or this or that object, but rather inclined to enjoy the process of play, improvisation, trial, and error in all things. In other words, recent research into mind wandering and fractals suggests that the process of creativity and unconscious play involved in making and experiencing art is a crucial source of aesthetic beauty and our love of nature.
 ## Aphorisms
 
 Will ba adding my favs
 
 * Those who do not learn from history are doomed to repeat it
+* Those who do not record their history are doomed to forget they are repeating it.
 
 ## Tina Fey ~ Four Rules of Improv
 

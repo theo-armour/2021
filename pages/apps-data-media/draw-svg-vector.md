@@ -219,6 +219,9 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 ## https://github.com/rough-stuff/rough
 
+## SVG.js https://github.com/svgdotjs/svg.js
+	* https://svgjs.dev/docs/3.0/
+	
 ## https://turnerdev.github.io/svg-studio/
 	* https://github.com/turnerdev/svg-studio
 

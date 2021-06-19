@@ -1,4 +1,4 @@
-# drawing
+# drawing content
 
 ## one line drawing
 
@@ -15,8 +15,8 @@ A number of nice solutions
 
 * https://runwayml.com/
 
-## Instagrams
 
+## Instagrams
 
 https://www.instagram.com/ifyouhigh/ — Different, odd, unexpected, weird. My favorite.
 https://www.instagram.com/vikmuniz/ — Always surprising bits of beauty.
@@ -25,3 +25,5 @@ https://www.instagram.com/geometriasagrada/ — Geometrical / mathematical art w
 https://www.instagram.com/ememem.flacking/ — Creative public tile mosaics.
 https://www.instagram.com/okudart/ — Colorful polygon master.
 https://www.instagram.com/studioolafureliasson/ — Star artist’s tech sophisticated installations.
+
+## Karigami
