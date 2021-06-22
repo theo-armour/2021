@@ -1,6 +1,7 @@
 # [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )](https://github.com/theo-armour/2021/blob/main/pages/orgs-networks-peeps/genealogy.md "Source code on GitHub" ) [TT 2021]( https://theo-armour.github.io/2021/ "Home page" ) / [Genealogy]( https://theo-armour.github.io/2021/#orgs-networks-peeps/genealogy.md)
 
 
+
 ## Reference
 
 * https://en.wikipedia.org/wiki/Genealogy
@@ -98,11 +99,9 @@ Theo has a premium account
 
 Theo has a premium account
 
-### Familypedia
+### https://familypedia.wikia.org/wiki/Family_History_and_Genealogy_Wiki
 
 * https://en.wikipedia.org/wiki/Familypedia
-* https://familypedia.wikia.org/wiki/Family_History_and_Genealogy_Wiki
 
-### Familytree.com
-
-* https://www.familytree.com/* https://www.familytree.com/learn/link-up-with-researchers-interested-in-your-surname/
+### https://www.familytree.com/
+* https://www.familytree.com/learn/link-up-with-researchers-interested-in-your-surname/
