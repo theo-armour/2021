@@ -10,6 +10,12 @@ The UN estimates that between 6 and 7 million people die prematurely each year a
 
 An independent UN expert said that the failure of governments across the world to ensure clear air, constitutes a “violation of the rights to life, health and well-being, as well as the right to live in a healthy environment.”
 
+Paris Accord
+
+* https://en.wikipedia.org/wiki/Paris_Agreement
+* https://en.wikipedia.org/wiki/Climate_change_mitigation
+Climate change mitigation consists of actions to limit global warming and its related effects. This involves reductions in human emissions of greenhouse gases (GHGs) as well as activities that reduce their concentration in the atmosphere.
+
 In the US
 
 The Clean Air Act is a United States federal law which limits national air pollution. Initially enacted in 1963 and amended in 1965, 1967, 1970, 1977, and 1990, it is one of the United States' first and most influential modern environmental laws, and one of the most comprehensive air quality laws in the world. As with many other major U.S. federal environmental statutes, it is administered by the U.S. Environmental Protection Agency (EPA), in coordination with state, local, and tribal governments.
@@ -27,6 +33,13 @@ In San Francisco
 The Bay Area Air Quality Management District aims to create a healthy breathing environment for every Bay Area resident while protecting and improving public health, air quality, and the global climate.
 
 We maintain the right of Bay Area residents to breathe clean air.
+
+### Know your air
+
+You already know a lot of science:
+
+* Temperature, humidity, air pressure, speed, direction, weather
+
 
 
 ### Knowing if your air clean
