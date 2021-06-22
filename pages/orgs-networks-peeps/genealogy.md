@@ -77,15 +77,16 @@ Terms
 * https://www.trace.com/
 * https://www.progenealogists.com/
 
-More ?
+More providers?
 
 https://www.thumbtack.com/
 
 About
 
-* https://www.familysearc* https://www.apgen.org/cpages/how-to-hire-a-professional-genealogist
+* https://www.familysearch.org/wiki/en/Hiring_a_Professional_Researcher
+* https://www.apgen.org/cpages/how-to-hire-a-professional-genealogist
 * https://www.geni.com/projects/Expert-Genealogists-on-Geni/1319
-h.org/wiki/en/Hiring_a_Professional_Researcher
+
 
 
 ## Providers
