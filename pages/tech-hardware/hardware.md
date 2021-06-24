@@ -12,6 +12,12 @@ RAM, 1TB SSD, GeForce RTX 3070, ScreenPad Plus, Windows 10 Pro, Celestial Blue, 
 
 ??
 
+
+## Gimbals
+
+* $89 https://www.amazon.com/dp/B09339NVB3
+
+
 ## Keyboards
 
 IC-BK05

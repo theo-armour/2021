@@ -4,8 +4,10 @@
 
 * https://www.amazon.com/Boogie-Board-8-5-Inch-Writing-PT01085BLKA0002/dp/B00AFPR684
 * https://www.amazon.com/Boogie-Board-Writing-Drawing-eWriter-dp-B010HWCEFY/dp/B010HWCEFY
-* 8.5 " $9 ~ https://www.amazon.com/Writing-Electronic-Drawing-Sunany-Handwriting/dp/B07DLQMN8G/
-* https://www.amazon.com/dp/B085DDJCNL/ref=vp_d_pb_TIER2_sessmp_lp_B010HWCEFY_pd
+* 4.5" ~ https://www.amazon.com/dp/B010HWC6MA
+* 8.5 ~ $9 ~ https://www.amazon.com/Writing-Electronic-Drawing-Sunany-Handwriting/dp/B07DLQMN8G/
+* 12" https://www.amazon.com/dp/B08W44XFP2/
+* 8.5 ~ colorful ~ https://www.amazon.com/dp/B085DDJCNL
 * 15" $21 ~ https://www.amazon.com/Fverey-Writing-Colorful-Educational-Electronic/dp/B08ML3Z9ZX
 * https://www.amazon.com/Jonzoo-Electronic-Blackboard-Handwriting-Erasable/dp/B07WQWP6V7
 

@@ -223,6 +223,8 @@ Products
 * https://www.amazon.com/stores/Coway/page/0CDBA6E0-63C9-44E4-89B4-219B10C265E5
 * https://www.amazon.com/gp/product/B0899GYD96
 	* Coway Airmega 150 True HEPA Purifier with Air Quality Monitoring and Auto Mode, Filter Change Indicator, Dove White
+	* Blue color means clean. Green color (for some models) means slight. Yellow color (for some models) means heavy. Dark purple (for some models) means polluted
+
 * https://www.amazon.com/Coway-AP-1512HH-Mighty-Purifier-True/dp/B01728NLRG
 * https://www.amazon.com/gp/product/B07VVK39F
 	* LEVOIT Air Purifier for Home Allergies and Pets Hair Smokers in Bedroom, H13 True HEPA Filter, 24db Filtration System Cleaner Odor Eliminators, Remove 99.97% Dust Smoke Mold Pollen, Core 300, White
