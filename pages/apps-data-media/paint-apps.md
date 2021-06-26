@@ -11,6 +11,9 @@
 * Can export png to Google Drive
 * Then open with irfanview
 
+## Canvas ~ Nvidia ~ https://www.nvidia.com/en-gb/studio/canvas/
+* https://news.ycombinator.com/item?id=27626610
+
 ## Sketchbook ~ Autodesk ~ https://www.autodesk.com/products/sketchbook/overview
 * Bitmap only
 * Download or app
