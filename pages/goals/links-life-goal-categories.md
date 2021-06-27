@@ -112,14 +112,11 @@ Basic recommendations for every day:
 4-Manage your stress levels like your life depends on it. (It does.)
 
 
-
-
 ### 2. CAREER GOALS
 
 According to Forbes, 87% of workers are either not engaged or actively disengaged in their jobs. The list of reasons is far and many. But bottom line is that you’re very likely to be in that 87%. Even if you happen to be in the 13% of happy employees, are you really satisfied to do what you’re doing for the rest of your career?
 
 Are you interested in a different field? Do you need more training or a higher education? Or even just a different degree of study? Maybe you want to climb the ladder where you’re at. Or own your own business doing what you’re already doing. Whatever you would rather be doing is where you need to start with setting these types of life goals.
-
 
 
 You’re the only person that can answer these questions to get to the root of where you want to head.

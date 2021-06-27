@@ -9,8 +9,14 @@ Goals & Objectives
 Means          Ends
 
 * Mission        Vision
-* Strategies     Goals
-* Tactics        Objectives
+* Strategies    
+* Goals
+* Tactics        
+* Objectives
+* Values
+* targets
+* Indicators
+
 
 ## SMART goals
 
@@ -30,3 +36,10 @@ https://www.nytimes.com/2017/12/18/smarter-living/how-to-stick-with-new-years-re
 * Achievable: Aim high, but within reason. Your goal should be a stretch, but something you could actually achieve.
 * Relevant: Find a goal that matters enough to you that you’ll be motivated to stick with it.
 * Time-bound: Set a reasonable timeline for your goal, and focus on the small wins along the way.
+
+## FAST Goals
+
+* frequently discussed, ambitious, specific, and transparent.
+* https://sloanreview.mit.edu/article/with-goals-fast-beats-smart
+* http://apppm.man.dtu.dk/index.php/FAST_goals
+* https://www.workpath.com/magazine/fast-goals
