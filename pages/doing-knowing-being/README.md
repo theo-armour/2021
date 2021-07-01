@@ -49,6 +49,11 @@ Edward M. Glaser proposed that the ability to think critically involves three el
 * https://en.wikipedia.org/wiki/Epistemology
 * https://en.wikipedia.org/wiki/Classification
 
+Fashions
+
+* http://mason.gmu.edu/~rhanson/belieflikeclothes.html
+* https://news.ycombinator.com/item?id=27694682
+
 International Society for Knowledge Organization
 * https://www.isko.org/index.php
 
@@ -63,6 +68,7 @@ Also
 tropes
 
 * https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes
+
 
 
 ## Change Log

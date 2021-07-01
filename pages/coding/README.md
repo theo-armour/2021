@@ -1,5 +1,10 @@
 # Coding Read Me
 
+## Engineering
+
+* https://www.scientificamerican.com/article/miami-building-collapse-could-profoundly-change-engineering/
+* https://news.ycombinator.com/item?id=27695523
+
 ## APIs
 
 * https://github.com/public-apis/public-apis

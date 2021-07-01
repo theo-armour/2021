@@ -59,3 +59,8 @@ Ditto books, bookmarks, baseball cards, collections and more
    - People will look to the actions of others to determine their own
 
 https://www.influenceatwork.com/principles-of-persuasion/
+
+## Archives
+
+* http://www.massobs.org.uk/about/mass-observation-project
+* https://news.ycombinator.com/item?id=27667456

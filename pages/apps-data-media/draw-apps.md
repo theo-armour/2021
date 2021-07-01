@@ -21,3 +21,9 @@
 ## Viewers & Galleries
 
 https://fengyuanchen.github.io/viewerjs/
+
+
+## Posterize
+
+* https://rosenzweig.io/blog/monotone-portraits-with-glsl.html
+* https://news.ycombinator.com/item?id=27686793
