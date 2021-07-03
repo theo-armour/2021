@@ -8,6 +8,7 @@
 
 > An art manifesto is a public declaration of the intentions, motives, or views of an artist or artistic movement. Manifestos are a standard feature of the various movements in the modernist avant-garde and are still written today. Art manifestos are sometimes in their rhetoric intended for shock value, to achieve a revolutionary effect. They often address wider issues, such as the political system. Typical themes are the need for revolution, freedom (of expression) and the implied or overtly stated superiority of the writers over the status quo.[citation needed] The manifesto gives a means of expressing, publicizing and recording ideas for the artist or art group—even if only one or two people write the words, it is mostly still attributed to the group name.
 
+
 ## Examples of manifestos
 
 Wikipedia links are useful because they provide both links to the original text as well as guidance on commentaries and criticisms
@@ -25,8 +26,6 @@ Wikipedia links are useful because they provide both links to the original text 
 * https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
 
 
-
-
 ## Links of Interest
 
 
@@ -41,12 +40,14 @@ Wikipedia links are useful because they provide both links to the original text 
 * https://en.wikipedia.org/wiki/Category:Rules
 * https://en.wikipedia.org/wiki/Category:Simple_living_advocates
 
+
 ### More
 
 * https://en.wikipedia.org/wiki/Human_rights
 * https://en.wikipedia.org/wiki/Simple_living
 * https://en.wikipedia.org/wiki/Wikipedia:Ten_simple_rules_for_editing_Wikipedia
 * https://en.wikisource.org/wiki/Dada_Manifesto_(1916,_Hugo_Ball)
+
 
 ### Even more
 

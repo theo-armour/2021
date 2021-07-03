@@ -167,7 +167,6 @@ Check out these related posts...  10 Ways to Stay Motivated to Work Out Every Da
 Go here to read: How to Create a Working Household Budget and get a free printable Home Budgeting Planner.
 
 
-
 ### 6. PHYSICAL ENVIRONMENT GOALS
 
 Physical environment goals deal with the place you spend most of your time, whether that includes your lovely abode, your office/desk space at work, or even the gym.
@@ -181,9 +180,7 @@ If you don’t have a lot of control over your office environment at work, do th
 On the home front, figure out what would make you and your family happy. Write these home goals into your big master plan. Even if it’s something as simple as organizing the pantries.
 
 
-
 ### 7. SPIRITUAL GOALS
-
 
 I grew up in the South—meaning: Southern Baptist church. Lots of things being frowned upon that are fun. Like cussing, or dancing, or having a drink. All things I very much like to do. Once I started studying religion, and had a very enlightening conversation with a friend that studied this at the college level, I realized that one set religion does not a spiritual being make.
 
@@ -196,7 +193,6 @@ My point is that you grow, and learn about yourself, and the universe, and the w
 Everyone’s spiritual journey will be different. But your innermost soul is nourished when you take the time for it.
 
 
-
 ### 8. LEISURE GOALS
 
 What do you like to do in your free time? You know…assuming you have tiny amounts as a busy mom. (Yes, I realize that sounds like a giant oxymoron. But go with me here…) Do you like taking family vacations? Girls-only trips? Or is it learning a new skill like painting or doing a fun outing to learn rock climbing?
@@ -204,6 +200,7 @@ What do you like to do in your free time? You know…assuming you have tiny amou
 Gather your and your family goals to help each other. Time off is a HUGE stress management tool. But it also helps build relationships with those people you share these experiences with.
 
 
+***
 
 This list can sound like a huge undertaking, no doubt. But working with your life in segments, and seeking improvement by first creating goals will set you up for some serious success and fulfillment.
 

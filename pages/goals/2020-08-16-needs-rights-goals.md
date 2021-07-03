@@ -80,7 +80,6 @@ Social Belonging needs include:
 * desire to reach the infinite.
 
 
-
 ## Maslow's list of Metaneeds:
 
 https://en.wikipedia.org/wiki/Metamotivation
@@ -100,6 +99,7 @@ https://en.wikipedia.org/wiki/Metamotivation
 * Autonomy (self-sufficiency)
 * Meaningfulness (values)
 
+
 ## Links of Interest
 
 ### Maslow links
@@ -107,7 +107,7 @@ https://en.wikipedia.org/wiki/Metamotivation
 * https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 * http://webspace.ship.edu/cgboer/maslow.html
 * https://www.simplypsychology.org/maslow.html
-*
+
 
 ### Manfred Max-Neef
 

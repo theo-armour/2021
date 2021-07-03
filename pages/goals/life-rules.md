@@ -25,4 +25,6 @@ Sources
 * https://medium.com/the-mission/6-golden-rules-for-living-a-good-life-now-c639ba15b8e
 * https://www.success.com/13-life-rules-to-keep-you-motivated/
 * https://www.inc.com/jessica-stillman/the-12-life-rules-everyone-should-make-for-themselves.html
-
+* https://www.scouting.org/about/faq/question10/
+* https://www.aboutamazon.com/about-us/leadership-principles
+* https://en.wikipedia.org/wiki/Burning_Man#Principle

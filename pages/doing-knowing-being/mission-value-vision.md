@@ -19,7 +19,7 @@ We want to answer questions such as these
 * Defines the fundamental purpose of an organization or an enterprise,
 * Succinctly describes why the organization exists and what it does to achieve its vision.
 * The mission is the means of successfully achieving the vision
-
+* 2021-07-02 the mission statements respond to human needs
 
 ## Vision ~ Why do it?
 
@@ -43,10 +43,12 @@ Mission and vision are the typical items organizations list about themselves. Th
 
 ## Values ~ Who you are?
 
-* Statements of ethics, principles, beliefs that are shared among the stakeholders of an organization. 
+* Statements of ethics, principles, beliefs that are shared among the stakeholders of an organization.
 * Statements of values that drive an organization's culture and priorities and provide a framework in which decisions are made.
 * How do you want to behave?
 * What do you stand for?
+* 2021-07-02 ~ See manifestos.
+
 
 
 ## Strategies ~ How will you get there?
@@ -156,6 +158,8 @@ Information on the perspectives of women and girls (rights-holders) and service 
 
 Select a set of indicators that pertain to the identified objectives for the programme. If the intervention focuses on training providers, select indicators related for example to providers’ knowledge, attitudes and practices, ability to provide care, ability to make referrals, or others depending on the specific objective.
 
+
+
 ### How many indicators are enough?
 
 Some guidelines to follow when selecting indicators:
@@ -235,6 +239,10 @@ Some authors add a sixth question, how, to the list:
 * http://www.mindtools.com/pages/article/newSTR_72.htm
 * http://image.slidesharecdn.com/integrating-goal-modeling-and-execution-in-adaptive-complex3321/95/integrating-goal-modeling-and-execution-in-adaptive-complex-6-728.jpg
 
+Values
+
+* https://www.aboutamazon.com/about-us/leadership-principles
+* https://www.scouting.org/about/faq/question10/
 
 ***
 

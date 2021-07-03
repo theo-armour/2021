@@ -81,6 +81,9 @@ COVID19 has a diameter of approximately 60–140 nm or 0.06 to 1.4 microns.
 
 ## Reference
 
+CO2 : Carbon dioxide : a colorless and odorless gas that is usually derived from the breath of humans and animals. High CO2 concentration means that fresh air or ventilation is required, otherwise it may cause problems such as drowsiness, dizziness, loss of attention and cognitive impairment.
+
+
 * https://en.wikipedia.org/wiki/Air_quality_law
 
 > Air quality laws govern the emission of air pollutants into the atmosphere. A specialized subset of air quality laws regulate the quality of air inside buildings. Air quality laws are often designed specifically to protect human health by limiting or eliminating airborne pollutant concentrations. Other initiatives are designed to address broader ecological problems, such as limitations on chemicals that affect the ozone layer, and emissions trading programs to address acid rain or climate change. Regulatory efforts include identifying and categorizing air pollutants, setting limits on acceptable emissions levels, and dictating necessary or appropriate mitigation technologies.
@@ -89,14 +92,19 @@ COVID19 has a diameter of approximately 60–140 nm or 0.06 to 1.4 microns.
 
 * https://www.epa.gov/pm-pollution/particulate-matter-pm-basics
 
->PM10 : inhalable particles, with diameters that are generally 10 micrometers and smaller
-> PM2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
+>PM10 : Particulate Matter 10 : inhalable particles, with diameters that are generally 10 micrometers or less. Due to the larger size, the particles are inhalable but penetrate no further than bronchi as the larger particles can be filtered out by the cilia and mucus of nose and throat. PM10 particles are normally considered as less harmful to health than PM2.5.
+
+> PM2.5 : Particulate Matter 2.5 : fine inhalable particles, with diameters that are generally 2.5 micrometers or less. Due to their tiny size, PM2.5 may be absorbed into the bloodstream and the lungs. Long term exposure to high concentration of PM2.5 may cause eye and nose irritation, coughing, asthma, emphysema, lung disease, heart attacks, cancer etc.
+
 How small is 2.5 micrometers? Think about a single hair from your head. The average human hair is about 70 micrometers in diameter – making it 30 times larger than the largest fine particle.
 
 * https://en.wikipedia.org/wiki/Indoor_air_quality
 
-TVOC = total volatile organic compounds
-HVHO = Formaldehyde - organic air pollutant containing one atom of carbon, one atom of oxygen and two atoms of hydrogen. It has the chemical formula HCHO or CH2O.
+TVOC : Total Volatile Organic Compounds : Various common VOCs include benzene, toluene, styrene, formaldehyde. Due to their volatility as well as toxicity, irritability and carcinogenicity, long term exposures to TVOC's may cause damage to the skin, liver, kidneys, central nervous system etc
+
+HVHO : Formaldehyde (HCHO or CH2O) : Colorless and strong smelling gas with formula CH2O, which has been classified by the IARC as a Group 1 carcinogen. Long term exposure to just low doses could cause chronic respiratory disease, nasopharyngeal carcinoma, colon cancer, brain tumors, nuclear gene mutation etc
+
+organic air pollutant containing one atom of carbon, one atom of oxygen and two atoms of hydrogen. It has the chemical formula HCHO or CH2O.
 
 
 * https://en.wikipedia.org/wiki/Particulates
@@ -107,7 +115,7 @@ HVHO = Formaldehyde - organic air pollutant containing one atom of carbon, one a
 
 * https://en.wikipedia.org/wiki/HEPA
 > COVID-19
-SARS‑CoV‑2 is approximately 0.125 µm. Airborne droplets of SARS-CoV-2 could be captured by HEPA filters, even if they are on the floor.
+> SARS‑CoV‑2 is approximately 0.125 µm. Airborne droplets of SARS-CoV-2 could be captured by HEPA filters, even if they are on the floor.
 
 ### NIH
 

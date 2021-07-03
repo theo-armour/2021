@@ -13,6 +13,7 @@ Below are texts & sources that I look to for inspiration as I tackle projects.
 https://www.salon.com/2021/06/15/why-our-wandering-brains-are-wired-to-love-art-and-nature/
 
 But here is the takeaway: we are not biologically programmed to like or this or that object, but rather inclined to enjoy the process of play, improvisation, trial, and error in all things. In other words, recent research into mind wandering and fractals suggests that the process of creativity and unconscious play involved in making and experiencing art is a crucial source of aesthetic beauty and our love of nature.
+
 ## Aphorisms
 
 Will ba adding my favs
@@ -68,6 +69,7 @@ https://succeedfeed.com/peter-drucker-quotes/
 * Doing the right thing is more important than doing the thing right
 * if you want something new, you have to stop doing something old.
 
+
 ## Teddy Roosevelt
 
 > “This country will not be a permanently good place for any of us to live in unless we make it a reasonably good place for all of us to live in.”
@@ -93,6 +95,7 @@ How can be happy when others are unhappy?
 
 * https://www.reddit.com/r/askphilosophy/comments/dq46g6/how_to_be_happy_in_an_unjust_world/
 
+
 ## Meaning of Life
 
 https://en.wikipedia.org/wiki/Meaning_of_life
@@ -102,6 +105,7 @@ Finding meaning in life is a very tricky thing indeed, Fortunately and similarly
 https://en.wikipedia.org/wiki/Turtles_all_the_way_down
 
 For me it’s doing nice things - things that are simultaneously nice for me and good for the world.
+
 
 ## Simple Living
 
@@ -126,6 +130,7 @@ The general format is an adaptation of the ideas developed in Alexander's _et al
 Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.
 
 patterns are descriptions of common problems and proposal for the solutions that can be used repeatedly every time the problem is encountered and producing an different outcome.
+
 
 ## Burning Man > The 10 Principles of Burning Man
 
@@ -177,8 +182,8 @@ If I am to create a vision statement I might as well stand on the shoulders of t
 
 The SDGs are such. And given that they offer a vision for the entire world in 2030 it behooves us to know about them and take them to heart.
 
-## Follow Wikipedia
 
+## Follow Wikipedia
 
 * https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
 
@@ -192,16 +197,13 @@ https://en.wikipedia.org/wiki/Wikipedia:Core_content_policies
 
 Wherever possible, the goals will link to reports, studies, laws, codes or whatever that support the premise at hand. It is intended that the work be evidence-based rather than thoughts off the top of people’s head.
 
+
 ## Fixing it may break it
 
 Fixing something that is old does not make it new. If you do want something contemporary and futurable you may need to take the old bits and reimagine them into an entirely new thing.
 
 Looking back at the way things were done in the past may not always help you create a good vision for the future.
 
-
-***
-
-<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
 
 
 ## Diet
@@ -222,3 +224,9 @@ Looking back at the way things were done in the past may not always help you cre
 * Cooking in a Bedsit
 * Julia Child
 * Michelin 3 stars
+
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

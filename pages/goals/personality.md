@@ -6,11 +6,12 @@ https://en.wikipedia.org/wiki/Big_Five_personality_traits
 
 How do these fit in?
 
-1. Extroversion
-2. Agreeableness
-3. Conscientiousness
-4. Emotional Stability versus Neuroticism
-5. Openness to Experience + Intellect ( Imagination )
+1. extraversion (outgoing/energetic vs. solitary/reserved)
+2. agreeableness (friendly/compassionate vs. critical/rational)
+3. openness to experience (inventive/curious vs. consistent/cautious)
+4. conscientiousness (efficient/organized vs. extravagant/careless)
+5. neuroticism (sensitive/nervous vs. resilient/confident)[4]
+
 
 ## Myers Briggs
 

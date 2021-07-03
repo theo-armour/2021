@@ -201,7 +201,8 @@ Christian trinity: God ~ there at the start and finish
 * Why: Pinnacle Time / Hope? - which is a future time
 * Where: office
 
-### Place in the Triads
+
+### 3 Place in the Triads
 
 Doing: ::Fireworks:: Level 3, Production
 
@@ -312,10 +313,9 @@ More lists to parse
 * https://en.wikipedia.org/wiki/Manfred_Max-Neef's_Fundamental_human_needs
 * Yikes: http://www.scientologycourses.org/courses-view/tone-scale/step/the-hubbard-chart-of-human-evaluation.html
 
-## Jornal
+## Journal
 
 ### 2021-01-24
-
 
 Is sustainability a better word than security? Does sustainability include rights and freedoms?
 
