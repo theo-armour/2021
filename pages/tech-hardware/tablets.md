@@ -33,5 +33,5 @@ BOOX Nova3 7.8 ePaper, 300 DPI, Front Light, Android 10 Digital Paper E Ink Note
 ## Wacom
 
 * https://www.amazon.com/Wacom-Cintiq-Drawing-Tablet-DTK1660K0A/dp/B07L77GTTY
-* https://www.amazon.com/Wacom-Graphics-Animation-Beginners-DTC133W0A/dp/B082LZXQ6B
+* $399 ~ https://www.amazon.com/Wacom-Graphics-Animation-Beginners-DTC133W0A/dp/B082LZXQ6B
 
