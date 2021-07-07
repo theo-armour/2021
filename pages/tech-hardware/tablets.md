@@ -1,5 +1,11 @@
 # Tablets
 
+## Huion
+
+2021 HUION KAMVAS 12 Graphics Drawing Tablet with Screen Full Lamination Android Support Battery-Free Sylus Tilt 8 Press Keys Adjustable Stand
+
+* https://www.amazon.com/gp/product/B08P1MR8F
+
 ## LCD Writing Tablets
 
 * https://www.amazon.com/Boogie-Board-8-5-Inch-Writing-PT01085BLKA0002/dp/B00AFPR684
