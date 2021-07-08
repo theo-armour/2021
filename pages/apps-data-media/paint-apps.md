@@ -43,14 +43,12 @@
 * No SVG export
 
 
-## Krita ~ https://krita.org/en
-* App in beta, W10, iOS, linux
-* looks nice
+
 
 
 ## PenUp ~ https://www.penup.com/main/home
-	* 100K stars
-	* 100M installs
+* 100K stars
+* 100M installs
 
 
 ## Sanapseed ~ Google ~ https://support.google.com/snapseed#topic=6155507

@@ -1,5 +1,24 @@
 # Drawing
 
+## Krita ~ https://krita.org/en
+* App in beta, W10, iOS, linux
+* looks nice
+
+* https://krita.org/en/
+* https://docs.krita.org/en/
+
+* android : https://play.google.com/store/apps/details?id=org.krita&hl=en_US&gl=US
+* https://forum.kde.org/viewforum.php?f=136
+* linux: https://apps.kde.org/krita/
+* https://www.instagram.com/krita_foundation/?hl=en
+
+* https://krita-artists.org/
+* https://kritatutorials.com/
+## Compare
+
+* https://fixthephoto.com/inkscape-vs-krita.html
+* https://www.slant.co/versus/4789/11484/~adobe-illustrator-cc_vs_krita
+
 ## Articles
 
 * https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
@@ -24,7 +43,7 @@
 
 ### 2021-06-07
 
-Concepts seems to be leading - woorks wherever I need it
+Concepts seems to be leading - works wherever I need it
 
 ## Web Drawing SVG
 
@@ -49,9 +68,12 @@ Concepts seems to be leading - woorks wherever I need it
 ## *** Concepts ~ https://concepts.app/en/
 * 6k stars, 1M installs, California
 * Interesting user interface
-* $30 year paind June 2021 ~ W10, Android, ChromeOS, etc
+* $30 year paid June 2021 ~ W10, Android, ChromeOS, etc
+* Pressure: Has s-pen support no Huion support,
 * Link W10 and Android
-* Has s-pen not huion, layers, good lettering
+* layers, good lettering
+* No paint bucket fill capability - draw with fill only then duplicate, brushes only
+* Great smoothing and vertex tweaking
 
 
 ## Draw.io https://app.diagrams.net/ ~ draw.io
@@ -156,6 +178,10 @@ Concepts seems to be leading - woorks wherever I need it
 * Download only
 * Could use https://offidocs.com but looks like no touch or pen support
 
+
+
+
+
 ## LibreOffice Draw
 * Has tablet support
 * Many export formats
@@ -221,7 +247,7 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 ## SVG.js https://github.com/svgdotjs/svg.js
 	* https://svgjs.dev/docs/3.0/
-	
+
 ## https://turnerdev.github.io/svg-studio/
 	* https://github.com/turnerdev/svg-studio
 
