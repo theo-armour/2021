@@ -3,11 +3,11 @@ Credits & Thanks
 
 _2013-12-19 ~ first pass. More friends and links to be addded_
 
-Thank you Mr.doob for [Three.js]( http://mrdoob.github.io ) 
+Thank you Mr.doob for [Three.js]( http://mrdoob.github.io )
 
 Thank you [Khronos Group]( http://www.khronos.org/ ) for [WebGL]( http://www.khronos.org/webgl/ )
 
-Thank you Google for the [Chromebook Pixel]( http://www.google.com/intl/en/chrome/devices/chromebook-pixel/ ), 
+Thank you Google for the [Chromebook Pixel]( http://www.google.com/intl/en/chrome/devices/chromebook-pixel/ ),
 	Nexus 5, Nexus 7, Google Groups, Google Docs, Google Drive, Gmail, Google Maps and WebGL
 
 Thank you [GitHub]( http://github.com )
@@ -26,13 +26,13 @@ Thank you Portable Apps
 
 Thank you Twitter and Facebook
 
-Thank you Shoeboxed 
+Thank you Shoeboxed
 
 Thank you FileThis
 
 Thank you [Mint]( http://mint.com )
 
-Thank you Microsoft for Windows 8.1
+Thank you Microsoft for Windows 10
 
 Thank you ATT and Verizon
 
@@ -42,7 +42,7 @@ Thank you Amazon and PayPal
 
 Thank you JavaScript DOM
 
-Thank you [jQuery]( http://jquery.org/license ) and [jQuery UI]( https://github.com/jquery/jquery-ui/blob/master/MIT-LICENSE.txt ) 
+Thank you [jQuery]( http://jquery.org/license ) and [jQuery UI]( https://github.com/jquery/jquery-ui/blob/master/MIT-LICENSE.txt )
 
 
 

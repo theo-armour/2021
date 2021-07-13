@@ -8,9 +8,21 @@ This is about goals. this is not about
 
 ## Summary
 
-* Knowing ~ Perceive ~ outcome: Happiness ~ Health goals ~ owner: Personal goals ~ individual ~ time: short term ~ Location: places, communication between places
-* Being ~ Judge ~ Family goals ~ outcome: Beauty - Spiritual goals ~ owner: family & friends & tribes & clans ~ social ~ time: medium term ~ people Location: on a person
-* Doing ~ Act ~ Career goals ~ outcome: Security - Money/finance goals ~ owner: society ~ global ~ time: long term ~ service, working, careers ~ Location on a group of people
+* Knowing ~ Perceive
+	* Outcome: Happiness ~ Health goals
+	* Owner: Personal goals ~ individual
+	* Time: short term
+	* Location: places, communication between places
+* Being ~ Judge ~ Family goals
+	* Outcome: Beauty - Spiritual goals ~
+	* Owner: family & friends & tribes & clans ~ social
+	* Time: medium term ~ people
+	* Location: on a person
+* Doing ~ Act ~ Career goals
+	* Outcome: Security - Money/finance goals
+	* Owner: society ~ global
+	* Time: long term ~ service, working, careers, recurring
+	* Location on a group of people
 
 Plus the why for each
 
