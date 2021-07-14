@@ -14,6 +14,7 @@
 
 * https://krita-artists.org/
 * https://kritatutorials.com/
+
 ## Compare
 
 * https://fixthephoto.com/inkscape-vs-krita.html

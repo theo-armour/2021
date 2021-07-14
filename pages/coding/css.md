@@ -31,9 +31,13 @@ Semantic tagging
 
 * https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
 
+## Managing
+
+https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/
 
 ## Tips
 
+* https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/
 * https://markodenic.com/css-tips/
 	* https://news.ycombinator.com/item?id=26945263
 * https://web.dev/one-line-layouts/ ~ ***
