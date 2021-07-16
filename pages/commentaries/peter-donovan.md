@@ -8,6 +8,13 @@
 * https://github.com/Soil-Carbon-Coalition/soilhealth.production
 * https://soilhealth.app/
 
+## Atlas of Biological Work
+
+* https://atlasbiowork.com/
+* https://soilcarboncoalition.org/atlasbiowork/
+* https://soilcarboncoalition.org/files/atlasbooklet.pdf
+* https://soilcarboncoalition.org/land-listeners-project/
+
 More
 * https://earthengine.google.com/
 * https://openetdata.org/

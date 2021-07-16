@@ -318,6 +318,8 @@ More lists to parse
 
 ## Links of interest
 
+Maslow's Hierarchy of needs
+
 * https://lifehacker.com/focus-your-ambitions-with-the-lifehacker-hierarchy-of-g-5912971
 * https://www.glidedesign.com/12-life-goal-categories/
 * https://www.simplypsychology.org/maslow.html#:~:text=Maslow's%20hierarchy%20of%20needs%20is,attend%20to%20needs%20higher%20up.
