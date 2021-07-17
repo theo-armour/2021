@@ -69,6 +69,16 @@ COVID19 has a diameter of approximately 60–140 nm or 0.06 to 1.4 microns.
 >Using CO2 to measure air circulation
 >So how do you know if the room you’re in has enough air exchange? It’s actually a pretty hard number to calculate. But there’s an easy-to-measure proxy that can help. Every time you exhale, you release CO2 into the air. Since the coronavirus is most often spread by breathing, coughing or talking, you can use CO2 levels to see if the room is filling up with potentially infectious exhalations. The CO2 level lets you estimate if enough fresh outside air is getting in.
 
+* https://www.washingtonpost.com/health/2021/02/10/carbon-dioxide-device-coronavirus/
+* https://smartbuildingsmagazine.com/features/carbon-dioxide-monitoring-to-lower-the-coronavirus-threat
+* https://www.medrxiv.org/content/10.1101/2020.09.09.20191676v1.full.pdf
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8043197/
+* https://www.sciencedaily.com/releases/2021/04/210407143809.htm
+* https://twitter.com/hashtag/covidco2
+* https://www.sciencedirect.com/science/article/pii/S0013935121008549
+* https://ncceh.ca/content/blog/can-co2-sensors-be-used-assess-covid-19-transmission-risk
+
+
 
 ### Air quality monitoring
 
@@ -80,6 +90,8 @@ COVID19 has a diameter of approximately 60–140 nm or 0.06 to 1.4 microns.
 
 
 ## Reference
+
+
 
 CO2 : Carbon dioxide : a colorless and odorless gas that is usually derived from the breath of humans and animals. High CO2 concentration means that fresh air or ventilation is required, otherwise it may cause problems such as drowsiness, dizziness, loss of attention and cognitive impairment.
 
@@ -117,6 +129,7 @@ organic air pollutant containing one atom of carbon, one atom of oxygen and two 
 > COVID-19
 > SARS‑CoV‑2 is approximately 0.125 µm. Airborne droplets of SARS-CoV-2 could be captured by HEPA filters, even if they are on the floor.
 
+
 ### NIH
 
 * https://www.ncbi.nlm.nih.gov/books/NBK138711/
@@ -127,6 +140,7 @@ organic air pollutant containing one atom of carbon, one atom of oxygen and two 
 * https://www.visualcapitalist.com/visualizing-relative-size-of-particles/
 * https://www.buildingsiot.com/blog/air-quality-sensors-relevant-to-covid-19
 * https://www.epa.gov/coronavirus/science-and-technical-resources-related-indoor-air-and-coronavirus-covid-19
+
 
 ## Initiatives International
 
@@ -218,6 +232,7 @@ Concern for need for 2.4 GHz connection,  misuse of permissions
 * https://www.amazon.com/Indoor-Air-Quality-Monitor-Formaldehyde/dp/B08VRZF8Y2
 * https://www.amazon.com/IQAir-AirVisual-Temperature-Real-Time-Forecasting/dp/B0784TZFRW
 * https://www.amazon.com/dp/B07RKYLMTD
+* https://www.amazon.com/Aranet4-Home-Temperature-Ink-Configuration/dp/B07YY7BH2W
 
 
 ## Air Purifier Products

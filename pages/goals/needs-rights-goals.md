@@ -4,6 +4,17 @@
 * What needs do people have a right to? A liberty to? A freedom from?
 * What goals to fulfil specific my does a community, family or individual aspire to?
 
+## More
+
+Where are "agency" and "belonging"
+
+## Belonging
+
+* https://en.wikipedia.org/wiki/Belongingness
+
+## Intrinsic Motivation
+
+* https://en.wikipedia.org/wiki/Motivation
 
 ## Maslow
 

@@ -15,18 +15,6 @@
 * many online convert, generate, seo: https://tools.fromdev.com/
 
 ## JSON from Markdown
-
-* https://github.com/kesla/jsonmark/blob/master/jsonmark.js
-* https://github.com/ajithr/md-2-json
-	* Uses Marked
-
-## Markdown to HTML
-
-* https://github.com/markedjs/marked << better than ShowDown??
-
-* https://github.com/markdown-it/markdown-it
-
-
 ## Math
 
 * https://xem.github.io/projects/math.html
