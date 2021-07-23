@@ -2,7 +2,7 @@
 # Content Editable
 
 
-### Editable Content & Mozilla text editor
+## Editable Content & Mozilla text editor
 
 Making content editable
 * https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Editable_content
@@ -14,7 +14,7 @@ Document.execCommand()
 * https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand
 
 
-### Cut and Paste
+## Cut and Paste
 open new page then paste this in address bar
 
 ```
@@ -26,12 +26,16 @@ data:text/html, <html contenteditable style='padding:10%;'></html>
 
 javascript:(function(){document.body.contentEditable = true;})()
 
-### In HTML page
-```
+
+## In HTML page
+
+``` html
+
 <p><a href='javascript:(function(){window.open("http://jkirchartz.com/demos/HTML5notepad.html","HTML5 notepad");})()' >html5 notepad</a></p>
-```
 
 ```
+
+``` html
 data:text/html;charset=utf-8, <title>Scratchpad</title><style>body {padding: 5%; font-size: 1.5em; font-family: Arial; }"></style>
 <link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico"/><body OnLoad='document.body.focus();' contenteditable spellcheck="true" >
 ```
@@ -46,6 +50,7 @@ data:text/html;charset=utf-8, <title>Scratchpad</title><style>body {padding: 5%;
 Reviews
 * https://news.ycombinator.com/item?id=17002648
 * https://www.reddit.com/r/webdev/comments/8keh5s/200_byte_pure_htmlcss_responsive_inbrowser_notepad/
+
 
 ### Saving Edited Content
 

@@ -73,28 +73,30 @@ Strengths of Wisdom and Knowledge: Cognitive strengths that entail the acquisiti
 3. Open-mindedness [judgment, critical thinking]: Thinking things through and examining them from all sides; weighing all evidence fairly.
 4. Love of learning: Mastering new skills, topics, and bodies of knowledge, whether on one's own or formally.
 5. Perspective [wisdom]: Being able to provide wise counsel to others; having ways of looking at the world that make sense to oneself and to other people.
+6. Innovation
 
 
 Strengths of Courage: Emotional strengths that involve the exercise of will to accomplish goals in the face of opposition, external and internal: bravery, persistence, integrity, vitality, zest
 
-6. Bravery [valor]: Not shrinking from threat, challenge, difficulty, or pain; acting on convictions even if unpopular.
-7. Persistence [perseverance, industriousness]: Finishing what one starts; persisting in a course of action in spite of obstacles.
-8. Integrity [authenticity, honesty]: Presenting oneself in a genuine way; taking responsibility for one's feeling and actions.
-9. Vitality [zest, enthusiasm, vigor, energy]: Approaching life with excitement and energy; feeling alive and activated.
+7. Bravery [valor]: Not shrinking from threat, challenge, difficulty, or pain; acting on convictions even if unpopular.
+8. Persistence [perseverance, industriousness]: Finishing what one starts; persisting in a course of action in spite of obstacles.
+9. Integrity [authenticity, honesty]: Presenting oneself in a genuine way; taking responsibility for one's feeling and actions.
+10. Vitality [zest, enthusiasm, vigor, energy]: Approaching life with excitement and energy; feeling alive and activated.
+11. Zest
 
 Strengths of Humanity: interpersonal strengths that involve tending and befriending others: love, kindness, social intelligence
 
-10. Love: Valuing close relations with others, in particular those in which sharing and caring are reciprocated:  love, kindness, social intelligence
-11. Kindness [generosity, nurturance, care, compassion, altruistic love, "niceness"]: Doing favors and good deeds for others.
-12. Social intelligence [emotional intelligence, personal intelligence]: Being aware of the motives and feelings of other people and oneself.
+12. Love: Valuing close relations with others, in particular those in which sharing and caring are reciprocated:  love, kindness, social intelligence
+13. Kindness [generosity, nurturance, care, compassion, altruistic love, "niceness"]: Doing favors and good deeds for others.
+14. Social intelligence [emotional intelligence, personal intelligence]: Being aware of the motives and feelings of other people and oneself.
 
 Me: [humanitas] loving, kind, giving, friendly.
 
 Strengths of Justice: civic strengths that underlie healthy community life: citizenship, fairness, leadership
 
-13. Citizenship [social responsibility, loyalty, teamwork]: Working well as a member of a group or team; being loyal to the group.
-14. Fairness: Treating all people the same according to notions of fairness and justice; not letting personal feelings bias decisions about others.
-15. Leadership: Encouraging a group of which one is a member to get things done and at the same maintain time good relations within the group.
+15. Citizenship [social responsibility, loyalty, teamwork]: Working well as a member of a group or team; being loyal to the group.
+16. Fairness: Treating all people the same according to notions of fairness and justice; not letting personal feelings bias decisions about others.
+17. Leadership: Encouraging a group of which one is a member to get things done and at the same maintain time good relations within the group.
 
 Me: Also inclusive, diverse?
 [comitas] communal, collaborative, consensual, civic responsibility, participatory
@@ -102,21 +104,22 @@ Me: Also inclusive, diverse?
 
 Strengths of Temperance: strengths that protect against excess: forgiveness and mercy, humility, prudence, self control
 
-16. Forgiveness and mercy: Forgiving those who have done wrong; accepting the shortcomings of others; giving people a second chance; not being vengeful.
-17. Humility / Modesty: Letting one's accomplishments speak for themselves; not regarding oneself as more special than one is.
-18. Prudence: Being careful about one's choices; not taking undue risks; not saying or doing things that might later be regretted.
-19. Self-regulation [self-control]: Regulating what one feels and does; being disciplined; controlling one's appetites and emotions.
+18. & 19. Forgiveness and mercy: Forgiving those who have done wrong; accepting the shortcomings of others; giving people a second chance; not being vengeful.
+20. Humility / Modesty: Letting one's accomplishments speak for themselves; not regarding oneself as more special than one is.
+21. Prudence: Being careful about one's choices; not taking undue risks; not saying or doing things that might later be regretted.
+22. Self-regulation [self-control]: Regulating what one feels and does; being disciplined; controlling one's appetites and emotions.
 
 Me Tolerance
 
-
 Strengths of Transcendence: strengths that forge connections to the larger universe and provide meaning: appreciation of beauty and excellence, gratitude, hope, humor, spirituality
 
-20. Appreciation of beauty and excellence [awe, wonder, elevation]: Appreciating beauty, excellence, and/or skilled performance in various domains of life.
-21. Gratitude: Being aware of and thankful of the good things that happen; taking time to express thanks.
-22. Hope [optimism, future-mindedness, future orientation]: Expecting the best in the future and working to achieve it.
-23. Humor [playfulness]: Liking to laugh and tease; bringing smiles to other people; seeing the light side.
-24. Spirituality [religiousness, faith, purpose]: Having coherent beliefs about the higher purpose, the meaning of life, and the meaning of the universe.
+23 & 24. Appreciation of beauty and excellence [awe, wonder, elevation]: Appreciating beauty, excellence, and/or skilled performance in various domains of life.
+25. Gratitude: Being aware of and thankful of the good things that happen; taking time to express thanks.
+26. Hope [optimism, future-mindedness, future orientation]: Expecting the best in the future and working to achieve it.
+27. Humor [playfulness]: Liking to laugh and tease; bringing smiles to other people; seeing the light side.
+28. Spirituality [religiousness, faith, purpose]: Having coherent beliefs about the higher purpose, the meaning of life, and the meaning of the universe.
+
+
 
 ### More
 
