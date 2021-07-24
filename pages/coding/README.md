@@ -6,6 +6,12 @@
 * https://codebeautify.org/
 
 
+## Linear Algebra
+
+* https://www.xarg.org/2018/02/create-a-circle-out-of-three-points/
+* https://github.com/infusion/Circle.js
+
+
 ## Engineering
 
 * https://www.scientificamerican.com/article/miami-building-collapse-could-profoundly-change-engineering/

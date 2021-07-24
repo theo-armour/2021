@@ -14,6 +14,7 @@ And
 * https://en.wikiversity.org/wiki/Virtues
 * https://www.virtuescience.com/virtuelist.html ~ 120+ virtues
 * https://iep.utm.edu/aristotl/#H7 ~ chart
+* https://viacharacter.org/
 
 Good list
 
@@ -22,11 +23,21 @@ Good list
 
 ## Peterson
 
+Character Strengths and Virtues: A Handbook and Classification
+* https://teachingpsychology.files.wordpress.com/2011/11/character-strengths-and-virtues.pdf
+	* 815 pages!!
+	* https://ajp.psychiatryonline.org/doi/pdf/10.1176/appi.ajp.162.4.820-a
+	* https://www.amazon.com/Character-Strengths-Virtues-Handbook-Classification/dp/0195167015
+	* https://posproject.org/character-strengths
+* https://en.wikiversity.org/wiki/Wisdom
+* https://en.wikiversity.org/wiki/Wisdom/Curriculum
+* https://en.wikiversity.org/wiki/Virtues
+* https://en.wikiversity.org/wiki/Virtues/Character_Strengths_and_Virtues
 * https://en.wikipedia.org/wiki/Christopher_Peterson_(psychologist)
 * https://en.wikipedia.org/wiki/Character_Strengths_and_Virtues
 * https://www.amazon.com/exec/obidos/ASIN/0195188330/thewrighthouse
 * http://www.meaningandhappiness.com/psychology-research/list-of-personal-strengths.html
-
+* https://positivepsychology.com/classification-character-strengths-virtues/
 
 ### The Criteria
 
@@ -120,8 +131,13 @@ Strengths of Transcendence: strengths that forge connections to the larger unive
 28. Spirituality [religiousness, faith, purpose]: Having coherent beliefs about the higher purpose, the meaning of life, and the meaning of the universe.
 
 
-
 ### More
 
 * CSV suggests that these six virtues are considered good by the vast majority of cultures and throughout history and that practicing these traits leads to increased happiness.
 * Notwithstanding numerous cautions and caveats, this suggestion of universality hints that in addition to trying to broaden the scope of psychological research to include mental wellness, the leaders of the positive psychology movement are challenging moral relativism and suggesting that virtue has a biological basis.
+
+## Muslim Virtues
+
+* https://en.wikipedia.org/wiki/Morality_in_Islam
+* https://alquranrecite.com/2020/06/09/best-virtues-in-islam-muslims-must-follow/
+* https://en.wikipedia.org/wiki/Islamic_ethics

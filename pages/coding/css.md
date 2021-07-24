@@ -1,5 +1,13 @@
 # CSS
 
+
+## CSS Basics / Essential
+
+* https://en.wikipedia.org/wiki/CSS
+* https://uxdesign.cc/essential-css-concepts-every-designer-should-know-f8295497c5ae
+	* Simple Flex desecription
+
+
 ## responsive and accessible
 
 * https://responsibleweb.app/
@@ -30,6 +38,7 @@ Pure CSS Sidebar Toggle Menu
 Semantic tagging
 
 * https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
+
 
 ## Managing
 
