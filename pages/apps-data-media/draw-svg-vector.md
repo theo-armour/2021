@@ -82,6 +82,7 @@ Concepts seems to be leading - works wherever I need it
 * No good free hand
 * Many vector features
 
+
 ## https://designer.gravit.io ~ $$ ~ Owned by Corel!
 * https://designer.io
 * Looks very featured ~ but complicated
@@ -92,11 +93,13 @@ Concepts seems to be leading - works wherever I need it
 * Has layers
 * no brushes
 
+
 ## Drawings Google ~ https://docs.google.com/drawings
 * Exports to SVG
 * Easy scribbling and curving
 * no pressure, no layers, no edit vertices on scribbles
 * edit polylines
+
 
 ## https://excalidraw.com/
 * Collaborative
@@ -106,9 +109,11 @@ Concepts seems to be leading - works wherever I need it
 * Cannot edit vertices
 * Browser only
 
-## https://www.hand-write.com/ ~ fremium ~
+
+## https://www.hand-write.com/ ~ freemium ~
 * s pen support 2020
 * App only, works on Chrome OS
+
 
 ## *** Infinite Studio ~ https://www.infinitestudio.art/discover.php
 * 66k stars, 10M installs
@@ -117,8 +122,10 @@ Concepts seems to be leading - works wherever I need it
 * Very nice "vectorize" feature
 * Android & ChromeOS. No W10, no browser
 
+
 ## https://inker.co
 * deprecated
+
 
 ## Method https://editor.method.ac/
 * GH 2021 / drawing / Save as SVG
@@ -155,6 +162,7 @@ Concepts seems to be leading - works wherever I need it
 * No control over smoothness
 * No continuous drawing -
 
+
 ## https://vectorpaint.yaks.co.nz
 * Nothing special
 * simple
@@ -178,9 +186,6 @@ Concepts seems to be leading - works wherever I need it
 ## https://inkscape.org/
 * Download only
 * Could use https://offidocs.com but looks like no touch or pen support
-
-
-
 
 
 ## LibreOffice Draw

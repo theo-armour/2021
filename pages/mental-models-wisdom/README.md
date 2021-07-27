@@ -11,3 +11,21 @@
 >The Solution
 >Thinkers Club is designed to help you focus on thinking and doing. Instead of speed-read all available books and torture your easily distracted mind with 24/7 content consumption, you focus on one topic, one book each month. Once you join, every month, you’ll receive a Think Workbook (a practical guide outlining the key strategies from a single book followed by guided writing exercises) so you can engage with the content like never before.
 * fron Huit Chronicles
+
+
+## Intellectual
+
+* https://en.wikipedia.org/wiki/Intellectual
+* https://en.wikipedia.org/wiki/Abstraction
+* https://en.wikipedia.org/wiki/Conceptual_model
+* https://www.verywellmind.com/piagets-stages-of-cognitive-development-2795457
+
+>The ability to thinking about abstract ideas and situations is the key hallmark of the formal operational stage of cognitive development. The ability to systematically plan for the future and reason about hypothetical situations are also critical abilities that emerge during this stage.
+
+Ability to develop a theory
+
+Much as I think the Heritage is a good place for me, it is not a venue for intellectual thought. It gives me a place to belong to and much intimacy. But not a lot of abstraction.
+
+## Smart People Writing
+
+* https://www.lesswrong.com/
