@@ -1,10 +1,20 @@
 # Tablets
 
+## Microsoft Surface
+
+* https://www.microsoft.com/en-us/d/surface-go-2/8pt3s2vjmdr6
+* Pen with pressure & tilt
+* LTE
+* Detachable keyboard
+* A dream?
+
+
 ## Huion
 
 2021 HUION KAMVAS 12 Graphics Drawing Tablet with Screen Full Lamination Android Support Battery-Free Sylus Tilt 8 Press Keys Adjustable Stand
 
 * https://www.amazon.com/gp/product/B08P1MR8F
+
 
 ## LCD Writing Tablets
 

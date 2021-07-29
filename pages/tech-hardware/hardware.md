@@ -3,7 +3,7 @@
 ## all-in-one desktop nvidia
 
 
-8 Diificult to get high-end Nvidia
+8 Difficult to get high-end Nvidia
 
 ## laptop
 

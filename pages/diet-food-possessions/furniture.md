@@ -25,3 +25,6 @@ Boho Stripe Cotton Area Rug amazon
 
 * https://www.amazon.com/Safavieh-Collection-RAR121A-Woven-Cotton/dp/B01B9AUUQ8/
 * https://www.amazon.com/dp/B07Y9VCS1N
+
+Towel as carpet
+* https://www.westelm.com/products/organic-waffle-towels-b2782/?sku=8451656
