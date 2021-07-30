@@ -3,7 +3,14 @@
 ## all-in-one desktop nvidia
 
 
-8 Difficult to get high-end Nvidia
+* Difficult to get high-end Nvidia
+
+
+## NUC
+
+* https://simplynuc.com/beast-canyon/
+* https://www.theverge.com/2021/7/29/22599092/intel-nuc-11-extreme-beast-canyon-specs-price-availability-preview?scrolla=5eb6d68b7fedc32c19ef33b4
+* https://www.intel.com/content/www/us/en/products/details/nuc/elements/compute.html
 
 ## laptop
 
