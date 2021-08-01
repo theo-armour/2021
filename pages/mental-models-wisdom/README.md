@@ -1,5 +1,13 @@
 # Mental Models & Wisdom Read Me
 
+
+## Self-efficacy
+
+* https://en.wikipedia.org/wiki/Albert_Bandura
+* https://en.wikipedia.org/wiki/Social_cognitive_theory
+* https://en.wikipedia.org/wiki/Social_cognition
+
+
 ## Tools
 
 * https://durmonski.com/thinkers-club/
