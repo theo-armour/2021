@@ -7,6 +7,10 @@
 * https://en.wikipedia.org/wiki/Social_cognitive_theory
 * https://en.wikipedia.org/wiki/Social_cognition
 
+## Mrntal models more
+
+* https://medium.com/the-mission/13-mental-models-every-founder-should-know-c4d44afdcdd#.xijed4pme
+
 
 ## Tools
 

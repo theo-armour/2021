@@ -31,6 +31,8 @@ _Like a perpetual motion machine, a time crystal forever cycles between states w
 >
 >Time crystals are also the first objects to spontaneously break “time-translation symmetry,” the usual rule that a stable object will remain the same throughout time. A time crystal is both stable and ever-changing, with special moments that come at periodic intervals in time.
 
+* https://en.wikipedia.org/wiki/Talk:Time_crystal
+	* Also of interest
 
 ## Nice videos & chit-chat
 
