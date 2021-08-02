@@ -1,4 +1,4 @@
-# [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )](https://github.com/theo-armour/2021/tree/main/pages/arts-sciences-wikipedia "Source code on GitHub" ) [Time Crystals]( https://theo-armour.github.io/2021/pages#arts-sciences-wikipedia/time-crystals.md)
+# [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )](https://github.com/theo-armour/2021/blob/main/pages/arts-sciences-wikipedia/time-crystals.md "Source code on GitHub" ) [Time Crystals]( https://theo-armour.github.io/2021/pages#arts-sciences-wikipedia/time-crystals.md)
 
 "In terms of practical use, time crystals may one day be used as quantum memories."
 
