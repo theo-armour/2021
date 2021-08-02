@@ -40,6 +40,11 @@ _Like a perpetual motion machine, a time crystal forever cycles between states w
 * https://www.reddit.com/search/?q=time%20crystal
 * https://news.ycombinator.com/item?id=28008202
 
+## Whee!
+
+A Self-Operating Time Crystal Model of the Human Brain: Can We Replace Entire Brain Hardware with a 3D Fractal Architecture of Clocks Alone?
+
+* https://www.mdpi.com/2078-2489/11/5/238/htm
 
 ***
 
