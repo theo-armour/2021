@@ -4,6 +4,12 @@
 
 
 
+## 3D
+
+* https://www.youtube.com/watch?v=dCEGx-thXD4
+> Augmented Reality - Generate a 3D model that looks like you. #AR #VR #AugmentedReality #Unity3D - YouTube
+
+
 ## Code Editor
 
 * http://xem.github.io/miniCodeEditor/
@@ -14,7 +20,16 @@
 * https://pandoc.org/try/
 * many online convert, generate, seo: https://tools.fromdev.com/
 
+
+## Developer Console
+
+* https://davidwalsh.name/logpoints ~ ***
+
+* https://markodenic.com/use-console-log-like-a-pro/
+
+
 ## JSON from Markdown
+
 ## Math
 
 * https://xem.github.io/projects/math.html
@@ -79,6 +94,13 @@ HTML table to CSV
 * https://github.com/6pac/SlickGrid/wiki ~ 2021
 
 
+## Tables
+
+* https://www.google.com/search?q=sortable+table+JavaScript+library+-jquery+github
+* https://github.com/LeeWannacott/table-sort-js
+* https://github.com/tofsjonas/sortable
+* https://aminya.github.io/solid-simple-table/
+
 ## Tip Collections
 
 15 HTML element methods you’ve potentially never heard of
@@ -111,6 +133,7 @@ http://www.communitybuildingguide.com/
 file:///C:/
 
 file:///D:/
+
 
 ## Windows
 
