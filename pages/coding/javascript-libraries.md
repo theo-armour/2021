@@ -71,7 +71,8 @@ works in vsCode
 
 ## Spreadsheets
 
-* https://github.com/handsontable/handsontable ~ 2021 ~ licensed
+* https://github.com/topics/spreadsheet ~ 2021 ~ 26.4K stars
+* https://github.com/handsontable/handsontable ~ 2021 ~ 15.5K stars
 * https://github.com/myliang/x-spreadsheet ~ 2021
 * https://github.com/audreyt/ethercalc ~ 2020
 * https://ethercalc.net/
@@ -94,12 +95,26 @@ HTML table to CSV
 * https://github.com/6pac/SlickGrid/wiki ~ 2021
 
 
-## Tables
+## Tables & Grids
+
+* https://github.com/topics/table
+* https://github.com/grid-js/gridjs ~ 2021 ~ 3.1K stars ~ JSON
+	* Nice docs
+	* Very simple; just works
+	* A keeper 
+* https://github.com/olifolkerd/tabulator ~ 2020 ~  4.1K stars
+	* Complicated
+
+Table tag only
 
 * https://www.google.com/search?q=sortable+table+JavaScript+library+-jquery+github
-* https://github.com/LeeWannacott/table-sort-js
-* https://github.com/tofsjonas/sortable
-* https://aminya.github.io/solid-simple-table/
+* https://github.com/LeeWannacott/table-sort-js ~ 9 stars
+* https://github.com/HubSpot/sortable ~ 2015 ~ 1.3K stars ~ table tag only
+* https://github.com/tofsjonas/sortable ~ 2021 ~ 49 stars ~ 713 bytes
+* https://github.com/riversun/sortable-table ~ 3
+* https://sorting-table.danzino.com/ ~ 0 stars
+* https://github.com/aminya/solid-simple-table ~ complicated
+
 
 ## Tip Collections
 
