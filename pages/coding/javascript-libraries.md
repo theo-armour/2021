@@ -3,6 +3,9 @@
 !!! = very good
 
 
+## JavaScript rendered event
+
+* https://stackoverflow.com/questions/15875128/is-there-element-rendered-event
 
 ## 3D
 
@@ -101,7 +104,7 @@ HTML table to CSV
 * https://github.com/grid-js/gridjs ~ 2021 ~ 3.1K stars ~ JSON
 	* Nice docs
 	* Very simple; just works
-	* A keeper 
+	* A keeper
 * https://github.com/olifolkerd/tabulator ~ 2020 ~  4.1K stars
 	* Complicated
 
