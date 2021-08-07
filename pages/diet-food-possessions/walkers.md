@@ -4,6 +4,10 @@
 * https://www.amazon.com/dp/B093PT78C4/ref=sspa_dk_detail_6
 * March 2021
 
+## Trionic
+
+* https://www.trionic.us/en/
+* $1,500
 
 ## Elenker
 

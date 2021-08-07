@@ -1,13 +1,20 @@
 # Mental Models & Wisdom Read Me
 
 
+## Sociability
+
+The Surprising Benefits of Talking to Strangers
+So many of us have been raised to see strangers as dangerous and scary. What would happen if we instead saw them as potential sources of comfort and belonging?
+
+* https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/
+
 ## Self-efficacy
 
 * https://en.wikipedia.org/wiki/Albert_Bandura
 * https://en.wikipedia.org/wiki/Social_cognitive_theory
 * https://en.wikipedia.org/wiki/Social_cognition
 
-## Mrntal models more
+## Mental models more
 
 * https://medium.com/the-mission/13-mental-models-every-founder-should-know-c4d44afdcdd#.xijed4pme
 

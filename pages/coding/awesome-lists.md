@@ -2,7 +2,7 @@
 
 * https://project-awesome.org/
 * https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows
-
+* https://www.hazem.cool/blog/the-future-of-the-web
 
 
 ## GitHub

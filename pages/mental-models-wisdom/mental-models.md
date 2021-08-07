@@ -23,6 +23,7 @@
 
 ## Sites
 
+* https://www.buildingasecondbrain.com/ ~ $$$
 * https://www.modeltheory.org
 	* Mental models are how the mind represents real, remembered, hypothetical, or imaginary situations.
 	* Extensive streaming bibliography
@@ -30,6 +31,7 @@
 * https://www.mentalmodelsbox.com/
 * https://www.farnamstreetblog.com/mental-models/
 * https://fs.blog/mental-models/
+* https://www.clearerthinking.org/
 
 
 ## Articles
