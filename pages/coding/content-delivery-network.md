@@ -6,9 +6,14 @@
 ## OLD
 
 https://www.maxcdn.com/
-
-
+https://rawgit.com/
+Rawgit.con closing down October 2019
 ## About
+
+## Recommends
+
+### [jsDelivr]( https://www.jsdelivr.com/ )
+
 
 * https://www.cdnperf.com/
 * https://w3techs.com/technologies/comparison/cd-jsdelivr,cd-unpkg

@@ -4,6 +4,8 @@
 * GH topics: https://github.com/topics/markdown
 * https://daringfireball.net/projects/markdown/
 
+* https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
 ## MD to JSON
 
 * https://github.com/kesla/jsonmark/blob/master/jsonmark.js
