@@ -3,7 +3,7 @@
 >Dr. Tufekci is a contributing Opinion writer who has extensively examined the Covid-19 pandemic.
 
 * https://en.wikipedia.org/wiki/Zeynep_Tufekci
->Zeynep Tufekci (Turkish: Zeynep Tüfekçi; [zejˈnep tyˈfektʃi]; ZAY-nep tuu-FEK-chee) is a Turkish sociologist and writer. Her work focuses on the social implications of new technologies, such as artificial intelligence and big data, as well as societal challenges such as the COVID-19 pandemic using complex and systems-based thinking. She has been described as “having a habit on being right on the big things” by The New York Times and as one of the most prominent academic voices on social media by The Chronicle of Higher Education.
+>Zeynep Tufekci is a Turkish sociologist and writer. Her work focuses on the social implications of new technologies, such as artificial intelligence and big data, as well as societal challenges such as the COVID-19 pandemic using complex and systems-based thinking. She has been described as “having a habit on being right on the big things” by The New York Times and as one of the most prominent academic voices on social media by The Chronicle of Higher Education.
 >
 >She is currently a writer for the Times and The Atlantic and has written regular columns for Wired and Scientific American in the past. She is an associate professor at the School of Information and Library Science at the University of North Carolina and a faculty associate at the Berkman Klein Center for Internet and Society at Harvard University.
 * https://www.nytimes.com/column/zeynep-tufekci
