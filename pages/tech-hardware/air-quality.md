@@ -1,5 +1,11 @@
 # Air Quality
 
+See also:
+
+* https://theo-armour.github.io/qdata/#journal/days-of-year-md/07/07-17.md
+* https://theo-armour.github.io/2021/#pages/commentaries/zeynep-tufekci.md
+
+
 ## article
 
 ### The right to clean air
@@ -81,6 +87,8 @@ COVID19 has a diameter of approximately 60–140 nm or 0.06 to 1.4 microns.
 
 
 ### Air quality monitoring
+
+* https://www.amazon.com/CO2Meter-AZ-0004-Temperature-Relative-Humidity/dp/B001PDGFR8?
 
 
 ### Air purification

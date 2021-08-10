@@ -7,7 +7,7 @@
 ## California
 
 
-### News
+### CA News
 
 * https://calmatters.org/category/health/coronavirus/
 * https://update.covid19.ca.gov/
@@ -22,7 +22,7 @@
 
 * https://data.chhs.ca.gov/
 * https://chhsdata.github.io/opendatahandbook/
-* * https://github.com/chhsdata
+* https://github.com/chhsdata
 
 
 ## US Census Bureau

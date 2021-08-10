@@ -1,6 +1,8 @@
 
 # COVId 19 Guidance
 
+
+
 ## 2021-02-11
 
 Gardner and Bernie
