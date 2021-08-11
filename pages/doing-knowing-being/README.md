@@ -34,8 +34,6 @@ Edward M. Glaser proposed that the ability to think critically involves three el
 * Some skill in applying those methods.
 
 
-
-
 ## To Do / Wish List
 
 
@@ -68,6 +66,17 @@ Also
 tropes
 
 * https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes
+
+
+Incident Management
+
+* https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management
+
+Patterns
+
+* https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/
+
+
 
 
 

@@ -33,6 +33,12 @@ CubeWeaver ~ $$$ + free ~ a collaborative multidimensional web-based spreadsheet
 * https://cubeweaver.com/
 
 
+## Patterns
+
+Difficult math is about recognizing patterns (get21stnight.com)
+
+* https://news.ycombinator.com/item?id=28122173
+
 ## Phones
 
 >> Can I eliminate the landline and use only a mobile line?
