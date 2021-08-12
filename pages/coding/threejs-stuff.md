@@ -1,5 +1,17 @@
 # Three.js Stuff
 
+
+## bufferGeometry Normals
+
+* view-source:https://hofk.de/main/threejs/BufferGeometry/buffer_withNormals.html
+* https://stackoverflow.com/questions/10886818/issue-with-custom-geometry-and-face-normal
+* https://discourse.threejs.org/t/trouble-getting-normals-into-three-buffergeometry/12537/20
+
+
+## Nice editing mesh vertices
+
+https://stackoverflow.com/questions/63429496/three-js-extrude-certain-vertex-face-from-buffergeometry
+
 ## Learning
 
 * https://github.com/gfxfundamentals/threejsfundamentals
