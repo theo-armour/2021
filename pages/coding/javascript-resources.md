@@ -3,8 +3,8 @@
 ## API
 
 * !!! https://www.browserling.com/tools
-	* dozens of API tools example" XML to JSON
-	* also https://onlinetexttools.com/?msg3
+* dozens of API tools example" XML to JSON
+* also https://onlinetexttools.com/?msg3
 
 
 ## Articles
