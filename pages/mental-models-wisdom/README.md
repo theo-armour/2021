@@ -44,6 +44,13 @@ So many of us have been raised to see strangers as dangerous and scary. What wou
 
 ## Therapy
 
+
+### How to find the right therapist
+
+* https://www.getrevue.co/profile/Recomendo/issues/tangoes-arduino-clone-uppercase-710972
+
+Here is some great advice on how to find the right therapist. One of the first steps is to figure out what kind of therapeutic framework you need. When I first started therapy I had anxiety that sometimes resulted in panic attacks. Cognitive Behavioral Therapy taught me how to redirect a thought so that it doesn’t create overwhelming feelings that would affect my behavior. Now, 8 years later, I have a person-centered therapist that I talk to about all aspects of my life. Each session feels like I’m catching up with my very insightful and intelligent friend who I can vent to and ask for advice. I always tell my friends that you are allowed to break up with your therapist if the fit isn’t right. I saw three therapists before I found my most recent one, who I’ve been seeing for three years now. Finding the “right therapist” feels like you’ve acquired a super power. — CD
+
 * https://ideas.ted.com/how-to-find-the-right-therapist-for-you
 * https://ideas.ted.com/tag/how-to-be-a-better-human/
 * https://www.cnbc.com/2021/01/06/whats-the-difference-between-a-career-or-life-coach-vs-therapist.html
@@ -55,24 +62,25 @@ So many of us have been raised to see strangers as dangerous and scary. What wou
 * https://www.betterup.com/
 
 
-
 ### Peter Merritt Dobey ~ Philosophical Life Coach
 
 * http://analysisforartists.com/
 * https://www.instagram.com/psychoanalysisforartists/
+* https://psychoanalysisforartists.medium.com/
+* http://analysisforartists.com/new-cover-page
+* https://www.linkedin.com/in/peterdobey/
 * https://twitter.com/peterdobey?lang=en
+* https://www.facebook.com/groups/1285861111557699/
+* https://www.youtube.com/channel/UCvKtsJxUXcS_faT-GJyoGNA
+* https://artwrit.com/VOL3/08.html
 
-petermdobeyy@gmail.com
+peterdobey@gmail
+
+2021-08-15
 
 Heart your art, lacan-istics and use of technology.
 Are you available for a chat? If so, may I email you some thoughts first?
-Theo Armour ~ t.armour@gmail.com ~ +1 415 828 0000
 
-***
-
-Turn my CV into a work of art by an old fart
-
-from "Design your life" to "Augment your life" to "Design your after-life"
 
 ## Thinkers Club
 
@@ -84,5 +92,6 @@ from "Design your life" to "Augment your life" to "Design your after-life"
 >
 >The Solution
 >Thinkers Club is designed to help you focus on thinking and doing. Instead of speed-read all available books and torture your easily distracted mind with 24/7 content consumption, you focus on one topic, one book each month. Once you join, every month, you’ll receive a Think Workbook (a practical guide outlining the key strategies from a single book followed by guided writing exercises) so you can engage with the content like never before.
-* fron Huit Chronicles
+
+* from Huit Chronicles
 
