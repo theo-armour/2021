@@ -34,12 +34,16 @@
 * https://www.clearerthinking.org/
 
 
+
+
+
 ## Articles
 
 * https://www.visualcapitalist.com/12-ways-smarter-mental-models/
 	* https://medium.com/swlh/100-mental-models-to-make-you-a-worldly-wise-person-19b9ca9d034c
 	* https://www.visualcapitalist.com/wp-content/uploads/2018/01/12-ways-smarter.html
 	* https://www.visualcapitalist.com/wp-content/uploads/2018/01/mental-models-infographic.jpg
+* https://medium.com/the-mission/13-mental-models-every-founder-should-know-c4d44afdcdd#.xijed4pme
 * https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.hx8hrtksh
 * https://methods.18f.gov/decide/mental-modeling/
 

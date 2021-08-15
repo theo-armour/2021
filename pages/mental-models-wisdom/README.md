@@ -1,12 +1,24 @@
 # Mental Models & Wisdom Read Me
 
+## Futures
 
-## Sociability
+* https://futureofstorytelling.org/about
 
-The Surprising Benefits of Talking to Strangers
-So many of us have been raised to see strangers as dangerous and scary. What would happen if we instead saw them as potential sources of comfort and belonging?
+The Future of StoryTelling (FoST) is a passionate community of people from the worlds of media, technology, and communications who are exploring how storytelling is evolving in the digital age. 
 
-* https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/
+## Intellectual
+
+* https://en.wikipedia.org/wiki/Intellectual
+* https://en.wikipedia.org/wiki/Abstraction
+* https://en.wikipedia.org/wiki/Conceptual_model
+* https://www.verywellmind.com/piagets-stages-of-cognitive-development-2795457
+
+>The ability to thinking about abstract ideas and situations is the key hallmark of the formal operational stage of cognitive development. The ability to systematically plan for the future and reason about hypothetical situations are also critical abilities that emerge during this stage.
+
+Ability to develop a theory
+
+Much as I think the Heritage is a good place for me, it is not a venue for intellectual thought. It gives me a place to belong to and much intimacy. But not a lot of abstraction.
+
 
 ## Self-efficacy
 
@@ -14,9 +26,14 @@ So many of us have been raised to see strangers as dangerous and scary. What wou
 * https://en.wikipedia.org/wiki/Social_cognitive_theory
 * https://en.wikipedia.org/wiki/Social_cognition
 
-## Mental models more
 
-* https://medium.com/the-mission/13-mental-models-every-founder-should-know-c4d44afdcdd#.xijed4pme
+
+## Sociability
+
+The Surprising Benefits of Talking to Strangers
+So many of us have been raised to see strangers as dangerous and scary. What would happen if we instead saw them as potential sources of comfort and belonging?
+
+* https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/
 
 
 ## Tools
@@ -32,18 +49,6 @@ So many of us have been raised to see strangers as dangerous and scary. What wou
 * fron Huit Chronicles
 
 
-## Intellectual
-
-* https://en.wikipedia.org/wiki/Intellectual
-* https://en.wikipedia.org/wiki/Abstraction
-* https://en.wikipedia.org/wiki/Conceptual_model
-* https://www.verywellmind.com/piagets-stages-of-cognitive-development-2795457
-
->The ability to thinking about abstract ideas and situations is the key hallmark of the formal operational stage of cognitive development. The ability to systematically plan for the future and reason about hypothetical situations are also critical abilities that emerge during this stage.
-
-Ability to develop a theory
-
-Much as I think the Heritage is a good place for me, it is not a venue for intellectual thought. It gives me a place to belong to and much intimacy. But not a lot of abstraction.
 
 ## Smart People Writing
 
