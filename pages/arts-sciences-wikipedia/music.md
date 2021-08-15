@@ -9,6 +9,13 @@ value='You are now in a GitHub web page view - Click this button to view this re
 
 * https://meyda.js.org/
 
+## Algorithmic music
+
+The Magnet 041: One-line algorithmic music
+
+* https://themagnet.substack.com/p/the-magnet-041-one-line-algorithmic
+
+
 ## Frank's list
 
 * https://www.notion.so/CLASSICAL-MUSIC-LINKS-fed0e52e34174b14bf8d8359b7744153
