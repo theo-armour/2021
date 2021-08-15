@@ -4,7 +4,7 @@
 
 * https://futureofstorytelling.org/about
 
-The Future of StoryTelling (FoST) is a passionate community of people from the worlds of media, technology, and communications who are exploring how storytelling is evolving in the digital age. 
+The Future of StoryTelling (FoST) is a passionate community of people from the worlds of media, technology, and communications who are exploring how storytelling is evolving in the digital age.
 
 ## Intellectual
 
@@ -36,7 +36,45 @@ So many of us have been raised to see strangers as dangerous and scary. What wou
 * https://www.theatlantic.com/family/archive/2021/08/why-we-should-talk-strangers-more/619642/
 
 
-## Tools
+
+## Smart People Writing
+
+* https://www.lesswrong.com/
+
+
+## Therapy
+
+* https://ideas.ted.com/how-to-find-the-right-therapist-for-you
+* https://ideas.ted.com/tag/how-to-be-a-better-human/
+* https://www.cnbc.com/2021/01/06/whats-the-difference-between-a-career-or-life-coach-vs-therapist.html
+* https://try.talkspace.com/
+
+
+### Coaches
+
+* https://www.betterup.com/
+
+
+
+### Peter Merritt Dobey ~ Philosophical Life Coach
+
+* http://analysisforartists.com/
+* https://www.instagram.com/psychoanalysisforartists/
+* https://twitter.com/peterdobey?lang=en
+
+petermdobeyy@gmail.com
+
+Heart your art, lacan-istics and use of technology.
+Are you available for a chat? If so, may I email you some thoughts first?
+Theo Armour ~ t.armour@gmail.com ~ +1 415 828 0000
+
+***
+
+Turn my CV into a work of art by an old fart
+
+from "Design your life" to "Augment your life" to "Design your after-life"
+
+## Thinkers Club
 
 * https://durmonski.com/thinkers-club/
 * https://durmonski.com/wp-content/uploads/2021/05/Think_Workbook_001_Better_Habits_SAMPLE.pdf
@@ -48,8 +86,3 @@ So many of us have been raised to see strangers as dangerous and scary. What wou
 >Thinkers Club is designed to help you focus on thinking and doing. Instead of speed-read all available books and torture your easily distracted mind with 24/7 content consumption, you focus on one topic, one book each month. Once you join, every month, you’ll receive a Think Workbook (a practical guide outlining the key strategies from a single book followed by guided writing exercises) so you can engage with the content like never before.
 * fron Huit Chronicles
 
-
-
-## Smart People Writing
-
-* https://www.lesswrong.com/
