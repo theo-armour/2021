@@ -1,7 +1,9 @@
 
 # COVId 19 Guidance
 
-
+Get vaccinated
+Wear a mask
+Avoid spending time in enclosed public spaces when you don’t know the vaccination status of others
 
 ## 2021-02-11
 
@@ -18,9 +20,6 @@ Therefore the probability is that there will be a warning given before any of th
 The warning may be days, or hours or even minutes, but there is highly likely to be a warning
 
 A warning of any length will give time me to adapt a new behavior
-
-123 456 2021-02-11 11:09 ~
-hee hee
 
 The issue is only me catching the virus without warning
 

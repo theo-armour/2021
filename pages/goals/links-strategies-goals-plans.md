@@ -6,12 +6,12 @@ Goals & Objectives
 * How we gauge our degrees of success
 * Actions, Owners, Time-frames, Resources, Outcomes
 
-Means          Ends
+Means ~ Ends
 
-* Mission        Vision
-* Strategies    
+* Mission ~ Vision
+* Strategies
 * Goals
-* Tactics        
+* Tactics
 * Objectives
 * Values
 * targets
@@ -36,6 +36,7 @@ https://www.nytimes.com/2017/12/18/smarter-living/how-to-stick-with-new-years-re
 * Achievable: Aim high, but within reason. Your goal should be a stretch, but something you could actually achieve.
 * Relevant: Find a goal that matters enough to you that you’ll be motivated to stick with it.
 * Time-bound: Set a reasonable timeline for your goal, and focus on the small wins along the way.
+
 
 ## FAST Goals
 

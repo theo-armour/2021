@@ -126,7 +126,7 @@ https://en.wikipedia.org/wiki/Metamotivation
 * Seems the most organized
 
 
-##### Axiology
+#### Axiology
 
 * Subsistence
 * Protection

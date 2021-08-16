@@ -16,6 +16,7 @@ How do these fit in?
 ## Myers Briggs
 
 ### Extraversion/Introversion
+
 * The extraverted types learn best by talking and interacting with others. By interacting with the physical world, extraverts can process and make sense of new information.
 * The introverted types prefer quiet reflection and privacy. Information processing occurs for introverts as they explore ideas and concepts internally.
 
@@ -29,13 +30,16 @@ How do these fit in?
 * Insight is valued higher than careful observation, and pattern recognition occurs naturally for intuitive types.
 
 ## Thinking/Feeling
+
 The third continuum reflects a person's decision preferences.
 
 * Thinking types desire objective truth and logical principles and are natural at deductive reasoning.
 * Feeling types place an emphasis on issues and causes that can be personalized while they consider other people's motives.
 
 ## Judging/Perceiving
+
 The fourth continuum reflects how a person regards complexity.
+
 * Judging types tend to have a structured way or theory to approach the world.
 * Perceiving types tend to be unstructured and keep options open.
 * Judging types will always try to make accommodation between new information and their structured world, which might only be changed with discretion.

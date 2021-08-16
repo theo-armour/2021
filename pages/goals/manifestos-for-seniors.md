@@ -12,7 +12,7 @@
 
 ## #1 Fit
 
-* productive member of society
+* Productive member of society
 * Source of wisdom
 * Ready to meet the maker
 * Sustainable ~ Consume just the right amount

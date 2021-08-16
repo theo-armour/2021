@@ -9,6 +9,7 @@
 * https://en.wikipedia.org/wiki/Rule_of_thirds
 * https://en.wikipedia.org/wiki/Hendiatris
 * https://en.wikipedia.org/wiki/Semantic_triple
+* https://en.wikipedia.org/wiki/Transcendentals ~ truth, beauty & goodness
 * https://en.wikipedia.org/wiki/The_three_Rs
 * https://en.wikipedia.org/wiki/Trivium
 * https://en.wikipedia.org/wiki/Isocolon#Tricolon

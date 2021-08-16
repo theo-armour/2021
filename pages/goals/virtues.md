@@ -42,7 +42,8 @@ Character Strengths and Virtues: A Handbook and Classification
 
 ### The Criteria
 
-What qualifies as a personal character strength, and how do you know if one is really yours? The researchers discuss many aspects of their methods and those of scientific psychology in the past. In A Primer in Positive Psychology (2007), Peterson explains:
+What qualifies as a personal character strength, and how do you know if one is really yours? The researchers discuss many aspects of their methods and those of scientific psychology in the past.
+In A Primer in Positive Psychology (2007), Peterson explains:
 
 I believe that people possess signature strengths akin to what Allport (1961) identified decades ago as personal traits. These are strengths of character that a person owns, celebrates, and frequently exercises. In our interviews with adults, we find that almost everyone can readily identify a handful of strengths as very much their own, typically between two and five.
 Peterson goes on to present a list they used in 2004 summarizing their "possible criteria for signature strengths":
