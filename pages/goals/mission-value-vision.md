@@ -1,5 +1,10 @@
 # Mission ~ Value ~ Vision
 
+That business purpose and business mission are so rarely given adequate thought is
+perhaps the most important cause of business frustration and failure.
+
+* Peter Drucker
+
 ## Introduction
 
 We want to answer questions such as these
@@ -48,7 +53,6 @@ Mission and vision are the typical items organizations list about themselves. Th
 * How do you want to behave?
 * What do you stand for?
 * 2021-07-02 ~ See manifestos.
-
 
 
 ## Strategies ~ How will you get there?
@@ -130,7 +134,7 @@ The more defined an indicator, the less room there will be for later confusion o
 Ideal indicators may not be practical; the feasibility of using certain indicators can be constrained by the availability of data and financial and human resources. The requirements and needs of donors, the government, organization headquarters and others may need to be given priority.
 
 
-### Some examples of these considerations are:
+### Some examples of these considerations are
 
 Availability of data: Some data may be considered ‘privileged’ information by agencies, projects, or government officials.
 
@@ -159,7 +163,6 @@ Information on the perspectives of women and girls (rights-holders) and service 
 Select a set of indicators that pertain to the identified objectives for the programme. If the intervention focuses on training providers, select indicators related for example to providers’ knowledge, attitudes and practices, ability to provide care, ability to make referrals, or others depending on the specific objective.
 
 
-
 ### How many indicators are enough?
 
 Some guidelines to follow when selecting indicators:
@@ -169,7 +172,9 @@ No more than 8-10 indicators per area of significant programme focus
 Use a mix of data collection strategies and sources
 
 
-### Process versus result/impact indicators: It is important to remember the difference between process and results indicators.
+### Process versus result/impact indicators
+
+It is important to remember the difference between process and results indicators
 
 Process Indicators are used to monitor the number and types of activities carried out.  Examples include:
 
@@ -226,42 +231,76 @@ Wikipedia [Five Ws]( https://en.wikipedia.org/wiki/Five_Ws )
 Some authors add a sixth question, how, to the list:
 
 
-## Links of Interest
+## Mission Statements ~ Links of Interest
 
 * https://en.wikipedia.org/wiki/Mission_statement
 * https://en.wikipedia.org/wiki/Vision_statement
+* http://en.wikipedia.org/wiki/Strategic_planning 
 
+### Papers
+How to Write Mission, Vision, and Values Statements ~ 12 pages
+* http://ens.lacity.org/cla/sdrc/clasdrc3199146924_01152021.pdf
 
+Discovering Purpose: Developing Mission, Vision & Values
+https://www.strategyskills.com/Articles/Documents/Discovering_Purpose-STI.pdf
+
+How to write a Program Mission Statement
+
+* https://assessment.uconn.edu/wp-content/uploads/sites/1804/2016/06/HowToWriteMission.pdf
+
+* https://topnonprofits.com/wp-content/uploads/2012/09/Mission-Vision-Worksheet.pdf
+### Articles
+
+* https://www.gsb.stanford.edu/alumni/volunteering/act/service-areas/mission-vision-values-facilitation
 * https://www.bain.com/insights/management-tools-mission-and-vision-statements
 * https://www.clearvoice.com/blog/difference-between-mission-vision-statement-examples/
 * http://www.aef.com/industry/careers/memos/8022
 * http://www.slideshare.net/lidhiyababu/vision-mission-goals-and-objectives << good
-* http://en.wikipedia.org/wiki/Strategic_planning 
 * http://ctb.ku.edu/en/table-of-contents/structure/strategic-planning/vmosa/main
-* http://www.mindtools.com/pages/article/newSTR_72.htm
 * http://image.slidesharecdn.com/integrating-goal-modeling-and-execution-in-adaptive-complex3321/95/integrating-goal-modeling-and-execution-in-adaptive-complex-6-728.jpg
 
-Values
+Mission Statements and Vision Statements ~ Unleashing the Power of Purpose
+* https://www.mindtools.com/pages/article/newLDR_90.htm
+* http://www.mindtools.com/pages/article/newSTR_72.htm
 
-* https://www.aboutamazon.com/about-us/leadership-principles
-* https://www.scouting.org/about/faq/question10/
-* https://en.wikipedia.org/wiki/Theory_of_Basic_Human_Values
-* https://en.wikipedia.org/wiki/Nolan_Chart
-* https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
 
-## Articles
+How To
 
+7 Steps to Writing a Vision, Mission and Values Statement
+* https://thethrivingsmallbusiness.com/how-to-write-a-vision-mission-values-statement/
+
+What Is a Vision Statement?
+
+* https://www.businessnewsdaily.com/3882-vision-statement.html
 * https://selfgrowth.com/articles/Peterkin3.html
 * https://www.fastcompany.com/3030038/why-your-life-needs-a-mission-statement
 * https://www.entrepreneur.com/article/65230
 
+Values
 
-## Examples
+* !!! https://blog.higginbotham.net/how-to-write-a-values-statementalues
 
+
+
+### Examples
+
+* https://www.uscsd.k12.pa.us/cms/lib/PA01000033/Centricity/Domain/10/Beliefs,_Vision,_Mission_Goals_(Revised).pdf
+* https://www.aboutamazon.com/about-us/leadership-principles
+* https://www.scouting.org/about/faq/question10/
 * https://github.com/schemaorg/schemaorg/issues/1127
 * https://aef.com/about-us/
 * https://leadingage.org/mission-vision-values
 * http://www.bellaken.com/index.php/skilled-nursing-facility-about-us
+
+
+## Values
+
+
+* https://en.wikipedia.org/wiki/Theory_of_Basic_Human_Values
+* https://en.wikipedia.org/wiki/Nolan_Chart
+* https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+
+
 
 ***
 
