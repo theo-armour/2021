@@ -230,6 +230,8 @@ Some authors add a sixth question, how, to the list:
 
 * https://en.wikipedia.org/wiki/Mission_statement
 * https://en.wikipedia.org/wiki/Vision_statement
+
+
 * https://www.bain.com/insights/management-tools-mission-and-vision-statements
 * https://www.clearvoice.com/blog/difference-between-mission-vision-statement-examples/
 * http://www.aef.com/industry/careers/memos/8022
@@ -243,6 +245,11 @@ Values
 
 * https://www.aboutamazon.com/about-us/leadership-principles
 * https://www.scouting.org/about/faq/question10/
+* https://en.wikipedia.org/wiki/Theory_of_Basic_Human_Values
+* https://en.wikipedia.org/wiki/Nolan_Chart
+* https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
+
+
 
 ***
 
