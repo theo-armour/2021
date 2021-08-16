@@ -55,6 +55,7 @@ Fashions
 International Society for Knowledge Organization
 * https://www.isko.org/index.php
 
+
 ISKO Encyclopedia of Knowledge Organization (IEKO)
 
 * https://www.isko.org/cyclo/
@@ -77,8 +78,18 @@ Patterns
 * https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/
 
 
+Schemas
 
+* https://en.wikipedia.org/wiki/Schema
+* https://en.wikipedia.org/wiki/XML_schema
+* https://en.wikipedia.org/wiki/Database_schema
 
+Schema.org
+* https://schema.org/docs/schemas.html
+* https://en.wikipedia.org/wiki/Schema.org
+
+The schemas are a set of 'types', each associated with a set of properties. The types are arranged in a hierarchy.
+The vocabulary currently consists of 792 Types, 1447 Properties 15 Datatypes, 83 Enumerations and 445 Enumeration members.
 
 ## Change Log
 

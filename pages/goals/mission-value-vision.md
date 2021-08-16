@@ -251,13 +251,15 @@ Values
 
 ## Articles
 
+* https://selfgrowth.com/articles/Peterkin3.html
 * https://www.fastcompany.com/3030038/why-your-life-needs-a-mission-statement
 * https://www.entrepreneur.com/article/65230
 
 
 ## Examples
 
-
+* https://github.com/schemaorg/schemaorg/issues/1127
+* https://aef.com/about-us/
 * https://leadingage.org/mission-vision-values
 * http://www.bellaken.com/index.php/skilled-nursing-facility-about-us
 

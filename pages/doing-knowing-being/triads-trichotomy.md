@@ -8,6 +8,7 @@
 * https://en.wikipedia.org/wiki/Rule_of_three_(writing)
 * https://en.wikipedia.org/wiki/Rule_of_thirds
 * https://en.wikipedia.org/wiki/Hendiatris
+* https://en.wikipedia.org/wiki/Semantic_triple
 * https://en.wikipedia.org/wiki/The_three_Rs
 * https://en.wikipedia.org/wiki/Trivium
 * https://en.wikipedia.org/wiki/Isocolon#Tricolon
@@ -23,14 +24,14 @@ About
 
 Also of possible related interest
 
-* https://en.wikipedia.org/wiki/Inconsistent_triad
+* https://en.wikipedia.org/wiki/Beck%27s_cognitive_triad
 * https://en.wikipedia.org/wiki/Condorcet_paradox
+* https://en.wikipedia.org/wiki/Category:3_(number)
+* https://en.wikipedia.org/wiki/Inconsistent_triad
 * https://en.wikipedia.org/wiki/Project_management_triangle
 * https://en.wikipedia.org/wiki/Ternary_plot
-* https://en.wikipedia.org/wiki/Category:3_(number)
 * https://en.wikipedia.org/wiki/Threesome
 * https://en.wikipedia.org/wiki/Triadization
-* https://en.wikipedia.org/wiki/Beck%27s_cognitive_triad
 * https://en.wikipedia.org/wiki/VPEC-T
 
 

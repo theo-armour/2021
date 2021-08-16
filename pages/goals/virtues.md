@@ -15,6 +15,7 @@ And
 * https://www.virtuescience.com/virtuelist.html ~ 120+ virtues
 * https://iep.utm.edu/aristotl/#H7 ~ chart
 * https://viacharacter.org/
+* https://www.yudkowsky.net/rational/virtues
 
 Good list
 
