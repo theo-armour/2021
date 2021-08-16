@@ -249,7 +249,17 @@ Values
 * https://en.wikipedia.org/wiki/Nolan_Chart
 * https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
 
+## Articles
 
+* https://www.fastcompany.com/3030038/why-your-life-needs-a-mission-statement
+* https://www.entrepreneur.com/article/65230
+
+
+## Examples
+
+
+* https://leadingage.org/mission-vision-values
+* http://www.bellaken.com/index.php/skilled-nursing-facility-about-us
 
 ***
 
