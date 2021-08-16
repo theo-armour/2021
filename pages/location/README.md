@@ -10,6 +10,16 @@ Worldviews are often taken to operate at a conscious level, directly accessible 
 
 * https://en.wikipedia.org/wiki/Worldview
 
+
+According to Apostel,[33] a worldview is an ontology, or a descriptive model of the world. It should comprise these six elements:
+
+* An explanation of the world
+* A futurology, answering the question "Where are we heading?"
+* Values, answers to ethical questions: "What should we do?"
+* A praxeology, or methodology, or theory of action: "How should we attain our goals?"
+* An epistemology, or theory of knowledge: "What is true and false?"
+* An etiology. A constructed world-view should contain an account of its own "building blocks", its origins and construction.
+
 ## more
 
 * https://en.wikipedia.org/wiki/Theory_of_Basic_Human_Values
