@@ -1,7 +1,7 @@
 # Three.js Stuff
 
 
-## Shspe 3D
+## Shape 3D
 
 * https://stackoverflow.com/questions/49020699/how-to-draw-a-flat-shape-in-3-space-in-three-js
 

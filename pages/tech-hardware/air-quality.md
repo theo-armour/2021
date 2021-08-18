@@ -230,6 +230,8 @@ WiFi
 
 Concern for need for 2.4 GHz connection,  misuse of permissions
 
+* https://www.bloomberg.com/news/articles/2020-09-14/mapping-the-wildfire-smoke-choking-the-western-u-s
+* https://www.bloomberg.com/news/articles/2018-07-09/cheap-sensors-help-people-understand-the-air-they-breathe
 * https://microbot.is/products/microbot-alert
 	* https://www.indiegogo.com/projects/alert-smart-alert-with-push-alerts-co2-tvoc#/updates/all
 * https://www.thepocketlab.com/store/pocketlab-air
