@@ -1,6 +1,12 @@
 # COVID
 
 
+## Air
+
+* https://www.amazon.com/exec/obidos/ASIN/B00SY34B64/ctmakerupdate-20?th=1
+
+
+
 ## CMS
 
 * https://www.cms.gov/newsroom/fact-sheets/cms-updates-nursing-home-guidance-revised-visitation-recommendations
@@ -24,17 +30,17 @@ McKm\night
 
 
 
+## Masks
 
-## Air
+* https://uwaterloo.ca/news/media/study-supports-widespread-use-better-masks-curb-covid-19
 
-* https://www.amazon.com/exec/obidos/ASIN/B00SY34B64/ctmakerupdate-20?th=1
 
 ## r-zero
 
 * https://rzero.com/
 * https://www.independent.com/2020/11/11/r-zeros-uvc-lamp-fights-covid-in-restaurants-classrooms-and-beyond/
 
-## accommodating
+## Seniors
 
 * https://www.nytimes.com/2021/01/01/opinion/nursing-home-senior-living-coronavirus.html
 * https://www.nytimes.com/2020/12/16/opinion/nursing-home-pandemic-life.html

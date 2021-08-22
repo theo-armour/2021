@@ -1,5 +1,10 @@
 # old and fit
 
+## Elder-Life Calculator for Frail Older Adults
+
+* https://www.respect.projectbiglife.ca/
+* 2021-08-22: my life expectancy 3.7 years ~ spring 2025. ;-(
+
 
 ## slogans
 
