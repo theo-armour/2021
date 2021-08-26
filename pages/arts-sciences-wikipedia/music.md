@@ -5,6 +5,10 @@
 <div><input type=button onclick=window.top.location.href="https://github.com/theo-armour/2021/tree/master/bookmarks/music.md";
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
 
+Liston to this: [Queen - Radio Ga Ga (Official Video)]( https://www.youtube.com/watch?v=azdwsXLmrHE )
+
+
+See my bookmarksL eyes > news news > musiv
 ## New
 
 * https://meyda.js.org/
@@ -19,6 +23,7 @@ The Magnet 041: One-line algorithmic music
 ## Frank's list
 
 * https://www.notion.so/CLASSICAL-MUSIC-LINKS-fed0e52e34174b14bf8d8359b7744153
+
 
 ## Awesome lists on [GitHub]( https://github.com)
 
@@ -48,6 +53,8 @@ Creating the ["Awesome list of (whatevers)"]( https://github.com/topics/awesome-
 
 * https://radio.net/genre/classical
 * https://internet-radio.com/stations/classical/
+* http://www.publicradiofan.com/progsources.html
+* http://radio.garden
 
 
 ## Live Music and Concerts
@@ -56,9 +63,14 @@ Creating the ["Awesome list of (whatevers)"]( https://github.com/topics/awesome-
 * https://concertzender.nl/
 * https://livemusicproject.org/tag/beethoven/
 
+## MIDI
+
+* https://bitmidi.com/
 
 ## More
 
+* https://radiooooo.com/# ~ a musical time machine ~ view the music of a country over the decades
+* https://www.iheart.com/
 * https://theglobaljukebox.org/#
 * http://www.last.fm/
 * http://www.projectopus.com/
@@ -70,6 +82,13 @@ Creating the ["Awesome list of (whatevers)"]( https://github.com/topics/awesome-
 * http://www.mtvmusic.com/
 * http://www.slacker.com/
 * http://www.theradio.com/
+* https://music.amazon.com/
+* https://kcsm.org/
+* https://www.pandora.com/
+* https://wfmu.org/
+* https://www.opengoldbergvariations.org/
+* http://www.concertonet.com/index.php
+
 
 & many many more
 
