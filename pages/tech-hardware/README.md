@@ -16,17 +16,14 @@
 * March 2021
 
 
-Elenker
+### Elenker ~ https://www.elenkerwalker.com/collections/upright-walker
 
 Susan RG61
 
 13725 Pipeline Ave
-
 building 30
-
 Chino, CA 91710
 
-United States
 
 Telephone : (800)-513-5727
 
