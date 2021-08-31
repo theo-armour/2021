@@ -9,7 +9,7 @@
 
 Menu drop-downs + tablet drawing disappears appear on the wrong screen workaround
 
-* Always set Inkscape minitor to right of main monitor
+* Always set Inkscape m0nitor to right of main monitor
 * Move Inkscape back and forth between monitor 1 and monitor 2.
 * In windows display settings, choose your top left most monitor. Mark it 'make this my main display'.
 

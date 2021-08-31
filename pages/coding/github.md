@@ -7,6 +7,15 @@
 * https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
 * https://github.blog/2020-04-02-github-protips-tips-tricks-hacks-and-secrets-from-vitor-monteiro/
 
+## Git.io: GitHub URL Shortener
+
+* https://github.blog/2011-11-10-git-io-github-url-shortener/
+
+	$ curl -i https://git.io -F "url=https://github.com/..."
+	You can specify your own code to setup your own vanity URL:
+	$ curl -i https://git.io -F "url=https://github.com/technoweenie" -F "code=t"
+
+
 ## JavaScript
 
 * http://jsbeautifier.org/

@@ -16,7 +16,7 @@
 
 * https://github.com/evilstreak/markdown-js
 	* Deprecated
-* https://github.com/markedjs/marked << better than ShowDown??
+* https://github.com/markedjs/marked ~ 25K stars ~ regular updates << better than ShowDown??
 	* A markdown parser and compiler. Built for speed.
 * https://github.com/markdown-it/markdown-it
 	* Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
