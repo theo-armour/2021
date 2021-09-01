@@ -33,7 +33,7 @@ View a few of the projects Theo Armour has scripted in the past few years.
 ## Issues
 
 * Many older projects still call for http instead https and therefor will not load
-* Many older projects are based on earlier versions but call for the dev version and there for crsh
+* Many older projects are based on earlier versions but call for the dev of Three.js version and therefore crash
 
 
 ## Links of Interest
