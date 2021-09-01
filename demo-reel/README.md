@@ -12,7 +12,7 @@ _Theo Armour demo reel carousel in a resizable window. One finger to rotate. Two
 
 @@@-->
 
-## [Demo Reel 2021 Carousel ]( https://theo-armour.github.io/2021/demo-reel/carousel-2021.html )
+## Full screen: [Demo Reel 2021 Carousel ]( https://theo-armour.github.io/2021/demo-reel/carousel-2021.html )
 
 ## Concept
 

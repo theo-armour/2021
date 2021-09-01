@@ -15,6 +15,7 @@
 	You can specify your own code to setup your own vanity URL:
 	$ curl -i https://git.io -F "url=https://github.com/technoweenie" -F "code=t"
 
+	$ curl -i https://git.io -F "url=https://theo-armour.github.io/2021/demo-reel/carousel-2021.html" -F "code=theo-2021"
 
 ## JavaScript
 
