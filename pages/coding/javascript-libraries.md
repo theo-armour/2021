@@ -12,6 +12,13 @@
 * https://www.youtube.com/watch?v=dCEGx-thXD4
 > Augmented Reality - Generate a 3D model that looks like you. #AR #VR #AugmentedReality #Unity3D - YouTube
 
+### Canvas to PNG or Animated GIF
+
+JavaScript implementation of a GIF 89a encoder and decoder
+* https://github.com/deanm/omggif
+* https://mrdoob.github.io/omggif-example/
+* view-source:http://bl.ocks.org/mrdoob/raw/4582927/?raw=true
+
 
 ## Code Editor
 
@@ -33,13 +40,17 @@
 
 ## JSON from Markdown
 
+## Library Finder
+
+* https://snyk.io/advisor/
+
 ## Math
 
 * https://xem.github.io/projects/math.html
 	> Maths & trigonometry cheat sheet for 2D & 3D games.
 
 
-## Mindmaps
+## MindMaps
 
 
 ### Mermaid
@@ -117,25 +128,6 @@ Table tag only
 * https://github.com/riversun/sortable-table ~ 3
 * https://sorting-table.danzino.com/ ~ 0 stars
 * https://github.com/aminya/solid-simple-table ~ complicated
-
-
-## Tip Collections
-
-15 HTML element methods you’ve potentially never heard of
-* https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
-
-6 Unpopular and Powerful HTML Features that You Should Know
-* https://javascript.plainenglish.io/6-unpopular-and-powerful-html-features-that-you-should-know-a0c3d62f1294
-> <meter> attribute: required draggable=true defer(!) abbr = identify items with titles
-
-
-## Tips
-
-* https://github.com/angus-c/just
-* https://github.com/Chalarangelo/30-seconds-of-code
-* https://developers.google.com/web/fundamentals/
-* https://developers.google.com/web/fundamentals/performance/rendering/
-* Service workers - https://developers.google.com/web/fundamentals/primers/service-workers/
 
 
 ## More

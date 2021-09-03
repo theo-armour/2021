@@ -3,7 +3,10 @@
 
 ## Tips
 
-* You can write read me files in HTML because Markdown passes transparently almost all HTML
+10 Fun Things You Can Do With GitHub.dev
+* https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7
+
+You can write read me files in HTML because Markdown passes transparently almost all HTML
 * https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
 * https://github.blog/2020-04-02-github-protips-tips-tricks-hacks-and-secrets-from-vitor-monteiro/
 

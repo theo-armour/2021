@@ -6,6 +6,8 @@ Ken Russell
 
 ## WebGL
 
+https://github.com/WebKit/explainers/tree/main/model
+
 ### Zoom 2021-07-13
 
 * OVA : https://www.ova.ai/
