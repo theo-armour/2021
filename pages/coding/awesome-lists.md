@@ -11,6 +11,7 @@
 * https://github.com/bradtraversy/design-resources-for-developers
 * https://github.com/pawelborkar/awesome-repos
 * https://github.com/bradtraversy/design-resources-for-developers#vectors--clip-art
+* https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo
 
 ## Web Dev
 

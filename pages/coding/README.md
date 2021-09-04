@@ -64,3 +64,9 @@ People do love Apple.  Pricier than Android. Once you get your data into the Ap
 I rarely talk on my phone, but it is always with me. I use it for calender, email, voice dictation, encyclopedia, weather oracle, map, book reader, music lyrics, telescope, microscope, plant identifier and more. 
 
 I see my mobile device, it uses and usage an essential element of aging successfully 
+
+## Selling
+
+* https://hashnode.com/
+* https://gumroad.com/
+
