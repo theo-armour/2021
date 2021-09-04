@@ -1,4 +1,10 @@
-## in Three.js
+# in Three.js
+
+## infoBox
+
+	${ MNU.addInfoBox( "Files to try" ) }
+
+## Basic
 
 	var gridHelper, axisHelper, groundHelper;
 
@@ -45,8 +51,6 @@
 			<p><button onclick=toggleSceneAutoRotate() title= 'Stop the spinning!' > Toggle scene rotation </button></p>
 
 		</details>
-
-
 
 
 ## Zoom Object Bounding Sphere
@@ -126,7 +130,6 @@ THRU.zoomObjectBoundingSphere = function( obj = undefined ) {
 };
 
 
-
 ## addHelpers
 
 	function addHelpers( size = 200 ) {
@@ -153,7 +156,8 @@ THRU.zoomObjectBoundingSphere = function( obj = undefined ) {
 
 	}
 
-## Arrow Heloper
+
+## Arrow Helper
 
 * https://threejs.org/docs/#api/en/helpers/ArrowHelper
 
@@ -199,7 +203,7 @@ scene.add( arrowHelper );
 
 
 
-
+## Toggle Ground
 
 	function toggleGround() {
 
@@ -224,6 +228,8 @@ scene.add( arrowHelper );
 	}
 
 
+
+## Toggle Edges
 
 	function toggleEdges() {
 console.log( '', buildings  );

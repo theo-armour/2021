@@ -80,10 +80,11 @@ var obj = new THREE.Object3D();
 	.visible
 
 
-	Translates object along axis by distance.
-			.translateX
-			.translateY
-			.translateZ
+Translates object along axis by distance.
+
+	.translateX
+	.translateY
+	.translateZ
 
 	.translateOnAxis( axis, distance ) Object3D
 	- axis -- A normalized vector in object space.
@@ -212,9 +213,7 @@ controls.reset();
 	this.mouseButtons = { ORBIT: THREE.MOUSE.LEFT, ZOOM: THREE.MOUSE.MIDDLE, PAN: THREE.MOUSE.RIGHT };
 
 
-
-
-### CLOCK ###
+### CLOCK
 
 	var clock = new THREE.Clock();
 	var delta = clock.getDelta(),
@@ -240,6 +239,7 @@ if ( ! Detector.webgl ) {
 } else {
 	renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true, clearColor: 0xffffff} );
 }
+
 
 ## GEOMETRY
 
@@ -297,7 +297,7 @@ if ( ! Detector.webgl ) {
 
 
 
-// ### Events
+### Events
 
 see assets
 
@@ -313,8 +313,6 @@ see assets
 // https://discourse.threejs.org/t/how-to-convert-three-buffergeometry-coordinates-to-worlds-when-rotating/889
 // transform a local coordinate to a world coordinate
 		vertex.applyMatrix4( object.matrixWorld );
-
-
 
 
 #### GEOMETRY / EDGES edgesGEOMETRY
@@ -369,6 +367,7 @@ https://discourse.threejs.org/t/correctly-remove-mesh-from-scene-and-dispose-mat
 
 
 ### GEOMETRY / Lathe
+
 // http://mrdoob.github.io/three.js/docs/#Reference/Extras.Geometries/LatheGeometry
 // Class for generating meshes with axial symmetry. Possible uses include donuts, pipes, vases etc. The lathe rotate around the Z axis.
 // LatheGeometry(points, segments, phiStart, phiLength) - does not close automatically
