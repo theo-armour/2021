@@ -26,11 +26,13 @@
 
 ## JavaScript Learning
 
+* https://dev.to/aritik/essential-concepts-in-js-4bbj
 * https://developers.google.com/web/fundamentals/
 	* https://developers.google.com/web/fundamentals/performance/rendering/
 	* Service workers - https://developers.google.com/web/fundamentals/primers/service-workers/
 
 * ## Lists
+
 
 * https://dev.to/suprabhasupi/github-10-repo-for-javascript-developer-23a9
 * !!! https://javascript.plainenglish.io/9-useful-web-apps-for-web-developers-4cd9a0ea9a2f
@@ -38,6 +40,15 @@
 * https://dev.to/pascavld/20-useful-free-resources-for-web-developers-2c3n
 * https://dev.to/coffeestasia/background-music-for-coding-for-every-taste-2oo6
 
+APIs
+* https://dev.to/hyggedev/great-beginner-friendly-api-s-to-start-practicing-frontend-development-52kl
+
 ## Principles
 
 * https://uxdesign.cc/the-web-we-choose-to-build-e921510e3f1b
+
+
+## Tree Data in JavaScript
+
+* https://stackfull.dev/series/tree-javascript
+* https://stackfull.dev/tree-data-structure-in-javascript

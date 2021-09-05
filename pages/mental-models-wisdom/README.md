@@ -1,5 +1,10 @@
 # Mental Models & Wisdom Read Me
 
+## Tools
+
+Tools for better thinking ~ Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
+* https://untools.co/
+
 ## Futures
 
 * https://futureofstorytelling.org/about

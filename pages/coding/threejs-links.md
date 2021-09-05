@@ -1,5 +1,8 @@
 # Three.js Stuff
 
+Explore and Troubleshoot your WebGL scenes easily.
+Spector is a tool aim to WebGl developers willing to know what happens on their context. It enables capturing all the available information from a frame. You will be empowered to look at your entire commands list with their associated visual states and context information.
+https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk
 
 ## Shape 3D
 
@@ -15,6 +18,7 @@
 ### indexed-buffergeometry-vs-instancedbuffergeometry
 
 https://stackoverflow.com/questions/50077508/three-js-indexed-buffergeometry-vs-instancedbuffergeometry?rq=1
+
 ## Nice editing mesh vertices
 
 https://stackoverflow.com/questions/63429496/three-js-extrude-certain-vertex-face-from-buffergeometry

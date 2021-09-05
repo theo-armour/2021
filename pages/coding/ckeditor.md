@@ -12,17 +12,20 @@
 * Image upload
 * Seems OK
 * Free plan allows for multi-user collaboration
-* Converts Markdown to HTML o the fly
+* Converts Markdown to HTML on the fly
+
 
 ## Documentation
 
 * https://ckeditor.com/docs/ckeditor5/latest/examples/index.html
+
 
 ### Plugins
 
 * https://ckeditor.com/docs/ckeditor5/latest/builds/guides/development/plugins.html
 
 * https://cdn.jsdelivr.net/npm/@ckeditor/ckeditor5-basic-styles@29.1.0/src/index.min.js
+
 
 ## Frederico Knabben
 

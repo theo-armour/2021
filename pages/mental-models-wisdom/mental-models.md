@@ -14,7 +14,7 @@
 
 * https://en.wikipedia.org/wiki/Mental_model
 
-> A mental model is an explanation of someone's thought process about how something works in the real world. It is a representation of the surrounding world, the relationships between its various parts and a person's intuitive perception about his or her own acts and their consequences. Mental models can help shape behaviour and set an approach to solving problems (similar to a personal algorithm) and doing tasks.
+> A mental model is an explanation of someone's thought process about how something works in the real world. It is a representation of the surrounding world, the relationships between its various parts and a person's intuitive perception about his or her own acts and their consequences. Mental models can help shape behavior and set an approach to solving problems (similar to a personal algorithm) and doing tasks.
 
 * https://en.wikipedia.org/wiki/Mental_Models
 * https://en.wikipedia.org/wiki/Law_of_thought
@@ -32,8 +32,6 @@
 * https://www.farnamstreetblog.com/mental-models/
 * https://fs.blog/mental-models/
 * https://www.clearerthinking.org/
-
-
 
 
 
