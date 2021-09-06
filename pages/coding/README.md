@@ -1,5 +1,8 @@
 # Coding Read Me
 
+https://news.ycombinator.com/item?id=28430808
+
+
 ## APIs
 
 * https://public-apis.io/

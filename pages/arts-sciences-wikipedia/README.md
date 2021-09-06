@@ -20,6 +20,7 @@ _"ZZZZZ" in a resizable window. One finger to rotate. Two to zoom._
 
 ## Links of Interest
 
+* https://news.ycombinator.com/item?id=28421640
 
 ## Change Log
 
