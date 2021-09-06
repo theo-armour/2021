@@ -57,6 +57,7 @@ To view a few examples of my many efforts, please click on the links below:
 * Documenting people's lives: [Egypt Parallel Constitution (EPC)]( https://parallelconstitution.wordpress.com/) ) ~ [Juliette]( https://juliettehannedoucheellis.wordpress.com/ )
 * Building teams
 
+
 ***
 
 <center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
