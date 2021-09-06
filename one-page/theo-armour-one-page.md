@@ -57,6 +57,9 @@ To view a few examples of my many efforts, please click on the links below:
 * Documenting people's lives: [Egypt Parallel Constitution (EPC)]( https://parallelconstitution.wordpress.com/) ) ~ [Juliette]( https://juliettehannedoucheellis.wordpress.com/ )
 * Building teams
 
+***
+
+2021-09-06 ~ This effort is a work in progress. More links to be added. And I wonder: what else might be fun? Pop
 
 ***
 
