@@ -1,8 +1,8 @@
 # [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )](https://github.com/theo-armour/2021/ "Source code on GitHub" ) [Theo 2021]( https://theo-armour.github.io/2021/ "Home page" ) / [Theo Armour One Page Read Me]( https://theo-armour.github.io/2021/#README.md)
 
 <!--@@@
-<div class=ifrResize><iframe src=https://theo-armour.github.io/2021/one-page/ height=100% width=100% ></iframe></div>
-_"Theo Armour One Page" in a resizable window. One finger to rotate. Two to zoom._
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/one-page/ height=100% width=100% ></iframe></div>
+_"Theo Armour One Page" in a resizable window. One finger to rotate. Two fingers to zoom._
 @@@-->
 
 ## Full Screen: [Theo Armour One Page]( https://theo-armour.github.io/2021/one-page/ )
