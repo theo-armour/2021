@@ -79,10 +79,10 @@ summary { cursor: pointer; font-size: 2.5rem; font-weight: bold; outline: none; 
 			window.scrollTo( 0, 0 );
 			if ( location.protocol === "https:" ) {
 
-				window.history.pushState( "", "", "./" + location.hash );
+				window.history.pushState( "", "", "./" );
 
 			}
-			
+
 		}
 		xhr.send( null );
 
