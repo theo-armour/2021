@@ -11,13 +11,13 @@ _Demo Reel in a resizable window. One finger to rotate. Two fingers to zoom. Ful
 
 ## Mission & Vision
 
-I am searching for a mentor, a team to join
+I am searching for a mentor, a team to join.
 
-I want to help projects that survive without me
+I want to help projects that survive without me.
 
 I am a gifted amateur of tackling complex projects and responding with, mostly successful, demos that are easy-to-embed into existing workflows.
 
-For a few examples of my many efforts, please click on the links below:
+To view a few examples of my many efforts, please click on the links below:
 
 ## Architecture, Engineering & Construction (AEC)
 * Data manipulation: [Spider Viewer 2021]( https://www.ladybug.tools/spider-2021/spider-viewer/ "Pre-release" ) ~ [R12]( https://www.ladybug.tools/spider/gbxml-viewer/ "First widely-used release" ) ~ [R17]( https://www.ladybug.tools/spider-gbxml-tools/spider-gbxml-viewer/ "A popular release" )
@@ -31,7 +31,7 @@ For a few examples of my many efforts, please click on the links below:
 
 ## Charts
 * Inventing the next generation; not for the timid: [US County Votes 2020](https://theo-armour.github.io/2020/sandbox/us-county-votes/)
-* large numbers of variables displayed at same time: [predIQtiv](https://prediqtiv.github.io/eye-cue/replay/r3-1/eye-cue-replay-r3-1.html)
+* Large numbers of variables displayed at same time: [predIQtiv](https://prediqtiv.github.io/eye-cue/replay/r3-1/eye-cue-replay-r3-1.html) ~ [Scatter Well]( https://www.ladybug.tools/spider/cookbook/scatter-well/r )
 * Helping math be more accessible: [AlgeSurf Ray Marching]( https://webmath.github.io/algesurf/ray-marching/r3/algesurf-ray-marching-r3.html ) ~ [AlgeSurf Function Graph]( https://webmath.github.io/algesurf/function-graph/r4.2/function-graph-r4.2.html )
 
 ## Investigations
