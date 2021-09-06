@@ -4,14 +4,14 @@
 <!--@@@
 <div class=ifrResize><iframe src=https://theo-armour.github.io/2021/one-page/ height=100% width=100% ></iframe></div>
 _"Theo Armour One Page" in a resizable window. One finger to rotate. Two to zoom._
-
-### Full Screen: [Theo Armour One Page]( https://theo-armour.github.io/2021/one-page/ )
 @@@-->
+
+## Full Screen: [Theo Armour One Page]( https://theo-armour.github.io/2021/one-page/ )
 
 
 ## Concept
 
-One page is too small, so just make a list of links
+One page is way too small, so just make a list of links
 
 "The map is bigger than the territory"
 
