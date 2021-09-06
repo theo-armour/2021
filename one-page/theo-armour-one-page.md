@@ -13,9 +13,9 @@ _Demo Reel in a resizable window. One finger to rotate. Two fingers to zoom. Ful
 
 I am searching for a mentor, a team to join.
 
-I want to help projects that survive without me.
+I want to help projects that survive without me. I am 74.
 
-I am a gifted amateur of tackling complex projects and responding with, mostly successful, demos that are easy-to-embed into existing workflows.
+Nonetheless I am a gifted amateur of tackling complex projects and responding with, mostly successful, demos that are useful and easy-to-embed into existing workflows.
 
 To view a few examples of my many efforts, please click on the links below:
 
