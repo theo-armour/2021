@@ -2,9 +2,9 @@
 
 <!--@@@
 <div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/demo-reel/carousel.html  height=100% width=100% ></iframe></div>
-_Demo Reel in a resizable window. One finger to rotate. Two to zoom._
+_Demo Reel in a resizable window. One finger to rotate. Two fingers to zoom._
 
-### Full Screen: [Theo Armour Demo Reel]( https://theo-armour.github.io/2021/demo-reel/ )
+### Full Screen: [Theo Armour Demo Reel]( https://theo-armour.github.io/2021/demo-reel/v-2021-08-31/iframe-carousel-r1.html )
 @@@-->
 
 See also
@@ -26,7 +26,7 @@ See also
 * [US County Presidents Votes]( https://theo-armour.github.io/maps-2021/sandbox/us-county-votes/ )
 * [Demo Reel]( https://theo-armour.github.io/2021/demo-reel/ )
 	* https://git.io/theo-2021
-	
+
 
 ## To Do / Wish List
 

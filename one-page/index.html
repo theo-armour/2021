@@ -77,6 +77,12 @@ summary { cursor: pointer; font-size: 2.5rem; font-weight: bold; outline: none; 
 			txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@-->/, "" );
 			divContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
 			window.scrollTo( 0, 0 );
+			if ( location.protocol === "https:" ) {
+
+				window.history.pushState( "", "", "./" + location.hash );
+
+			}
+			
 		}
 		xhr.send( null );
 
