@@ -9,6 +9,11 @@ https://news.ycombinator.com/item?id=28430808
 * https://dev.to/hyggedev/great-beginner-friendly-api-s-to-start-practicing-frontend-development-52kl
 * https://github.com/public-apis/public-apis
 
+Web Components
+
+* https://www.webcomponents.org/
+* https://shoelace.style/
+
 ## Documentation
 
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
