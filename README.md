@@ -1,11 +1,11 @@
 # [![](https://theo-armour.github.io/2021/lib/assets/icons/mark-github.svg )](https://github.com/theo-armour/2021/ "Source code on GitHub" ) [Theo Armour 2021 Read Me]( https://theo-armour.github.io/2021/ "Home page" )
 
 <!--@@@
-<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/demo-reel/carousel.html  height=100% width=100% ></iframe></div>
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/2021/iframe-carousel/ height=100% width=100% ></iframe></div>
 _Demo Reel in a resizable window. One finger to rotate. Two fingers to zoom._
-
-### Full Screen: [Theo Armour Demo Reel]( https://theo-armour.github.io/2021/demo-reel/v-2021-08-31/iframe-carousel-r1.html )
 @@@-->
+
+## Full Screen: [Theo Armour Carousel]( https://theo-armour.github.io/2021/iframe-carousel/)
 
 See also
 
@@ -36,6 +36,10 @@ See also
 
 
 ## Change Log
+
+### 2021-09-09
+
+* Update iframe-carousel; refactor with name space
 
 ### 2021-07-05
 
