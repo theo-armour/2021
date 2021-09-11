@@ -8,6 +8,13 @@ https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflm
 
 * https://stackoverflow.com/questions/49020699/how-to-draw-a-flat-shape-in-3-space-in-three-js
 
+## bufferGeometry face colors
+
+* https://www.loopfoo.info/three/meshes/colors/
+* https://hofk.de/main/discourse.threejs/2019/ColorStripeChanging/ColorStripeChanging.html
+* https://discourse.threejs.org/t/assign-different-colors-to-different-parts-of-buffergeometry/6604/13
+* https://stackoverflow.com/questions/44828713/paint-cube-faces-as-a-whole-not-the-triangles-that-make-up-the-face-three-js
+
 
 ## bufferGeometry Normals
 
@@ -26,6 +33,7 @@ https://stackoverflow.com/questions/63429496/three-js-extrude-certain-vertex-fac
 ## Learning
 
 * https://github.com/gfxfundamentals/threejsfundamentals
+* https://discoverthreejs.com/
 
 ## Glass
 
