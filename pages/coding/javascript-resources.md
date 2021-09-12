@@ -1,19 +1,22 @@
 # JavaScript Resources
 
+## About
+
+
+* https://dev.to/narottam04/how-javascript-works-visually-explained-269j
+* https://www.wired.com/story/healing-power-javascript-code-programming/
+
+Complexity
+* https://remysharp.com/2021/02/11/the-web-didnt-change-you-did
+
+
 ## API
 
+* https://dev.to/hyggedev/great-beginner-friendly-api-s-to-start-practicing-frontend-development-52kl
 * !!! https://www.browserling.com/tools
 * dozens of API tools example" XML to JSON
 * also https://onlinetexttools.com/?msg3
 
-
-## Articles
-
-* https://remysharp.com/2021/02/11/the-web-didnt-change-you-did
-
-## About
-
-* https://www.wired.com/story/healing-power-javascript-code-programming/
 
 ## Cheat Sheets
 
@@ -40,8 +43,6 @@
 * https://dev.to/pascavld/20-useful-free-resources-for-web-developers-2c3n
 * https://dev.to/coffeestasia/background-music-for-coding-for-every-taste-2oo6
 
-APIs
-* https://dev.to/hyggedev/great-beginner-friendly-api-s-to-start-practicing-frontend-development-52kl
 
 ## Principles
 

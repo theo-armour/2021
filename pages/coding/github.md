@@ -4,6 +4,10 @@
 
 * Join https://github.community/
 
+## Lists
+
+* https://stargazing.dev/
+
 ## Tips
 
 10 Fun Things You Can Do With GitHub.dev
@@ -12,6 +16,7 @@
 * You can write read me files in HTML because Markdown passes transparently almost all HTML
 * https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/
 * https://github.blog/2020-04-02-github-protips-tips-tricks-hacks-and-secrets-from-vitor-monteiro/
+
 
 ## Git.io: GitHub URL Shortener
 
@@ -100,7 +105,7 @@ https://github.com/ladybug-analysis-tools/ladybug-web/commits/gh-pages.atom
 https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
 
 
-#### CDN
+## CDN
 
 https://www.maxcdn.com/
 https://rawgit.com/
