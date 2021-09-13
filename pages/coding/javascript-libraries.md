@@ -2,10 +2,15 @@
 
 !!! = very good
 
+## Library Finder
+
+* https://snyk.io/advisor/
+
 
 ## JavaScript rendered event
 
 * https://stackoverflow.com/questions/15875128/is-there-element-rendered-event
+
 
 ## 3D
 
@@ -34,15 +39,12 @@ JavaScript implementation of a GIF 89a encoder and decoder
 ## Developer Console
 
 * https://davidwalsh.name/logpoints ~ ***
-
 * https://markodenic.com/use-console-log-like-a-pro/
 
 
 ## JSON from Markdown
 
-## Library Finder
 
-* https://snyk.io/advisor/
 
 ## Math
 
@@ -82,6 +84,12 @@ works in vsCode
 * https://github.com/ondras
 	* https://my-mind.github.io/ << wow
 
+
+## Progress Indicators
+
+* https://www.google.com/search?q=xmlhttprequest+progress+indicator
+* https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/progress_event
+* https://zinoui.com/blog/ajax-request-progress-bar
 
 ## Spreadsheets
 
@@ -145,8 +153,11 @@ file:///C:/
 file:///D:/
 
 
-## Windows
+## Window Managers
 
+* https://github.com/m-thalmann/windowjs
+* https://github.com/riversun/JSFrame.js/
+* https://nextapps-de.github.io/winbox/
 * jQuery https://codepen.io/pamgriffith/pen/otucm
 * https://github.com/os-js/OS.js
 * https://github.com/rlamana/Ventus
