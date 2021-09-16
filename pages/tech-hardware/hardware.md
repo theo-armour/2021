@@ -9,6 +9,8 @@
 
 NUC 11 Extreme
 
+* https://www.amazon.com/NUC11PHKi7C-System-Installed-Configured-SSD980/dp/B097Z4LBQB/ ~ $1,900
+
 * https://simplynuc.com/beast-canyon/
 * https://www.bhphotovideo.com/c/product/1653125-REG/intel_rnuc11phki7c00_phantom_cny_i7_2060_enthus.html
 * https://www.amazon.com/NUC11PHKi7C-System-Installed-Configured-SSD980/dp/B097Z4JV4L
@@ -40,6 +42,9 @@ HP Chromebook x2 11 With Detachable Keyboard, USI Pen Launched
 * https://www.hohem.com/
 
 ## Keyboards
+
+RK ROYAL KLUDGE RK68 65% Hot-Swappable Wireless Mechanical Keyboard, 60% 68 Keys Compact Bluetooth Gaming Keyboard with Stand-Alone Arrow/Control Keys, Clicky Blue Switch
+* https://www.amazon.com/dp/B08G4ZB9GL/
 
 IC-BK05
 *  https://www.iclever.com/storage/product/guide/10/15766589806177.pdf
