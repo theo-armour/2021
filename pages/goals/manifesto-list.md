@@ -13,6 +13,7 @@
 
 Wikipedia links are useful because they provide both links to the original text as well as guidance on commentaries and criticisms
 
+* https://en.wikipedia.org/wiki/Humanist_Manifesto
 * https://en.wikipedia.org/wiki/Burning_Man#Principles
 * https://en.wikipedia.org/wiki/The_Communist_Manifesto
 * https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen
