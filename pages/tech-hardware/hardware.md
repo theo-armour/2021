@@ -9,6 +9,8 @@
 
 NUC 11 Extreme
 
+Ordered 2021-09-18:
+* https://www.amazon.com/Intel-Enthusiast-NUC11PHKi7C-Barebone-i7-1165G7/dp/B09DDJFSNY
 * https://www.amazon.com/NUC11PHKi7C-System-Installed-Configured-SSD980/dp/B097Z4LBQB/ ~ $1,900
 
 * https://simplynuc.com/beast-canyon/
