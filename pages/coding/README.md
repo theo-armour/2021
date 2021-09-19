@@ -2,7 +2,7 @@
 
 What goes here?
 
-APIs, Libraries
+APIs, Libraries, Languages, Markup, Styling
 
 GitHub Codespaces vs. Gitpod: Choosing the Best Online Code Editor
 
