@@ -3,7 +3,7 @@
 *   https://ellen-heinrichs.medium.com/cha-ching-five-insights-into-how-constructive-journalism-pays-off-d7bcf5d1b0f9
 *   [https://news.ycombinator.com/item?id=28413601](https://news.ycombinator.com/item?id=28413601)
 
-### Bias 
+### Bias
 
 Machine-Learning media bias
 
