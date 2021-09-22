@@ -16,9 +16,10 @@ https://cdn.jsdelivr.net/gh/mrdoob/three.js@r132/examples/js/utils/BufferGeometr
 	// SphereGeometry( radius, segmentsWidth, segmentsHeight, phiStart, phiLength, thetaStart, thetaLength )
 	// TorusGeometry( radius, tube, radialSegments, tubularSegments, arc )
 
-	geometry.applyMatrix4( new THREE.Matrix4().makeRotationX( -0.5 * Math.PI ) );
-	geometry.applyMatrix4( new THREE.Matrix4().makeScale( 1, 1, 1 ) );
-	geometry.applyMatrix4( new THREE.Matrix4().makeTranslation( 0, 0, 0 ) );
+	geometry.rotateX( -0.5 * Math.PI ) );
+	geometry.scale( 1, 1, 1 ) );
+	geometry.translate( 0, 0, 0 ) );
+	.setFromPoints
 
 
 	var color = new THREE.Color( 'grey' );
