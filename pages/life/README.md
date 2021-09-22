@@ -7,6 +7,12 @@
 
 > You Don’t Need a Bucket list. You Need a Fuggit List. Stop caring about these things to free up time, money, and energy.
 
+## Meetings
+
+How Jeff Bezos Has Run Amazon, From Meetings to Managing
+* The common thread through his maxims has been the emphasis on staying relentlessly innovative
+https://www.wsj.com/articles/how-jeff-bezos-has-run-amazon-from-meetings-to-managing-11612314552?st=eow5aifjbmrtsfh&reflink=desktopwebshare_permalink
+
 ## Tips
 
 100 Tips
