@@ -1,8 +1,5 @@
 # Tech & Hardware Read Me
 
-## Pixel 6
-
-* https://www.theverge.com/2021/8/2/22605094/google-pixel-6-pro-tensor-processor-specs-ai-ml
 
 
 ## Futures

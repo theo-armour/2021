@@ -45,6 +45,12 @@ HP Chromebook x2 11 With Detachable Keyboard, USI Pen Launched
 
 ## Keyboards
 
+https://en.wikipedia.org/wiki/List_of_keyboard_switches
+
+Mechanical keyboard switches: What they are, and why you want them
+* https://www.windowscentral.com/mechanical-keyboard-switches-guide?
+
+
 RK ROYAL KLUDGE RK68 65% Hot-Swappable Wireless Mechanical Keyboard, 60% 68 Keys Compact Bluetooth Gaming Keyboard with Stand-Alone Arrow/Control Keys, Clicky Blue Switch
 * https://www.amazon.com/dp/B08G4ZB9GL/
 
@@ -54,5 +60,12 @@ IC-BK05
 ## Monitors
 
 https://www.crutchfield.com/p_30532LS03T/Samsung-QN32LS03T-The-Frame.html?tp=161 $600
+
+
+## Pixel 6
+
+* https://www.theverge.com/2021/8/2/22605094/google-pixel-6-pro-tensor-processor-specs-ai-ml
+
+
 
 ## Projectors
