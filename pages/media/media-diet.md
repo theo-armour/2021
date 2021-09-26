@@ -35,41 +35,54 @@ Yikes! So many newsletters
 *   [https://thebolditalic.com/](https://thebolditalic.com/)
 *   [https://www.timeout.com/san-francisco](https://www.timeout.com/san-francisco)
 
-Interesting Stuff
+Smart People
 
-*   https://www.swiss-miss.com/
-*   https://www.aldaily.com/
-*   https://heathercoxrichardson.substack.com/
-*   https://www.axios.com/
-*   https://www.brainpickings.org/
-*   https://www.openculture.com/
-*   https://www.ted.com/
-
-A bit more specific
-
-*   https://digg.com/
-*   https://www.reddit.com/
-*   https://rhizome.org/
-*   https://www.leonardo.info/
-*   http://www.eai.org/featured-artists
-*   https://www.timeout.com/
-*   https://fromminstitute.org/
-*   https://www.bbc.com/future/
-*   https://en.wikipedia.org/wiki/
-*   https://www.litlovers.com/
-*   https://www.laphamsquarterly.org/roundtable/
-*   https://www.mcsweeneys.net/
-
-More
-
-*   https://www.apple.com/apple-news/
-*   https://www.bing.com/
-
-## Smart People
-
+*   [https://www.brainpickings.org/](https://www.brainpickings.org/) 
+*   [https://heathercoxrichardson.substack.com/](https://heathercoxrichardson.substack.com/) 
 *   https://astralcodexten.substack.com/
 *   https://goodpeopleshare.substack.com/
 *   https://www.mcsweeneys.net/
+
+Publishers Art
+
+*   [https://rhizome.org/](https://rhizome.org/) 
+*   [https://www.leonardo.info/](https://www.leonardo.info/)
+*   [http://www.eai.org/featured-artists](http://www.eai.org/featured-artists)
+*   [https://www.swiss-miss.com/](https://www.swiss-miss.com/)
+
+Publishers literary
+
+Publishers News
+
+*   https://www.laphamsquarterly.org/roundtable/
+*   https://www.mcsweeneys.net/
+*   [https://www.axios.com/](https://www.axios.com/)
+*   https://www.bbc.com/future/
+
+Aggregators ~ News
+
+*   https://www.apple.com/apple-news/
+*   [https://www.bing.com/](https://www.bing.com/)
+
+Aggregators ~ Arts & Letters
+
+*   [https://www.aldaily.com/](https://www.aldaily.com/) ~ Essay, literary
+*   [https://www.openculture.com/](https://www.openculture.com/) 
+
+Crowd Source
+
+*   https://digg.com/
+*   https://www.reddit.com/
+*   [https://www.ted.com/](https://www.ted.com/)
+*   [https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/) 
+
+More
+
+*   [https://fromminstitute.org/](https://fromminstitute.org/) 
+
+## Travel
+
+*   [https://www.timeout.com/](https://www.timeout.com/) 
 
 ## media access
 
