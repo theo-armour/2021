@@ -12,6 +12,10 @@ Machine-Learning media bias
 
 *   https://arxiv.org/pdf/2109.00024.pdf
 
+### Connecting
+
+*   https://letter.wiki/conversations
+
 ### Coding
 
 https://stackfull.dev/
@@ -27,7 +31,7 @@ connect with the global dev community!
 ## Selling
 
 *   [https://gumroad.com/](https://gumroad.com/)
-*   [https://www.litlovers.com/](https://www.litlovers.com/) 
+*   [https://www.litlovers.com/](https://www.litlovers.com/)Â
 
 ## Books
 
