@@ -20,8 +20,8 @@ Machine-Learning media bias
 
 https://stackfull.dev/
 
-Everything you need to start blogging as a developer!  
-Own your content, share ideas, and  
+Everything you need to start blogging as a developer!
+Own your content, share ideas, and
 connect with the global dev community!
 
 *   https://hashnode.com/
@@ -31,7 +31,7 @@ connect with the global dev community!
 ## Selling
 
 *   [https://gumroad.com/](https://gumroad.com/)
-*   [https://www.litlovers.com/](https://www.litlovers.com/)Â
+*   [https://www.litlovers.com/](https://www.litlovers.com/)
 
 ## Books
 

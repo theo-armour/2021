@@ -1,5 +1,5 @@
-Things I like
-===
+* Things I like
+
 
 ## Around my desk
 
