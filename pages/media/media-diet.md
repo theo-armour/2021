@@ -1,12 +1,12 @@
 ## Media Diet
 
-*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)Â
+*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)
 
 ## Newsletters
 
 Yikes! So many newsletters
 
-*   https://www.bloomberg.com/account/newsletters?source=hyperdrive_email
+*   [https://www.bloomberg.com/account/newsletters](https://www.bloomberg.com/account/newsletters)�
 
 ## My Media Diet
 
@@ -37,15 +37,15 @@ Yikes! So many newsletters
 
 Smart People
 
-*   [https://www.brainpickings.org/](https://www.brainpickings.org/)�
-*   [https://heathercoxrichardson.substack.com/](https://heathercoxrichardson.substack.com/)�
+*   [https://www.brainpickings.org/](https://www.brainpickings.org/)�
+*   [https://heathercoxrichardson.substack.com/](https://heathercoxrichardson.substack.com/)�
 *   https://astralcodexten.substack.com/
 *   https://goodpeopleshare.substack.com/
 *   https://www.mcsweeneys.net/
 
 Publishers Art
 
-*   [https://rhizome.org/](https://rhizome.org/)�
+*   [https://rhizome.org/](https://rhizome.org/)�
 *   [https://www.leonardo.info/](https://www.leonardo.info/)
 *   [http://www.eai.org/featured-artists](http://www.eai.org/featured-artists)
 *   [https://www.swiss-miss.com/](https://www.swiss-miss.com/)
@@ -67,22 +67,22 @@ Aggregators ~ News
 Aggregators ~ Arts & Letters
 
 *   [https://www.aldaily.com/](https://www.aldaily.com/) ~ Essay, literary
-*   [https://www.openculture.com/](https://www.openculture.com/)�
+*   [https://www.openculture.com/](https://www.openculture.com/)
 
 Crowd Source
 
 *   https://digg.com/
 *   https://www.reddit.com/
 *   [https://www.ted.com/](https://www.ted.com/)
-*   [https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)�
+*   [https://en.wikipedia.org/wiki](https://en.wikipedia.org/wiki/)
 
 More
 
-*   [https://fromminstitute.org/](https://fromminstitute.org/)�
+*   [https://fromminstitute.org](https://fromminstitute.org/)
 
 ## Travel
 
-*   [https://www.timeout.com/](https://www.timeout.com/)�
+*   [https://www.timeout.com](https://www.timeout.com/)
 
 ## media access
 
@@ -93,4 +93,4 @@ More
 *   https://www.openculture.com/
 *   https://daily.jstor.org/
 
-> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTORÃ¢â‚¬â„¢s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide backgroundÃ¢â‚¬â€historical, scientific, literary, political, and otherwiseÃ¢â‚¬â€for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. WeÃ¢â‚¬â„¢re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. YouÃ¢â‚¬â„¢ll find those free JSTOR resources marked with a little Ã¢â‚¬Å“JÃ¢â‚¬Â icon that looks like this:
+> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTORÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide backgroundÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âhistorical, scientific, literary, political, and otherwiseÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âfor understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. WeÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. YouÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ll find those free JSTOR resources marked with a little ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œJÃƒÂ¢Ã¢â€šÂ¬Ã‚Â icon that looks like this:
