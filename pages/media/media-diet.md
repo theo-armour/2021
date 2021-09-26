@@ -17,44 +17,43 @@ Yikes! So many newsletters
 
 ## My Media Diet
 
+*   [https://nytimes.com/](https://nytimes.com/)
 *   https://nextdraft.com
 *   https://kottke.org/
-*   https://drudgereport.com/
+*   [https://drudgereport.com/](https://drudgereport.com/)
 *   https://text.npr.org/
 *   https://medium.com/
-*   https://nytimes.com/
 *   https://bloomberg.com/
 *   https://apnews.com/hub/san-francisco
 
 12 San Francisco Web Sites
 
-*   https://www.sfchronicle.com/
-*   https://www.kqed.org/
-*   https://48hills.org/
-*   https://www.sfgate.com/
-*   https://www.sfexaminer.com/
+*   [https://48hills.org/](https://48hills.org/)
+*   [https://commonwealthclub.org/](https://commonwealthclub.org/)
+*   [https://kqed.org/](https://kqed.org/)
+*   [https://sfarts.org/](https://www.sfarts.org/) 
+*   https://sfchronicle.com/
+*   https://sfexaminer.com/
 *   https://sfist.com/
-*   https://www.commonwealthclub.org/
-*   https://www.sfarts.org/
-*   https://thebolditalic.com/
+*   https://sfgate.com/
 *   https://www.sfstation.com/
-*   https://www.timeout.com/san-francisco
-*   https://www.sfweekly.com/
+*   [https://www.sfweekly.com/](https://www.sfweekly.com/)
+*   [https://thebolditalic.com/](https://thebolditalic.com/)
+*   [https://www.timeout.com/san-francisco](https://www.timeout.com/san-francisco)
 
 Interesting Stuff
 
-*   https://digg.com/
 *   https://www.swiss-miss.com/
 *   https://www.aldaily.com/
 *   https://heathercoxrichardson.substack.com/
 *   https://www.axios.com/
 *   https://www.brainpickings.org/
-*   https://digg.com/
 *   https://www.openculture.com/
 *   https://www.ted.com/
 
 A bit more specific
 
+*   https://digg.com/
 *   https://www.reddit.com/
 *   https://rhizome.org/
 *   https://www.leonardo.info/
