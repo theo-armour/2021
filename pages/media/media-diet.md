@@ -52,6 +52,7 @@ Publishers Art
 *   [https://rhizome.org/](https://rhizome.org/) 
 *   [https://www.leonardo.info/](https://www.leonardo.info/)
 *   [https://www.swiss-miss.com/](https://www.swiss-miss.com/)
+*   https://pudding.cool/
 
 Publishers News
 
