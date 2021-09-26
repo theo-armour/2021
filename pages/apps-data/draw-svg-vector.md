@@ -42,6 +42,7 @@ The lightweight library for manipulating and animating SVG
 * https://news.ycombinator.com/item?id=26036719
 * https://www.softr.io/tools/svg-shape-generator
 
+
 ## Journal
 
 ### 2021-06-07
