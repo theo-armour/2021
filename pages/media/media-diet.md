@@ -1,14 +1,12 @@
 ## Media Diet
 
-*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)�
+*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)Â
 
 ## Newsletters
 
 Yikes! So many newsletters
 
 *   https://www.bloomberg.com/account/newsletters?source=hyperdrive_email
-
-## 12 sites for Happenings
 
 ## My Media Diet
 
@@ -19,14 +17,15 @@ Yikes! So many newsletters
 *   https://text.npr.org/
 *   https://medium.com/
 *   https://bloomberg.com/
-*   https://apnews.com/hub/san-francisco
 
 12 San Francisco Web Sites
 
 *   [https://48hills.org/](https://48hills.org/)
+*   https://apnews.com/hub/san-francisco
 *   [https://commonwealthclub.org/](https://commonwealthclub.org/)
 *   [https://kqed.org/](https://kqed.org/)
-*   [https://sfarts.org/](https://www.sfarts.org/)�
+*   https://lonelyplanet.com/usa/san-francisco
+*   [https://sfarts.org/](https://www.sfarts.org/)
 *   https://sfchronicle.com/
 *   https://sfexaminer.com/
 *   https://sfist.com/
@@ -81,4 +80,4 @@ More
 *   https://www.openculture.com/
 *   https://daily.jstor.org/
 
-> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTORâ€™s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide backgroundâ€”historical, scientific, literary, political, and otherwiseâ€”for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. Weâ€™re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. Youâ€™ll find those free JSTOR resources marked with a little â€œJâ€ icon that looks like this:
+> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTORÃ¢â‚¬â„¢s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide backgroundÃ¢â‚¬â€historical, scientific, literary, political, and otherwiseÃ¢â‚¬â€for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. WeÃ¢â‚¬â„¢re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. YouÃ¢â‚¬â„¢ll find those free JSTOR resources marked with a little Ã¢â‚¬Å“JÃ¢â‚¬Â icon that looks like this:
