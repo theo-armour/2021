@@ -6,7 +6,7 @@
 
 Yikes! So many newsletters
 
-*   [https://www.bloomberg.com/account/newsletters?source=hyperdrive_email](https://www.bloomberg.com/account/newsletters?source=hyperdrive_email)
+*   [https://www.bloomberg.com/account/newsletters](https://www.bloomberg.com/account/newsletters?source=hyperdrive_email)
 *   [http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/](http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/) 
 
 ## My Media Diet
@@ -66,15 +66,21 @@ Aggregators ~ News
 
 Aggregators ~ Arts & Letters
 
+*   https://aeon.co/
 *   [https://www.aldaily.com/](https://www.aldaily.com/) ~ Essay, literary
+*   [https://www.edge.org/](https://www.edge.org/)
+*   https://harpers.org/
 *   [https://www.laphamsquarterly.org/roundtable/](https://www.laphamsquarterly.org/roundtable/)
 *   https://www.lesswrong.com/
 *   https://lithub.com/
 *   [https://www.mcsweeneys.net/](https://www.mcsweeneys.net/)
-*   https://nautil.us/
+*   [https://nautil.us/](https://nautil.us/)
+*   https://newcriterion.com/
 *   [https://www.openculture.com/](https://www.openculture.com/)
+*   https://theconversation.com/us
 *   [https://www.theparisreview.org/](https://www.theparisreview.org/)
-*   https://www.worksinprogress.co/
+*   [https://www.worksinprogress.co/](https://www.worksinprogress.co/)
+*   https://www.zerohedge.com/
 
 Crowd Source
 
@@ -87,7 +93,11 @@ Blogs & Newsletters
 
 *   [https://goodpeopleshare.substack.com/](https://goodpeopleshare.substack.com/)
 *   [https://lukesmith.xyz/index](https://lukesmith.xyz/index)
-*   http://www.arnoldkling.com/blog/
+*   [http://www.arnoldkling.com/blog/](http://www.arnoldkling.com/blog/)
+*   https://isomorphismes.tumblr.com/archive
+*   [The More To That Newsletter](https://us16.campaign-archive.com/home/?u=28889ca0ae601ef0242481086&id=7feb50aead)
+*   [https://geometrylinks.blogspot.com/](https://geometrylinks.blogspot.com/)
+*   https://geohot.github.io/blog/
 
 ## Travel
 
