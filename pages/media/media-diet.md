@@ -1,4 +1,4 @@
-## Media Diet
+# Media Diet
 
 *   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)Â
 
@@ -7,7 +7,7 @@
 Yikes! So many newsletters
 
 *   [https://www.bloomberg.com/account/newsletters](https://www.bloomberg.com/account/newsletters?source=hyperdrive_email)
-*   [http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/](http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/)�
+*   [http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/](http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/)
 
 ## My Media Diet
 
@@ -38,10 +38,10 @@ Yikes! So many newsletters
 
 Smart People
 
-*   [https://brainpickings.org/](https://www.brainpickings.org/)�
+*   [https://brainpickings.org/](https://www.brainpickings.org/)
     *   https://www.nytimes.com/2012/12/02/fashion/maria-popova-has-some-big-ideas.html
 *   https://www.gwern.net/
-*   [https://heathercoxrichardson.substack.com/](https://heathercoxrichardson.substack.com/)�
+*   [https://heathercoxrichardson.substack.com/](https://heathercoxrichardson.substack.com/)
 *   https://astralcodexten.substack.com/
 *   [https://www.futilitycloset.com/about/](https://www.futilitycloset.com/about/)
 
@@ -49,7 +49,7 @@ NewsLetters
 
 Publishers Art
 
-*   [https://rhizome.org/](https://rhizome.org/)�
+*   [https://rhizome.org/](https://rhizome.org/)
 *   [https://www.leonardo.info/](https://www.leonardo.info/)
 *   [https://www.swiss-miss.com/](https://www.swiss-miss.com/)
 *   https://pudding.cool/
@@ -63,7 +63,7 @@ Aggregators ~ News
 
 *   https://www.apple.com/apple-news/
 *   [https://www.bing.com/](https://www.bing.com/)
-*   [https://www.bbc.com/future](https://www.bbc.com/future)�
+*   [https://www.bbc.com/future](https://www.bbc.com/future)
 
 Aggregators ~ Arts & Letters
 
@@ -88,7 +88,7 @@ Crowd Source
 *   https://digg.com/
 *   https://www.reddit.com/
 *   [https://www.ted.com/](https://www.ted.com/)
-*   [https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)�
+*   [https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)
 
 Blogs & Newsletters
 
@@ -102,7 +102,7 @@ Blogs & Newsletters
 
 ## Travel
 
-*   [https://www.timeout.com/](https://www.timeout.com/)�
+*   [https://www.timeout.com/](https://www.timeout.com/)
 
 ## media access
 
@@ -113,4 +113,4 @@ Blogs & Newsletters
 *   https://www.openculture.com/
 *   https://daily.jstor.org/
 
-> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTORÃ¢â‚¬â„¢s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide backgroundÃ¢â‚¬â€historical, scientific, literary, political, and otherwiseÃ¢â‚¬â€for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. WeÃ¢â‚¬â„¢re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. YouÃ¢â‚¬â„¢ll find those free JSTOR resources marked with a little Ã¢â‚¬Å“JÃ¢â‚¬Â icon that looks like this:
+> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTOR's digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide background historical, scientific, literary, political, and otherwise for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. We're proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. You will find those free JSTOR resources marked with a little icon that looks like this:
