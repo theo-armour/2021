@@ -36,3 +36,4 @@ connect with the global dev community!
 More
 
 *   [http://www.eai.org/featured-artists](http://www.eai.org/featured-artists)
+*   [https://fromminstitute.org/](https://fromminstitute.org/)
