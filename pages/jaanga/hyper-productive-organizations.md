@@ -1,6 +1,6 @@
 ## Hyper-Productive Organizations:
 
-__A Charter, Credo, Constitution, Articles of Agreement or Manifesto__
+**A Charter, Credo, Constitution, Articles of Agreement or Manifesto**
 
 Revisions
 
@@ -16,7 +16,7 @@ Theo Armour ~ 2013-08-17 started
 
 This document is an outline of a:
 
-*   \[Manifesto\]( https://en.wikipedia.org/wiki/Manifesto )
+*   [Manifesto](https://en.wikipedia.org/wiki/Manifesto)
 *   [game plan](http://www.merriam-webster.com/dictionary/game%20plan),
 *   [Constitution](https://en.wikipedia.org/wiki/Constitution),
 *   [Rules of engagement](https://en.wikipedia.org/wiki/Rules_of_engagement),
@@ -29,7 +29,7 @@ This document is an outline of a:
 
 See also: [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
 
-__The above is a non-exhaustive list of the ways that people agree to cooperate to accomplish a mission__
+**The above is a non-exhaustive list of the ways that people agree to cooperate to accomplish a mission**
 
 What are the behavior patterns that could and should apply to a creative, purposeful and collaborative intellectual endeavor - an endeavor that intends to add lots of cool things to the body of world knowledge?
 
@@ -53,7 +53,7 @@ The goal of this endeavor is to help small groups of people to accomplish amazin
 
 The methods to achieve this purpose should be 1. accessible, 2. useful and 3. delightful.
 
-__See 'firmness, commodity and delight' or 'firm, commodious and delightful'__
+**See 'firmness, commodity and delight' or 'firm, commodious and delightful'**
 
 https://en.wikipedia.org/wiki/De_architectura
 
@@ -101,7 +101,7 @@ The value of an email mailing list includes:
 *   User fallibilities are mitigated
 *   Admins can control access. stop spamming and trolling
 
-Normal email traffic has __none__ of these benefits
+Normal email traffic has **none** of these benefits
 
 See
 
