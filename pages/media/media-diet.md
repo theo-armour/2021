@@ -1,11 +1,6 @@
 ## Media Diet
 
-*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)�
-
-## Bias
-
-*   https://www.nytimes.com/2021/03/24/briefing/boulder-shooting-george-segal-astrazeneca.html
-    *   https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/4/2318/files/2021/03/Why-Is-All-Covid-News-Bad-News-3_22_21.pdf
+*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)�
 
 ## Newsletters
 
@@ -31,7 +26,7 @@ Yikes! So many newsletters
 *   [https://48hills.org/](https://48hills.org/)
 *   [https://commonwealthclub.org/](https://commonwealthclub.org/)
 *   [https://kqed.org/](https://kqed.org/)
-*   [https://sfarts.org/](https://www.sfarts.org/)�
+*   [https://sfarts.org/](https://www.sfarts.org/)�
 *   https://sfchronicle.com/
 *   https://sfexaminer.com/
 *   https://sfist.com/
@@ -86,4 +81,4 @@ More
 *   https://www.openculture.com/
 *   https://daily.jstor.org/
 
-> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTOR’s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide background—historical, scientific, literary, political, and otherwise—for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. We’re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. You’ll find those free JSTOR resources marked with a little “J” icon that looks like this:
+> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTORâ€™s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide backgroundâ€”historical, scientific, literary, political, and otherwiseâ€”for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. Weâ€™re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. Youâ€™ll find those free JSTOR resources marked with a little â€œJâ€ icon that looks like this:
