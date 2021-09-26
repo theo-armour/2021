@@ -1,12 +1,13 @@
 ## Media Diet
 
-*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)
+*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet)Â
 
 ## Newsletters
 
 Yikes! So many newsletters
 
-*   [https://www.bloomberg.com/account/newsletters](https://www.bloomberg.com/account/newsletters)�
+*   [https://www.bloomberg.com/account/newsletters?source=hyperdrive_email](https://www.bloomberg.com/account/newsletters?source=hyperdrive_email)
+*   [http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/](http://www.arnoldkling.com/blog/the-top-150-intellectuals-selected-competitively/)�
 
 ## My Media Diet
 
@@ -37,52 +38,60 @@ Yikes! So many newsletters
 
 Smart People
 
-*   [https://www.brainpickings.org/](https://www.brainpickings.org/)�
-*   [https://heathercoxrichardson.substack.com/](https://heathercoxrichardson.substack.com/)�
+*   [https://brainpickings.org/](https://www.brainpickings.org/)�
+    *   https://www.nytimes.com/2012/12/02/fashion/maria-popova-has-some-big-ideas.html
+*   https://www.gwern.net/
+*   [https://heathercoxrichardson.substack.com/](https://heathercoxrichardson.substack.com/)�
 *   https://astralcodexten.substack.com/
-*   https://goodpeopleshare.substack.com/
-*   https://www.mcsweeneys.net/
+*   [https://www.futilitycloset.com/about/](https://www.futilitycloset.com/about/)
+
+NewsLetters
 
 Publishers Art
 
-*   [https://rhizome.org/](https://rhizome.org/)�
+*   [https://rhizome.org/](https://rhizome.org/)�
 *   [https://www.leonardo.info/](https://www.leonardo.info/)
-*   [http://www.eai.org/featured-artists](http://www.eai.org/featured-artists)
 *   [https://www.swiss-miss.com/](https://www.swiss-miss.com/)
-
-Publishers literary
 
 Publishers News
 
-*   https://www.laphamsquarterly.org/roundtable/
-*   https://www.mcsweeneys.net/
 *   [https://www.axios.com/](https://www.axios.com/)
-*   https://www.bbc.com/future/
+*   [https://morningconsult.com/](https://morningconsult.com/)
 
 Aggregators ~ News
 
 *   https://www.apple.com/apple-news/
 *   [https://www.bing.com/](https://www.bing.com/)
+*   [https://www.bbc.com/future](https://www.bbc.com/future)�
 
 Aggregators ~ Arts & Letters
 
 *   [https://www.aldaily.com/](https://www.aldaily.com/) ~ Essay, literary
+*   [https://www.laphamsquarterly.org/roundtable/](https://www.laphamsquarterly.org/roundtable/)
+*   https://www.lesswrong.com/
+*   https://lithub.com/
+*   [https://www.mcsweeneys.net/](https://www.mcsweeneys.net/)
+*   https://nautil.us/
 *   [https://www.openculture.com/](https://www.openculture.com/)
+*   [https://www.theparisreview.org/](https://www.theparisreview.org/)
+*   https://www.worksinprogress.co/
 
 Crowd Source
 
 *   https://digg.com/
 *   https://www.reddit.com/
 *   [https://www.ted.com/](https://www.ted.com/)
-*   [https://en.wikipedia.org/wiki](https://en.wikipedia.org/wiki/)
+*   [https://en.wikipedia.org/wiki/](https://en.wikipedia.org/wiki/)�
 
-More
+Blogs & Newsletters
 
-*   [https://fromminstitute.org](https://fromminstitute.org/)
+*   [https://goodpeopleshare.substack.com/](https://goodpeopleshare.substack.com/)
+*   [https://lukesmith.xyz/index](https://lukesmith.xyz/index)
+*   http://www.arnoldkling.com/blog/
 
 ## Travel
 
-*   [https://www.timeout.com](https://www.timeout.com/)
+*   [https://www.timeout.com/](https://www.timeout.com/)�
 
 ## media access
 
@@ -93,4 +102,4 @@ More
 *   https://www.openculture.com/
 *   https://daily.jstor.org/
 
-> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTORÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide backgroundÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âhistorical, scientific, literary, political, and otherwiseÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Âfor understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. WeÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. YouÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ll find those free JSTOR resources marked with a little ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œJÃƒÂ¢Ã¢â€šÂ¬Ã‚Â icon that looks like this:
+> JSTOR Daily is an online publication that contextualizes current events with scholarship. Drawing on the richness of JSTORÃ¢â‚¬â„¢s digital library of more than 2,000 academic journals, thousands of monographs, and other materials, JSTOR Daily stories provide backgroundÃ¢â‚¬â€historical, scientific, literary, political, and otherwiseÃ¢â‚¬â€for understanding our world. All of our stories contain links to free, publicly accessible research on JSTOR. WeÃ¢â‚¬â„¢re proud to publish articles based in fact and grounded by careful research and to provide free access to that research for all of our readers. YouÃ¢â‚¬â„¢ll find those free JSTOR resources marked with a little Ã¢â‚¬Å“JÃ¢â‚¬Â icon that looks like this:
