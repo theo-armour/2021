@@ -1,6 +1,6 @@
 ## Media Diet
 
-*   https://nano.page/page/media_diet
+*   [https://nano.page/page/media_diet](https://nano.page/page/media_diet) 
 
 ## Bias
 
