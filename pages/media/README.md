@@ -31,4 +31,8 @@ connect with the global dev community!
 
 ## Books
 
-https://durmonski.com/category/book-summaries/
+[https://durmonski.com/category/book-summaries/](https://durmonski.com/category/book-summaries/)
+
+More
+
+*   [http://www.eai.org/featured-artists](http://www.eai.org/featured-artists)
