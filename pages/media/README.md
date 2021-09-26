@@ -26,7 +26,8 @@ connect with the global dev community!
 
 ## Selling
 
-*   https://gumroad.com/
+*   [https://gumroad.com/](https://gumroad.com/)
+*   [https://www.litlovers.com/](https://www.litlovers.com/) 
 
 ## Books
 
