@@ -1,6 +1,29 @@
 # Drawing
 
+* 2021-09-27 ~ PDF to SVG utilities exist; might be fun to explore
+
+## Articles
+
+* https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
+* https://insights.samsung.com/2020/08/06/13-things-you-didnt-know-you-could-do-with-the-s-pen/
+
+
+
+## Portal
+
+* https://www.goodfirms.co/blog/best-free-open-source-Vector-Graphics-Software
+* https://www.justinmind.com/blog/11-great-free-paid-svg-editors-for-ux-designers/
+* https://www.pngtosvg.com/blog/top-24-online-and-offline-vector-graphics-editor/
+* https://www.sitepoint.com/6-free-web-based-svg-editors-compared/
+* https://www.sammobile.com/samsung/best-s-pen-drawing-apps-galaxy-note-20-tab-s7/
+* https://www.androidauthority.com/best-stylus-apps-and-s-pen-apps-for-android-586579/
+* https://mynexttablet.com/best-s-pen-apps/
+
+
+***
+
 ## Krita ~ https://krita.org/en
+
 * App in beta, W10, iOS, linux
 * looks nice
 
@@ -15,29 +38,17 @@
 * https://krita-artists.org/
 * https://kritatutorials.com/
 
-## Compare
+### Compare
 
 * https://fixthephoto.com/inkscape-vs-krita.html
 * https://www.slant.co/versus/4789/11484/~adobe-illustrator-cc_vs_krita
 
-## Articles
 
-* https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
-* https://insights.samsung.com/2020/08/06/13-things-you-didnt-know-you-could-do-with-the-s-pen/
-
-## Portal
-
-* https://www.goodfirms.co/blog/best-free-open-source-Vector-Graphics-Software
-* https://www.justinmind.com/blog/11-great-free-paid-svg-editors-for-ux-designers/
-* https://www.pngtosvg.com/blog/top-24-online-and-offline-vector-graphics-editor/
-* https://www.sitepoint.com/6-free-web-based-svg-editors-compared/
-* https://www.sammobile.com/samsung/best-s-pen-drawing-apps-galaxy-note-20-tab-s7/
-* https://www.androidauthority.com/best-stylus-apps-and-s-pen-apps-for-android-586579/
-* https://mynexttablet.com/best-s-pen-apps/
 
 ## Creators
 
 The lightweight library for manipulating and animating SVG
+
 * https://github.com/svgdotjs/svg.js
 * https://news.ycombinator.com/item?id=26036719
 * https://www.softr.io/tools/svg-shape-generator
