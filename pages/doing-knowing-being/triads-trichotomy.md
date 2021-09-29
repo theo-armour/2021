@@ -5,6 +5,7 @@
 * https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
 	* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)#Examples_of_philosophical_trichotomies
 * https://en.wikipedia.org/wiki/Triad_(religion)
+* https://en.wikipedia.org/wiki/Rule_of_three
 * https://en.wikipedia.org/wiki/Rule_of_three_(writing)
 * https://en.wikipedia.org/wiki/Rule_of_thirds
 * https://en.wikipedia.org/wiki/Hendiatris
@@ -26,14 +27,28 @@ About
 Also of possible related interest
 
 * https://en.wikipedia.org/wiki/Beck%27s_cognitive_triad
+* https://en.wikipedia.org/wiki/Borromean_rings
 * https://en.wikipedia.org/wiki/Condorcet_paradox
 * https://en.wikipedia.org/wiki/Category:3_(number)
+* https://en.wikipedia.org/wiki/Id,_ego_and_super-ego
 * https://en.wikipedia.org/wiki/Inconsistent_triad
+* https://en.wikipedia.org/wiki/Law_of_thought ~ Three traditional laws: identity, non-contradiction, excluded middle
+* https://en.wikipedia.org/wiki/Plato%27s_theory_of_soul
 * https://en.wikipedia.org/wiki/Project_management_triangle
 * https://en.wikipedia.org/wiki/Ternary_plot
 * https://en.wikipedia.org/wiki/Threesome
 * https://en.wikipedia.org/wiki/Triadization
 * https://en.wikipedia.org/wiki/VPEC-T
+* https://en.wikipedia.org/wiki/Borromean_rings
+
+Random three things
+
+* https://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+* https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion
+* https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
+* https://en.wikipedia.org/wiki/Clarke%27s_three_laws
+* https://en.wikipedia.org/wiki/Laws_of_thermodynamics
+
 
 
 Perception /  Action / Judgment /
@@ -94,6 +109,7 @@ Computer terms
 ## Pattern Language
 
 * Problems 		syntax|grammar 		solution
+
 
 ## Hegelian Dialectic
 
