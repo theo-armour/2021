@@ -1192,11 +1192,11 @@ SEE spider / gbxml viewer / assets / get read me files
 
 ## SAVE FILE
 
-//file:///C:/Users/Theo/Dropbox/Public/code-cookbook/0-cookbook-general/file-save-api/file-saver-2015-02-26/file-saver.html
-//http://ausdemmaschinenraum.wordpress.com/2012/12/06/how-to-save-a-file-from-a-url-with-javascript/
+* file:///C:/Users/Theo/Dropbox/Public/code-cookbook/0-cookbook-general/file-save-api/file-saver-2015-02-26/file-saver.html
+* http://ausdemmaschinenraum.wordpress.com/2012/12/06/how-to-save-a-file-from-a-url-with-javascript/
 
 
-<p><button onclick=saveFile(); >Save File</button></p>
+	<p><button onclick=saveFile(); >Save File</button></p>
 
 
 	var info = document.body.appendChild( document.createElement( 'div' ) );
@@ -1212,19 +1212,19 @@ SEE spider / gbxml viewer / assets / get read me files
 	function saveFile() {
 
 		const blob = new Blob( [ txtArea.innerHTML ] );
-		let a = document.createElement( 'a' );
+		let a = document.createElement( "a" );
 		a.href = window.URL.createObjectURL( blob );
 		a.download = `hello-world-${ new Date().toISOString().slice( 0, 10 ) }.txt`;
 		a.click();
 //		delete a;
-//		a = null;
+		a = null;
 
 	}
 
 
-// UTF-16
+UTF-16
 
-// https://stackoverflow.com/questions/27318715/blob-url-with-utf-16le-encoding
+* https://stackoverflow.com/questions/27318715/blob-url-with-utf-16le-encoding
 
 
 ## SET
@@ -1236,22 +1236,21 @@ console.log(uniqueArray); // Result: [1, 2, 3, 5]
 
 ## setTimeout / idleCallback
 
-
 setTimeout( function(){ controls.autoRotate = true; }, 3000);
 
 setTimeout( () => controls.autoRotate = true, 3000);
+
 
 ## requestidlecallback
 
 See
 
-
-
-https://developers.google.com/web/updates/2015/08/using-requestidlecallback
+* https://developers.google.com/web/updates/2015/08/using-requestidlecallback
 
 		window.requestIdleCallback( () => console.log( `idelCallback Time elapsed ${ ( performance.now() - timeStart ).toLocaleString() } ms`) );
 
 ## SPEECH SYNTH
+
 // https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 // https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance
 // http://stackoverflow.com/questions/21513706/getting-the-list-of-voices-in-speechsynthesis-of-chrome-web-speech-api
