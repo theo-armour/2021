@@ -1,5 +1,17 @@
 # Microsoft Windows 10
 
+
+## Minimum Apps
+
+* AutoHotKey
+* Beyond Compare
+* VS Code
+* Git
+* DropBox ~ takas hours to get everything. Start early
+* GDrive
+* Portable Apps
+* PDF Exchange Editor??
+
 ## Windows Logo Key
 
 * https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec
