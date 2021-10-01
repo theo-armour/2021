@@ -11,6 +11,9 @@
 
 ## Huion
 
+HUION Kamvas Pro 16 Plus 4K UHD Graphics Drawing Tablet with Full Laminated Screen 145% sRGB Battery-Free Stylus PW517 for PC, Mac, Android, 15.6-inch Pen Tablet Display
+* https://www.amazon.com/HUION-Resolution-Battery-Free-Sensitivity-15-6in-Grey-dp-B08G8LYT4Z/dp/B08G8LYT4Z $900
+
 2021 HUION KAMVAS 12 Graphics Drawing Tablet with Screen Full Lamination Android Support Battery-Free Sylus Tilt 8 Press Keys Adjustable Stand
 
 * https://www.amazon.com/gp/product/B08P1MR8F
