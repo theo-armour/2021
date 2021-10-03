@@ -1,5 +1,16 @@
 # Life
 
+## Coaches
+
+* https://en.wikipedia.org/wiki/Coaching
+* https://en.wikipedia.org/wiki/Coaching_psychology
+* https://en.wikipedia.org/wiki/International_Coaching_Federation
+* https://www.slideshare.net/schlaf/an-entrepreneurs-guide-to-finding-a-coach
+* https://schlaf.medium.com/an-entrepreneurs-guide-to-finding-a-coach-ca049054f86a
+* https://www.founderlibrary.com/categories/self-care
+
+SF
+* https://loveyourlife.co/
 
 ## Lists
 
@@ -33,6 +44,7 @@ by Gary A. Bolles
 >As traditional jobs give way to new work roles and software and robots perform the repetitive tasks formerly done by humans, the work of today is no longer guaranteed to be here tomorrow. The Next Rules of Work helps leaders understand why traditional notions about work inhibit the organization's ability to address new problems and how they can successfully equip their organizations to manage constant change. By first developing a new mindset to help themselves and their teams become more agile, leaders can then co-create the organization's "next mindset" by answering five key questions that help them establish constantly adaptive strategies. Finally, leaders develop agile learning practices to ensure that workers will continually have the skillsets and toolsets they need to solve organizational problems today.
 
 >By redefining the fundamental nature of work, teams and the organization, The Next Rules of Work goes beyond offering advice and predictions and provides organizational leaders with a guide to create truly agile organizations that can respond to perpetual change.
+
 
 ### The Third Place
 
