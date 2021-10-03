@@ -19,15 +19,13 @@
 
 ## Quick Access
 
-* Drag items using left menu
-* keep exploring best ways of using quick access
+* Drag items to new position using left menu
+* Keep exploring best ways of using quick access
 * It's all about saving mouse clicks
 * name things so they sort nicely
 * Use folders?
 
-
 https://answers.microsoft.com/en-us/windows/forum/windows_10-start-winpc/can-no-longer-reorder-quick-access-folders-in-list/255377fd-fce7-4523-b372-a22b838a656a#:~:text=Yes%2C%20you%20CAN%20re%2Dorder,the%20entries%20to%20another%20position.
-
 
 
 
@@ -55,6 +53,12 @@ https://www.groovypost.com/howto/find-restore-open-command-prompt-windows-10/
 
 https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/
 
+## Power Toys
+
+* https://docs.microsoft.com/en-us/windows/powertoys/
+* Awake is designed to keep a computer awake without having to manage its power & sleep settings.
+* ColorPicker is a system-wide color picking utility activated with Win+Shift+C.
+* File Explorer add-ons enable preview pane rendering in File Explorer to display SVG icons (.svg) and Markdown (.md) file previews.
 
 ## Prompt
 
@@ -67,8 +71,6 @@ https://lifehacker.com/how-to-turn-any-part-of-your-windows-desktop-into-a-gif-1
 
 Problem Steps Recorder. Windows key PSR
 
-
-2017-07-07 ~
 
 ## To Do
 
