@@ -57,9 +57,6 @@ RK ROYAL KLUDGE RK68 65% Hot-Swappable Wireless Mechanical Keyboard, 60% 68 Keys
 IC-BK05
 *  https://www.iclever.com/storage/product/guide/10/15766589806177.pdf
 
-## Monitors
-
-https://www.crutchfield.com/p_30532LS03T/Samsung-QN32LS03T-The-Frame.html?tp=161 $600
 
 
 ## Pixel 6
