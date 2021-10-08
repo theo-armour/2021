@@ -7,6 +7,15 @@
 
 >I spent some time writing out 100 wishes of mine on post-its inspired by this post: How and Why to do a Life Audit. The idea is to brainstorm your life goals, values, dreams and then categorize them based on themes and timeframes. The process allows for your priorities to come to light and helps you to see the patterns of your life. I could only fill 50 post-its in one sitting and as I discover new dreams of mine I go back to my remaining post-it pack to add more. I found that once I had written down all the desires inside of me and, in a sense, got them out of my system, it freed up space for completely new and weirdly fun wishes to show up. — CD
 
+## request for information (RFI)
+
+A request for information (RFI) is a common business process whose purpose is to collect written information about the capabilities of various suppliers.[1] Normally it follows a format that can be used for comparative purposes.
+
+An RFI is primarily used to gather information to help make a decision on what steps to take next. RFIs are therefore seldom the final stage and are instead often used in combination with request for proposal (RFP), request for tender (RFT), and request for quotation (RFQ). In addition to gathering basic information, an RFI is often used as a solicitation sent to a broad base of potential suppliers for the purpose of conditioning suppliers' minds, developing strategy, building a database, and preparing for an RFP, RFT, or RFQ.[2]
+
+* https://en.wikipedia.org/wiki/Request_for_information
+
+
 ## Values
 
 
@@ -15,6 +24,11 @@
 * https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory
 
 
+### Witepaper
+
+A white paper is a report or guide that informs readers concisely about a complex issue and presents the issuing body's philosophy on the matter. It is meant to help readers understand an issue, solve a problem, or make a decision.
+
+* https://en.wikipedia.org/wiki/White_paper
 
 ### Worldview
 

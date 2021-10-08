@@ -52,3 +52,12 @@ Jaw-dropping software converts 360 video into 3D model for VR
 
 Exporting a three.js animation to webm using Whammy
 * https://dustinpfister.github.io/2018/11/01/threejs-export-webm-whammy/
+
+## How to create bots walking in scene randomly?
+
+* https://discourse.threejs.org/t/how-to-create-bots-walking-in-scene-randomly/30500/3
+
+## Picto3d - a website that transforms images into a 3D model
+
+* https://discourse.threejs.org/t/picto3d-a-website-that-transforms-images-into-a-3d-model/30488
+
