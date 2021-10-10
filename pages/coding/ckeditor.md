@@ -23,6 +23,87 @@ About
 * Converts Markdown to HTML on the fly
 
 
+### Builder selections
+
+* Alignment
+* AutoFormat
+* AutoImage
+* AutoLink ??
+* AutoSave ??
+* BlockQuote
+* Bold
+* Code
+* Code blocks??
+* Data filter ??
+* Data Schema ??
+* Essentials
+* Find and replace
+* General HTML support
+* Heading
+* Highlight
+* Horizontal line
+* HTML comment
+* Image // handles block image etc
+* Image resize
+* ImageToolbar
+* ImagrUpload
+* Indent
+* Italic
+* Link
+* Link image
+* List
+* Markdown
+* Paragraph
+* Remove format
+* Source Editing
+* Special characters
+* Special characters essentials
+* Strikethrough
+* Table
+* TableToolbar
+* TextTransformation
+* Wordcount
+
+### Builder selections Markdown
+
+* AutoFormat ~ D
+* AutoSave ~ Add
+* AutoSave
+* BlockQuote ~ Add
+* Bold ~ D
+* CKFinder ~ remove
+* CloudServices ~ remove
+* Code ~ D
+* Find and replace ~ Add
+* Heading ~ D
+* Horizontal line ~ Add
+* HTML comment ~ Add
+* Imager ~ remove
+* Indent ~ remove
+* Italic ~ D
+* Link ~ remmove
+* List ~ D
+* Markdown ~ Add
+* MediaEmbed ~ remove
+* PastFromOffice ~ remove
+* Remove format ~ Add
+* Source Editing ~ Add
+* Special characters ~ remove
+* Special characters essentials ~ remove
+* Strikethrough
+* Table ~ remove
+* TextTransformation ~ remove
+* Wordcount ~ add
+
+
+### Avoid
+
+* Mediaembed
+* Watchdog
+* Comments
+* CKFinder & Cloud services
+* PasteFromOffice
+
 ## Documentation
 
 * https://ckeditor.com/docs/ckeditor5/latest/examples/index.html
