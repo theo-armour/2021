@@ -22,3 +22,20 @@ USDA 2020 RFA:
 The Small Business Innovation Research (or SBIR) program is a United States Government program, coordinated by the Small Business Administration, intended to help certain small businesses conduct research and development (R&D). Funding takes the form of contracts or grants. The recipient projects must have the potential for commercialization and must meet specific U.S. government R&D needs.
 
 * https://en.wikipedia.org/wiki/Small_Business_Innovation_Research
+
+
+
+## Aquaculture
+
+> Aquaculture is the production of aquatic organisms under controlled conditions throughout part or all their lifecycle. Its development can help meet future food needs and ease burdens on natural resources.
+
+* https://www.usda.gov/topics/farming/aquaculture
+
+>Aquaculture (i.e., fish farming) is an important source of fish available for human consumption. Over 90% of the US supply of seafood is imported, and over half of the imported seafood is from aquaculture. Further, the growth of the US aquaculture industry has required the development of safe and effective drugs for treating fish diseases, as well as increased regulatory surveillance of aquaculture products. In response to these needs, the FDA's Center for Veterinary Medicine, Office of Research, conducts aquaculture research in a state-of-the-art facility. The primary research objectives are designed to assist the FDA in assuring that fish derived from aquaculture production environments, whether international or domestic, are safe for human consumption.
+
+* https://www.fda.gov/animal-veterinary/science-research/aquaculture-research
+
+
+Articles on Fish Farming
+
+* https://theconversation.com/us/topics/fish-farming-6307
