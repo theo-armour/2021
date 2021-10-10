@@ -25,6 +25,10 @@ Ability to develop a theory
 Much as I think the Heritage is a good place for me, it is not a venue for intellectual thought. It gives me a place to belong to and much intimacy. But not a lot of abstraction.
 
 
+## Second order thinking
+
+* https://fs.blog/2016/04/second-order-thinking/
+
 ## Self-efficacy
 
 * https://en.wikipedia.org/wiki/Albert_Bandura

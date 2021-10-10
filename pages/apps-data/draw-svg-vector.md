@@ -90,6 +90,8 @@ Concepts seems to be leading - works wherever I need it
 * No paint bucket fill capability - draw with fill only then duplicate, brushes only
 * Great smoothing and vertex tweaking
 
+* https://concepts.app/en/stories/influencing-spaces-residential-design-luis-furushio/?utm_source=medium&utm_medium=link
+
 
 ## Draw.io https://app.diagrams.net/ ~ draw.io
 * No touch, has touch issues
