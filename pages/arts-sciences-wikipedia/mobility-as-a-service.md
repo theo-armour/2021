@@ -2,7 +2,16 @@
 
 ### Last Mile
 
+Mist include local, regional and national
+
 Any future mobility services must deal with door to door. The first and last mile will be just as important as the middle miles. If the middle miles take you ten seconds but the first and last miles take an hour then your competitor will leave you behind or something.
+
+Must include
+
+*   Passenger, goods and freight.
+*   Young, middle and aged
+*   personal, commerce and servicers
+*   What are the other concerns?
 
 ### Trains
 
