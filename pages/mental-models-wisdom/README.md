@@ -24,6 +24,9 @@ Ability to develop a theory
 
 Much as I think the Heritage is a good place for me, it is not a venue for intellectual thought. It gives me a place to belong to and much intimacy. But not a lot of abstraction.
 
+## Productivity
+
+* https://dailyinfographic.com/wp-content/uploads/2021/09/how-to-be-productive-infographic.jpg
 
 ## Second order thinking
 

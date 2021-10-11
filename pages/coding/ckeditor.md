@@ -74,7 +74,7 @@ About
 * CKFinder ~ remove
 * CloudServices ~ remove
 * Code ~ D
-* Find and replace ~ Add
+* Find and replace ~ Add ~ but does not appear
 * Heading ~ D
 * Horizontal line ~ Add
 * HTML comment ~ Add
@@ -90,7 +90,7 @@ About
 * Source Editing ~ Add
 * Special characters ~ remove
 * Special characters essentials ~ remove
-* Strikethrough
+* Strikethrough ~ Add
 * Table ~ remove
 * TextTransformation ~ remove
 * Wordcount ~ add
