@@ -1,13 +1,17 @@
 ## Mobility as a Service
 
-## Trains
+### Last Mile
 
-How to Move More Goods Through America’s Clogged Infrastructure? Robot Trains  
-Self-driving trains could be greener, carry more stuff, and help unclog America’s congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.
+Any future mobility services must deal with door to door. The first and last mile will be just as important as the middle miles. If the middle miles take you ten seconds but the first and last miles take an hour then your competitor will leave you behind or something.
+
+### Trains
+
+How to Move More Goods Through America's Clogged Infrastructure? Robot Trains  
+Self-driving trains could be greener, carry more stuff, and help unclog America's congested supply chains. And making them a reality will likely be far easier than perfecting autonomous vehicles.
 
 *   https://www.wsj.com/articles/how-to-move-more-goods-through-americas-clogged-infrastructure-robot-trains-11633812291
 
-Trains in Eurupe ans trains in US and trains around the world each have their indivisual considerartions. What works in one many not work in the other.
+Trains in Europe and trains in US and trains around the world each have their individual considerations. What works in one many not work in the other.
 
 US Trains
 
@@ -18,7 +22,7 @@ All trains Cons
 *   Neighborhood busters
 *   Nature uglifiers
 *   Noise makers
-*   Lack of flexibity
+*   Lack of flexibility
 *   Decades to build
 *   Cost
 *   Serve few
@@ -28,7 +32,7 @@ Passenger trains
 *   Dining car insecurity
 *   Grubbiness
 
-## Autonomous Vehicles
+### Autonomous Vehicles
 
 The city of 2050: What do you expect urban planning to look like in the age of self-driving and electric vehicles?
 
