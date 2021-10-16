@@ -23,6 +23,12 @@ Complexity
 * https://mbeaudru.github.io/modern-js-cheatsheet/
 * https://dev.to/worldindev/200-js-resources-to-master-programming-3aj6
 
+## CORS
+
+* https://jakearchibald.com/2021/cors/
+* https://jakearchibald.com/2021/cors/playground/?prefillForm=1&requestMethod=GET&requestUseCORS=1&requestSendCredentials=&preflightStatus=206&preflightAllowOrigin=&preflightAllowCredentials=&preflightAllowMethods=&preflightAllowHeaders=&responseAllowOrigin=*&responseAllowCredentials=&responseExposeHeaders=
+
+
 ## Journals
 
 * https://hackernoon.com/
@@ -40,6 +46,7 @@ Complexity
 * https://dev.to/suprabhasupi/github-10-repo-for-javascript-developer-23a9
 * !!! https://javascript.plainenglish.io/9-useful-web-apps-for-web-developers-4cd9a0ea9a2f
 * 2017 https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d
+* https://github.com/leonardomso/33-js-concepts#8-iife-modules-and-namespaces
 * https://dev.to/pascavld/20-useful-free-resources-for-web-developers-2c3n
 * https://dev.to/coffeestasia/background-music-for-coding-for-every-taste-2oo6
 
