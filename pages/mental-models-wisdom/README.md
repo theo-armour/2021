@@ -11,6 +11,21 @@ Tools for better thinking ~ Collection of thinking tools and frameworks to help 
 
 The Future of StoryTelling (FoST) is a passionate community of people from the worlds of media, technology, and communications who are exploring how storytelling is evolving in the digital age.
 
+
+## heuristics
+
+Like all human beings, they unconsciously rely on quick rules that simplify complex decisions. Psychologists and economists call these mental shortcuts “heuristics.”
+
+the “win-stay/lose-shift” heuristic, which has been seen in birds, bees, rats, monkeys, children and adults. According to this heuristic, individuals stick with a strategy until they experience a “loss,” such as a labor-and-delivery complication. At that point, they switch strategies – like trying a different delivery mode.
+
+* https://theconversation.com/people-use-mental-shortcuts-to-make-difficult-decisions-even-highly-trained-doctors-delivering-babies-168711
+
+Also
+
+* Patterns
+* Notions
+
+
 ## Intellectual
 
 * https://en.wikipedia.org/wiki/Intellectual
@@ -31,6 +46,7 @@ Much as I think the Heritage is a good place for me, it is not a venue for intel
 ## Second order thinking
 
 * https://fs.blog/2016/04/second-order-thinking/
+
 
 ## Self-efficacy
 

@@ -49,7 +49,7 @@ Complexity
 * https://github.com/leonardomso/33-js-concepts#8-iife-modules-and-namespaces
 * https://dev.to/pascavld/20-useful-free-resources-for-web-developers-2c3n
 * https://dev.to/coffeestasia/background-music-for-coding-for-every-taste-2oo6
-
+* https://aarontgrogg.com/blog/2021/09/29/replacing-jquery-with-vanilla-es6/
 
 ## Principles
 

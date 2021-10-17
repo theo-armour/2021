@@ -144,12 +144,12 @@ console.log( index, xhr.target.response );
 
 	function callbackFile() {
 		if ( xhr.readyState == 4  ) {
-			var text = xhr.responseText;
-			var lines = text.split(/\r\n|\n/);
+			const text = xhr.responseText;
+			const lines = text.split(/\r\n|\n/);
 			lines[0] = lines[0].replace(/["']/g, ""); // better to delete in original files
-			var length = lines.length - 1;
-			var data = [];
-			var sep = ',';
+			const length = lines.length - 1;
+			const data = [];
+			const sep = ',';
 			for ( var i = 0; i < length; i++ ) {
 				data.push( lines[i].split( sep ) );
 			}
