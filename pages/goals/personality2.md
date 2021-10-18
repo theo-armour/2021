@@ -1,5 +1,14 @@
 # Personality Types & Psychology
 
+> Everyone has a Creative Type. What’s yours?
+
+The Creative Types test is an exploration of the many faces of the creative personality. Based in psychology research, the test assesses your basic habits and tendencies—how you think, how you act, how you see the world—to help you better understand who you are as a creative. Answer these 15 questions and you’ll gain a deeper understanding of your motivations, plus insight into how to maximize your natural gifts and face your challenges.
+
+These personality types aren’t black-and-white labels. Think of them more as signposts pointing you toward your full creative potential. While there’s probably one core type that best describes you, you may change types at different points in your life and career, or even at different stages of the creative process. As a creative, you have a little bit of all eight Types inside you.
+
+* https://mycreativetype.com/
+
+
 ## Articles
 
 * https://dynomight.home.blog/2020/06/12/in-defense-of-meyers-briggs/
