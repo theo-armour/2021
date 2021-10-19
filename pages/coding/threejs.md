@@ -810,7 +810,7 @@ function setSomeBoxes( count = 50 ) {
 .moveTo ( x, y )
 .lineTo ( x, y )
 
-		var path
+		const path
 		path = new THREE.Path();
 		path.fromPoints( [ v2( 10, 10 ), v2( 10, -10 ), v2( -10, -10 ), v2( -10, 10 ) ] );
 
@@ -1007,6 +1007,7 @@ const spriteMaterial = new THREE.SpriteMaterial( { color: 0xff0000 } );
 const sprite = new THREE.Sprite( spriteMaterial );
 sprite.scale.set(200, 200, 1)
 scene.add( sprite );
+
 
 ## STATS
 
