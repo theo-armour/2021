@@ -38,6 +38,7 @@
 * https://krita-artists.org/
 * https://kritatutorials.com/
 
+
 ### Compare
 
 * https://fixthephoto.com/inkscape-vs-krita.html
@@ -77,8 +78,9 @@ Concepts seems to be leading - works wherever I need it
 * 1M installs, 4K stars
 * $49 ~ all versions
 * vector and bitmap
+* Can export vector layers to SVG
 * Android/W10/etc
-
+*
 
 ## *** Concepts ~ https://concepts.app/en/
 * 6k stars, 1M installs, California
