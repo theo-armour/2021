@@ -211,7 +211,7 @@ dotted solid
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
 * https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34
 
-	.container { display: flex; }
+	.container { display: flex; flex-wrap: wrap;}
 
 	.container > div { border: 1px solid red; margin: 5px; padding: 10px; }
 
