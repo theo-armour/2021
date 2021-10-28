@@ -35,6 +35,7 @@ Complexity
 
 ## JavaScript Learning
 
+* https://web.dev/about/
 * https://dev.to/aritik/essential-concepts-in-js-4bbj
 * https://developers.google.com/web/fundamentals/
 	* https://developers.google.com/web/fundamentals/performance/rendering/
@@ -54,6 +55,11 @@ Complexity
 ## Principles
 
 * https://uxdesign.cc/the-web-we-choose-to-build-e921510e3f1b
+
+
+## Search
+
+* https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/
 
 
 ## Tree Data in JavaScript
