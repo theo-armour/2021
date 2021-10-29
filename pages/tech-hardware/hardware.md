@@ -38,6 +38,14 @@ HP Chromebook x2 11 With Detachable Keyboard, USI Pen Launched
 * https://www.hp.com/us-en/chrome/chromebook-x2-11-inch-laptop.html
 * https://gadgets.ndtv.com/laptops/news/hp-chromebook-x2-11-chromebase-21-5-inch-all-in-one-desktop-price-usd-599-99-launch-sale-specifications-features-2507957
 
+### Framework Computer
+
+* https://news.ycombinator.com/item?id=27926425
+* https://news.ycombinator.com/item?id=28866602
+* http://kvark.github.io/linux/framework/2021/10/17/framework-nixos.html
+* https://frame.work/
+* https://frame.work/marketplace/expansion-cards
+
 ## Gimbals
 
 * $89 https://www.amazon.com/dp/B09339NVB3
