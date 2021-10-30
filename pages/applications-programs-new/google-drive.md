@@ -20,3 +20,9 @@ https://drive.google.com/folderview?id=0B0g809SWki8tUVZnWFZXSFgzSWM&usp=sharing
 https://googledrive.com/host/0B0g809SWki8tUVZnWFZXSFgzSWM/theo-logo.ico
 
 
+## GAPI
+
+* https://medium.com/@bretcameron/how-to-use-the-google-drive-api-with-javascript-57a6cc9e5262
+* https://github.com/google/google-api-javascript-client
+* https://github.com/vitogit/gDriveSync.js/
+* https://github.com/sashee/drive-api-from-js

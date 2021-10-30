@@ -1,0 +1,38 @@
+# Categorization
+
+* https://en.wikipedia.org/wiki/Categorization
+* https://en.wikipedia.org/wiki/Classification_(general_theory)
+* https://hbr.org/2019/09/the-dangers-of-categorical-thinking
+* https://stackoverflow.com/questions/2210148/how-to-tag-and-categorize-life-the-universe-and-everything
+* https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes
+* https://thevisualcommunicationguy.com/2013/07/20/the-five-and-only-five-ways-to-orgaize-information/
+* https://www.irmi.com/articles/expert-commentary/how-to-organize-information
+* https://www.lifehack.org/854926/how-to-organize-information
+* https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System
+* https://www.w3.org/TR/skos-primer/
+
+## Art
+
+http://searchcollection.asianart.org/search/advanced/objects
+
+* Artist ~ Artist Name
+* Title / Designation / Object Name~ Title or Description
+* Place of Origin ~ Country, State, Kingdom, etc.
+* Date Made ~ YYYY or YYYY - YYYY
+* Materials ~ Ink, Bronze, Jade, etc.
+* Dimensions
+* Credit Line ~ Museum purchase, Gift of ..., etc.
+* Department
+* Collection
+* Object Number ~ B60D10+, F2000.85.9, 2012.5, etc
+* On display ~ objects on view
+* With images
+* Keywords ~ Buddha, Teapot, etc.
+* Object Type ~ Painting, Hanging Scroll, etc.
+* Exhibition ~ Exhibition title
+* Period ~ Dynasty, Reign, etc.
+* Subjects ~ Phoenix, Landscape, Seasons, etc.
+* Location ~ Gallery
+* Description / Label
+* Inscriptions
+* Resources ~ videos, links
