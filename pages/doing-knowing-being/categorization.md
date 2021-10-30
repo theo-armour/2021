@@ -11,6 +11,16 @@
 * https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System
 * https://www.w3.org/TR/skos-primer/
 
+
+Three levels of abstraction
+* Superordinate level ~ Flower
+* Basic Level ~ Rose
+* Subordinate level ~ Dog Rose)
+
+Categories need to be
+* clearly defined
+* mutually exclusive
+* collectively exhaustive;
 ## Art
 
 http://searchcollection.asianart.org/search/advanced/objects
@@ -36,3 +46,8 @@ http://searchcollection.asianart.org/search/advanced/objects
 * Description / Label
 * Inscriptions
 * Resources ~ videos, links
+
+Object Number
+
+* Acquistion_year-month-day:index:abc
+* if no acqusition date then first appraisal date
