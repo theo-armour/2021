@@ -2,8 +2,6 @@
 
 ## Full Screen: [Theo Armour Carousel](https://theo-armour.github.io/2021/iframe-carousel/)
 
-2021-10-31
-
 See also
 
 *   https://theo-armour.github.io/2020/
