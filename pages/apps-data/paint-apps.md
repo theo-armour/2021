@@ -11,8 +11,10 @@
 * Can export png to Google Drive
 * Then open with irfanview
 
+
 ## Canvas ~ Nvidia ~ https://www.nvidia.com/en-gb/studio/canvas/
 * https://news.ycombinator.com/item?id=27626610
+
 
 ## Sketchbook ~ Autodesk ~ https://www.autodesk.com/products/sketchbook/overview
 * Bitmap only
@@ -41,8 +43,7 @@
 * 10,000,000+ installs
 * iOS, Android
 * No SVG export
-
-
+* Some wonderful brushes
 
 
 
@@ -51,7 +52,7 @@
 * 100M installs
 
 
-## Sanapseed ~ Google ~ https://support.google.com/snapseed#topic=6155507
+## Snapseed ~ Google ~ https://support.google.com/snapseed#topic=6155507
 
 * 100M installs, 1.3m stars
 

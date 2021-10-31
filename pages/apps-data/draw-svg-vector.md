@@ -20,41 +20,6 @@
 * https://mynexttablet.com/best-s-pen-apps/
 
 
-***
-
-## Krita ~ https://krita.org/en
-
-* App in beta, W10, iOS, linux
-* looks nice
-
-* https://krita.org/en/
-* https://docs.krita.org/en/
-
-* android : https://play.google.com/store/apps/details?id=org.krita&hl=en_US&gl=US
-* https://forum.kde.org/viewforum.php?f=136
-* linux: https://apps.kde.org/krita/
-* https://www.instagram.com/krita_foundation/?hl=en
-
-* https://krita-artists.org/
-* https://kritatutorials.com/
-
-
-### Compare
-
-* https://fixthephoto.com/inkscape-vs-krita.html
-* https://www.slant.co/versus/4789/11484/~adobe-illustrator-cc_vs_krita
-
-
-
-## Creators
-
-The lightweight library for manipulating and animating SVG
-
-* https://github.com/svgdotjs/svg.js
-* https://news.ycombinator.com/item?id=26036719
-* https://www.softr.io/tools/svg-shape-generator
-
-
 ## Journal
 
 ### 2021-06-07
@@ -63,6 +28,76 @@ Concepts seems to be leading - works wherever I need it
 
 ## Web Drawing SVG
 
+
+## Clip Studio Paint ~ https://www.clipstudio.net/en/
+* Complicated
+* 1M installs, 4K stars
+* $49 ~ all versions
+* vector and bitmap
+* Can export vector layers to SVG
+* Android/W10/etc
+*
+
+## *** Concepts ~ https://concepts.app/en/
+* 6k stars, 1M installs, California
+* Not that difficult to learn; makes it easy to draw stuff
+* Interesting user interface
+* $30 year paid June 2021 ~ W10, Android, ChromeOS, etc
+* Pressure: Has s-pen support no Huion support,
+* Link W10 and Android
+* layers, good lettering
+* Infinite canvas
+* nudging
+* vector erase
+* No paint bucket fill capability - draw with fill only then duplicate, brushes only
+* Great smoothing and vertex tweaking
+
+* https://concepts.app/en/stories/influencing-spaces-residential-design-luis-furushio/?utm_source=medium&utm_medium=link
+
+
+
+## *** Infinite Design ~ https://www.infinitestudio.art/discover.php
+* 66k stars, 10M installs
+* $10
+* Handles pressure nicely
+* Very nice "vectorize" feature
+	* Import > gallery > image > trace > vectorize
+* Android & ChromeOS. No W10, no browser
+
+
+### Infinite Designer Usage
+
+Nice
+
+Quality: 200 ~ makes dots smaller ~ increases number of things to be calculated ~ slows things down
+Colors: 32 ~ 16 or less creates more dots
+Smooth: 1 < anything greater may create gaps ~ but better splotches
+Minimum points: 0 - 2 ~ anything greater: more dots
+Expand: 4
+Simplify: 0 - 0.4 ~ not much difference ~ slows things down
+Style: stack ~ best ~ flatten & stencil: round dots to surface ~
+
+
+***
+
+Crazy
+
+## https://github.com/rough-stuff/rough
+
+
+## Nomad Sculpt ~ https://nomadsculpt.com/
+* 100K installs ~ 1.7K stars
+* Sculpting and painting ~ amazing
+
+## Patterns / Dither
+
+* https://doodad.dev/
+
+Mrdoob.com
+
+***
+
+More ~ vector but more diagram oriented
 
 ## https://boxy-svg.com/ ~ $$
 * touch & pressure chrome & Asus ~ not on huion
@@ -74,31 +109,17 @@ Concepts seems to be leading - works wherever I need it
 * No fun brushes
 
 
-## Clip Studio Paint ~ https://www.clipstudio.net/en/
-* 1M installs, 4K stars
-* $49 ~ all versions
-* vector and bitmap
-* Can export vector layers to SVG
-* Android/W10/etc
-*
-
-## *** Concepts ~ https://concepts.app/en/
-* 6k stars, 1M installs, California
-* Interesting user interface
-* $30 year paid June 2021 ~ W10, Android, ChromeOS, etc
-* Pressure: Has s-pen support no Huion support,
-* Link W10 and Android
-* layers, good lettering
-* No paint bucket fill capability - draw with fill only then duplicate, brushes only
-* Great smoothing and vertex tweaking
-
-* https://concepts.app/en/stories/influencing-spaces-residential-design-luis-furushio/?utm_source=medium&utm_medium=link
-
-
 ## Draw.io https://app.diagrams.net/ ~ draw.io
 * No touch, has touch issues
 * No good free hand
 * Many vector features
+
+
+## Drawings Google ~ https://docs.google.com/drawings
+* Exports to SVG
+* Easy scribbling and curving
+* no pressure, no layers, no edit vertices on scribbles
+* edit polylines
 
 
 ## https://designer.gravit.io ~ $$ ~ Owned by Corel!
@@ -110,51 +131,6 @@ Concepts seems to be leading - works wherever I need it
 * Not exciting
 * Has layers
 * no brushes
-
-
-## Drawings Google ~ https://docs.google.com/drawings
-* Exports to SVG
-* Easy scribbling and curving
-* no pressure, no layers, no edit vertices on scribbles
-* edit polylines
-
-
-## https://excalidraw.com/
-* Collaborative
-* Excellent handwriting
-* Export to SVG, Clipboard, Link
-* no pressure, ners
-* Cannot edit vertices
-* Browser only
-
-
-## https://www.hand-write.com/ ~ freemium ~
-* s pen support 2020
-* App only, works on Chrome OS
-
-
-## *** Infinite Studio ~ https://www.infinitestudio.art/discover.php
-* 66k stars, 10M installs
-* $10
-* Handles pressure nicely
-* Very nice "vectorize" feature
-* Android & ChromeOS. No W10, no browser
-
-
-## https://inker.co
-* deprecated
-
-
-## Method https://editor.method.ac/
-* GH 2021 / drawing / Save as SVG
-* No touch support
-* https://github.com/methodofaction/Method-Draw
-
-
-## Nomad Sculpt ~ https://nomadsculpt.com/
-* 100K installs ~ 1.7K stars
-* Sculpting and painting ~ amazining
-
 
 ## https://www.sketch.com/
 * $100 / year
@@ -187,6 +163,7 @@ Concepts seems to be leading - works wherever I need it
 * no pressure
 * No SVG export
 
+
 ## YouiDraw ~ https://www.youidraw.com/
 * looks OK. $99 per year
 * Odd things with strokes
@@ -195,6 +172,7 @@ Concepts seems to be leading - works wherever I need it
 
 ## W10
 
+
 ## Adobe Illustrator
 * $20/month
 
@@ -202,9 +180,11 @@ Concepts seems to be leading - works wherever I need it
 * no drawing note??
 
 ## https://inkscape.org/
+
 * Download only
 * Could use https://offidocs.com but looks like no touch or pen support
 
+## Krita ~ https://krita.org/en ~ see krita.md
 
 ## LibreOffice Draw
 * Has tablet support
@@ -212,12 +192,35 @@ Concepts seems to be leading - works wherever I need it
 * Not so good for just drawing
 * No way on Chromebook
 
+
 ## Microsoft Paint 3D
 * No pressure
 
 
+***
+
+## Moribund
+
+## https://www.hand-write.com/ ~ freemium ~
+* s pen support 2020
+* App only, works on Chrome OS
+
+
+## https://inker.co
+* deprecated
+
+
+***
+
 ## Vectorization
 
+## Creators
+
+The lightweight library for manipulating and animating SVG
+
+* https://github.com/svgdotjs/svg.js
+* https://news.ycombinator.com/item?id=26036719
+* https://www.softr.io/tools/svg-shape-generator
 * http://vectorizer.oscaralexander.com/
 * http://maxim-s-barabash.github.io/ZebraTrace/
 * https://drawingbotv3.readthedocs.io/en/latest/
@@ -228,24 +231,14 @@ Concepts seems to be leading - works wherever I need it
 * https://www.vectorizer.io/
 
 
-## Patterns / Dither
-
-* https://doodad.dev/
-
-
-### Infinite Designer Usage
-
-Nice
-
-Quality: 200 ~ makes dots smaller ~ increases number of things to be calculated ~ slows things down
-Colors: 32 ~ 16 or less creates more dots
-Smooth: 1 < anything greater may create gaps ~ but better splotches
-Minimum points: 0 - 2 ~ anything greater: more dots
-Expand: 4
-Simplify: 0 - 0.4 ~ not much difference ~ slows things down
-Style: stack ~ best ~ flatten & stencil: round dots to surface ~
-
 ## Tech on GitHub
+
+## Method https://editor.method.ac/
+* GH 2021 / drawing / Save as SVG
+* Shows SVG source
+* No touch support
+* https://github.com/methodofaction/Method-Draw
+
 
 ## https://snap.svg
 	* The JavaScript SVG library for the modern web
@@ -267,7 +260,6 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 ## https://n-peugnet.github.io/image-map-creator/
 
-## https://github.com/rough-stuff/rough
 
 ## SVG.js
 
