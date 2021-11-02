@@ -42,6 +42,7 @@ Linux apps on Chromebooks now have a nifty scaling feature users can toggle righ
 
 * top
 * uname -a
+* https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 
 
 ## Things to do
