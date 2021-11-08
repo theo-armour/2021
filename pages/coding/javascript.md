@@ -13,7 +13,7 @@
 
 https://cdn.jsdelivr.net/npm/package@version/file
 
-"https://cdn.jsdelivr.net/npm/three@0.131/examples/js/loaders/VTKLoader.js";
+"https://cdn.jsdelivr.net/npm/three@0.134/examples/js/loaders/VTKLoader.js";
 
 
 
