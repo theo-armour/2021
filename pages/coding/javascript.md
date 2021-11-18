@@ -3,9 +3,9 @@
 	const div = document.body.appendChild( document.createElement( 'div' ) );
 	div.style.cssText = "width: 40rem; position: absolute; right: 10rem; top: 10rem;"
 
-	scr = document.body.appendChild( document.createElement( 'script' ) );
-	scr.onload = scrOnLoad;
-	scr.src = 'https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.5/ace.js';
+	script1 = document.body.appendChild( document.createElement( 'script' ) );
+	script1.onload = scrOnLoad;
+	script1.src = "https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.5/ace.js";
 
 	function scrOnLoad() { if ( script1 & script2 ) { doIt() }}
 
