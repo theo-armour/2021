@@ -98,7 +98,7 @@
 
 			//GRV = GitHub Repo View
 			GRV.getFiles = GRV.getFilesAll;
-			GRV.getFiles = GRV.getFilesCurated;
+			//GRV.getFiles = GRV.getFilesCurated;
 			GRV.init();
 			GRVdet.open = true;
 			//GRVsumRepo.hidden = true;
@@ -106,6 +106,8 @@
 
 
 			FRX.onHashChange();
+
+			detFile.hidden = true;
 
 
 			// if running on server, keeps address bar pointed to latest dev
