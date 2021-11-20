@@ -23,10 +23,10 @@ In London he worked with RJ Lattimore and Associates and Solon Housing Associati
 Theo was awarded the <a href="http://www.channelswimmingassociation.com/Trophy%20Recipients/The%20Van%20Audernaerde%20Tankard.html" target="_blank">English Channel Swimming Association</a>&#8217;s Van Audernaerde Prize for Best Disabled Swim in 1980.
 
 
-## 1981-1991 Kong Kong
+## 1981-1991 Hong Kong
 While in Hong Kong, he was employed by <a href="http://www.yrm.co.uk/" target="_blank">YRM </a>and <a href="http://www.apple.com/hk/" target="_blank">Apple Computer Hong Kong</a>;&nbsp;a founder of PC Plus, an Apple and an IBM PC dealership specializing in Computer Aided Design; a founder of the <a href="http://www.hkmug.org.hk/" target="_blank" title="http://www.hkmug.org.hk">Hong Kong Macintosh User Group</a> and of the <a href="http://www.asianfn.com/" target="_blank" title="http://www.asianfn.com/">Asian Venture Capital Journal</a>;&nbsp;and a member of the&nbsp;<a href="http://www.ieee.org/index.html" target="_blank">IEEE&nbsp;</a>and the&nbsp;<a href="http://www.hkcs.org.hk/en_hk/home/home.asp" target="_blank">HKCS</a>.&nbsp;He was a competitive swimmer and also served as a board member with the Hong Kong&nbsp;<a href="http://www.hksap.org/" target="_blank">Sports Association for the Physically Handicapped</a>. His primary endeavor was founder and CEO of a computer-aided design consultancy: CAD-Asia.<br />
 
-## 1991 - 2001 Mill Valley CA
+## 1991 - 2001 - Mill Valley CA
 
 In the 1990s he was Program Manager at&nbsp;<a href="http://autodesk.com/" target="_blank" title="autodesk">Autodesk</a>&nbsp;for AutoCAD Releases 13, 14 and the beginning of Release 2000. Subsequently he has implemented web sites for a number of artists, start-ups and various worthy organizations and has been an angel to a number of start-ups.
 
