@@ -395,87 +395,32 @@ https://discourse.threejs.org/t/correctly-remove-mesh-from-scene-and-dispose-mat
 
 ### LINE GEOMETRY / LINE / LINES
 
-		<button onclick=drawRandomLines(); >draw random lines</button>
+* https://threejs.org/docs/?q=lin#api/en/objects/Line
+* https://stackoverflow.com/questions/26790345/vertex-colors-in-three-line
 
-	function addLine( vertices ) {
+		function addSphereLines() {
 
-		let line = new THREE.Line();
-		scene.add( line );
+			scene.remove( group );
+			group = new THREE.Group();
 
-		const v = ( x, y, z ) => new THREE.Vector3( x, y, z );
+			for ( let i = 0; i < 1000; i++ ) {
 
-		const geometry = new THREE.Geometry();
-		geometry.vertices = vertices || [ v( -10, 0, 0 ),  v( 0, 10, -10 ), v( 10, 0, 0 ) ];
-		const material = new THREE.LineBasicMaterial( { color: 0x000000 } );
-		line = new THREE.Line( geometry, material );
+				const values = [ Math.random(), Math.random(), Math.random(), Math.random(), Math.random(), Math.random() ];
 
-		return line;
+				const geometry = new THREE.BufferGeometry();
+				geometry.setAttribute( 'position', new THREE.Float32BufferAttribute( values, 3 ) );
+				geometry.setAttribute( 'color', new THREE.Float32BufferAttribute( values, 3 ) );
+				geometry.scale( 100, 100, 100 );
+				geometry.translate( -50, -50, -50 );
+				const material = new THREE.LineBasicMaterial( { color: 0xffffff, vertexColors: THREE.VertexColors } );
+				const line = new THREE.Line( geometry, material );
+				group.add( line );
 
-	}
+			}
 
-
-// https://stackoverflow.com/questions/26790345/vertex-colors-in-three-line
-// see random walk 05
-
-	const geometry = new THREE.Geometry();
-	geometry.vertices = vertices;
-
-	//const material = new THREE.LineBasicMaterial( { color: 0xffffff * Math.random()  } );
-
-	for ( var i = 0; i < geometry.vertices.length; i +=2 ) {
-
-		geometry.colors[ i ] = new THREE.Color().setHSL( 0.5 * i / segments, 0.8, 0.5 );
-		geometry.colors[ i + 1 ] = geometry.colors[ i ];
-	}
-
-	var material = new THREE.LineBasicMaterial( {
-		color: 0xffffff,
-		vertexColors: THREE.VertexColors
-	} );
-
-	const line = new THREE.Line( geometry, material );
-
-
-		var geometry = new THREE.Geometry();
-		geometry.vertices = [ v( -10, 0, 0 ),  v( 0, 10, 0 ), v( 10, 0, 0 ) ];
-		material = new THREE.LineBasicMaterial( { color: 0x000000 } );
-		line = new THREE.Line( geometry, material /*, type: THREE.LineStrip !! THREE.LinePieces */ );
-		scene.add( line );
-
-
-		var geometry = new THREE.Geometry();
-		var vertices = geometry.vertices;
-		vertices.push( v(-10, 0, 0));
-		vertices.push( v(0, 10, 0));
-		vertices.push( v(10, 0, 0));
-
-		material = new THREE.LineBasicMaterial( { color: 0x000000 } );
-		line = new THREE.Line( geometry, material);
-		scene.add( line );
-
-//
-		scene.add( li2( 10, 10, 10, 50, 50, 50, 50, 10, 10, 10 ) );
-
-		scene.add( li3( -10, 10, 10,  -10, 50, 10,  -50, 50, 10,  -50, 10, 10,  -10, 10, 10  ) );
-
-
-
-
-	function li3() {
-
-		var geometry = new THREE.Geometry();
-
-		for ( var i = 0; i < arguments.length; ) {
-
-			geometry.vertices.push( v( arguments[ i++ ], arguments[ i++ ], arguments[ i++ ] ) );
+			scene.add( group );
 
 		}
-
-		var material = new THREE.LineBasicMaterial( { color: 'red' } );
-
-		return new THREE.Line( geometry, material );
-
-	}
 
 
 ### GEOMETRY/ Loaders
