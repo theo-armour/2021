@@ -43,7 +43,7 @@
 * 10,000,000+ installs
 * iOS, Android
 * No SVG export
-* Some wonderful brushes
+* Some wonderful brushes ~ used for gI
 
 
 

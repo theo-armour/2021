@@ -63,6 +63,7 @@ Concepts seems to be leading - works wherever I need it
 * Very nice "vectorize" feature
 	* Import > gallery > image > trace > vectorize
 * Android & ChromeOS. No W10, no browser
+* Exporting has isues
 
 
 ### Infinite Designer Usage
