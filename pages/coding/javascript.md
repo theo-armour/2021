@@ -1195,6 +1195,11 @@ SEE spider / gbxml viewer / assets / get read me files
 * file:///C:/Users/Theo/Dropbox/Public/code-cookbook/0-cookbook-general/file-save-api/file-saver-2015-02-26/file-saver.html
 * http://ausdemmaschinenraum.wordpress.com/2012/12/06/how-to-save-a-file-from-a-url-with-javascript/
 
+Download .txt using JavaScript without dialog prompt
+* Settings >> Advanced >> Download >> Ask where to save each file before downloading >> Off
+* Change location as needed
+* https://stackoverflow.com/questions/25826573/download-txt-using-javascript-without-dialog-prompt
+
 
 	<p><button onclick=saveFile(); >Save File</button></p>
 
