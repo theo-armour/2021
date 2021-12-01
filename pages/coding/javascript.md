@@ -1246,7 +1246,7 @@ setTimeout( function(){ controls.autoRotate = true; }, 3000);
 setTimeout( () => controls.autoRotate = true, 3000);
 
 
-## requestidlecallback
+## requestIdleCallback
 
 See
 
