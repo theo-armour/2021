@@ -163,6 +163,36 @@ Theo
 * https://theo-armour.github.io/2021/theo-2020-12-31.html#pages/goals/goals.md
 
 
+## Mission Statements ~ Links of Interest
+
+* https://en.wikipedia.org/wiki/Mission_statement
+* https://en.wikipedia.org/wiki/Vision_statement
+* http://en.wikipedia.org/wiki/Strategic_planning 
+
+
+### Mission ~ What do you do?
+
+* Statements of a rationale, applicable now as well as in the future
+* Defines the fundamental purpose of an organization or an enterprise,
+* Succinctly describes why the organization exists and what it does to achieve its vision.
+* The mission is the means of successfully achieving the vision
+* 2021-07-02 the mission statements respond to human needs
+
+### Vision ~ Why do it?
+
+* A descriptive picture of a desired future state
+* Outlines what the organization wants to be
+* How it wants the world in which it operates to be (an "idealized" view of the world).
+* A long-term view and concentrates on the future
+* May be emotive and is a source of inspiration.
+
+## Values ~ Who you are?
+
+* Statements of ethics, principles, beliefs that are shared among the stakeholders of an organization.
+* Statements of values that drive an organization's culture and priorities and provide a framework in which decisions are made.
+* How do you want to behave?
+* What do you stand for?
+
 ## Effective Altruism or Radical Philanthropy
 
 https://en.wikipedia.org/wiki/Effective_altruism
@@ -171,6 +201,8 @@ Effective altruism is a philosophy and social movement that advocates using evid
 
 https://resist.org/radical-philanthropy/
 
+
+## Radical Transparency
 
 ## “Standing on the shoulders of giants”
 
@@ -232,3 +264,17 @@ Looking back at the way things were done in the past may not always help you cre
 ***
 
 <center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+
+## Checklists
+
+## Checklists
+
+* https://en.wikipedia.org/wiki/Checklist
+
+> A checklist is a type of job aid used to reduce failure by compensating for potential limits of human memory and attention. It helps to ensure consistency and completeness in carrying out a task. A primary task in checklist is documentation of the task and auditing against the documentation.
+
+* https://en.wikipedia.org/wiki/The_Checklist_Manifesto
+	* https://www.nytimes.com/2010/01/24/books/review/Jauhar-t.html
+* https://asrs.arc.nasa.gov/publications/callback/cb_292.htm
+* https://en.wikipedia.org/wiki/Time_management#Task_list_organization
+* https://en.wikipedia.org/wiki/Category:Checklists

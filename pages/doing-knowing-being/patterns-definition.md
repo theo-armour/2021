@@ -1,4 +1,12 @@
-# Patterns Definition
+# Patterns
+
+Patterns
+
+* https://get21stnight.com/2021/08/09/difficult-math-is-about-recognizing-patterns-lessons-from-jeff-bezos/
+
+
+
+##  Definition
 
 Christopher Alexander ~ A Pattern Language
 

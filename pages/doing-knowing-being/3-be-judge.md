@@ -9,7 +9,7 @@
 * Mission: mostly actions
 * Vision: mostly judgments
 
-### Judgment
+### Judgement
 
 * https://en.wikipedia.org/wiki/Axiology
 * value theory

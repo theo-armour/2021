@@ -1,5 +1,15 @@
 # Categorization
 
+
+International Society for Knowledge Organization
+* https://www.isko.org/index.php
+
+ISKO Encyclopedia of Knowledge Organization (IEKO)
+
+* https://www.isko.org/cyclo/
+
+## Wikipedia
+
 * https://en.wikipedia.org/wiki/Categorization
 * https://en.wikipedia.org/wiki/Classification_(general_theory)
 * https://hbr.org/2019/09/the-dangers-of-categorical-thinking
@@ -21,6 +31,23 @@ Categories need to be
 * clearly defined
 * mutually exclusive
 * collectively exhaustive;
+
+
+## Schemas
+
+* https://en.wikipedia.org/wiki/Schema
+* https://en.wikipedia.org/wiki/XML_schema
+* https://en.wikipedia.org/wiki/Database_schema
+
+Schema.org
+* https://schema.org/docs/schemas.html
+* https://en.wikipedia.org/wiki/Schema.org
+
+The schemas are a set of 'types', each associated with a set of properties. The types are arranged in a hierarchy.
+The vocabulary currently consists of 792 Types, 1447 Properties 15 Datatypes, 83 Enumerations and 445 Enumeration members.
+
+
+
 ## Art
 
 http://searchcollection.asianart.org/search/advanced/objects
