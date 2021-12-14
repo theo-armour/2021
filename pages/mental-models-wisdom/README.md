@@ -5,6 +5,14 @@
 Tools for better thinking ~ Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 * https://untools.co/
 
+## Munger
+
+* https://fs.blog/great-talks/psychology-human-misjudgment/
+
+> Charlie also addresses the importance of recognizing patterns to determine how humans behave, both rationally and irrationally. He shares with us his checklist of twenty-five standard causes of human misjudgment, which contains observations that are ingenious, counterintuitive, and important—values Charlie treasures in the work of other great thinkers throughout history. He also emphasizes the “lollapalooza” power of psychological misjudgments in combination.
+
+* https://fsmisc.s3.ca-central-1.amazonaws.com/great-talks/The+Psychology+of+Human+Misjudment.pdf
+
 ## Futures
 
 * https://futureofstorytelling.org/about
