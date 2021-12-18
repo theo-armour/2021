@@ -13,9 +13,9 @@
 
 https://cdn.jsdelivr.net/npm/package@version/file
 
-"https://cdn.jsdelivr.net/npm/three@0.134/examples/js/loaders/VTKLoader.js";
+"https://raw.githubusercontent.com/cferdinandi/frontend-horse-js-library/main/index.htmlthree@0.134/examples/js/loaders/VTKLoader.js";
 
-
+https://raw.githack.com/cferdinandi/frontend-horse-js-library/main/index.html
 
 * _ ~ separator for unreadable numbers
 * ! ~ non-null assertion operator ~ example: person!.name
