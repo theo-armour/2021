@@ -29,4 +29,12 @@ https://www.instagram.com/ememem.flacking/ — Creative public tile mosaics.
 https://www.instagram.com/okudart/ — Colorful polygon master.
 https://www.instagram.com/studioolafureliasson/ — Star artist’s tech sophisticated installations.
 
-## Karigami
+## Kirigami
+
+* http://cutfoldtemplates.com/
+* https://kellianderson.dropmark.com/630690
+* https://kellianderson.com/blog/
+
+90 degree form
+
+* http://mashustic.com/3d-geometric-kirigami-1-template/
