@@ -1,5 +1,10 @@
 # Goals
 
+## microfame
+
+"Microfame is the best kind of fame, because it combines an easier task (be famous to fewer people) with a better outcome (be famous to the right people)."
+
+— Writing is Networking for Introverts / https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77
 
 ## 100 wishes on a post-its
 
