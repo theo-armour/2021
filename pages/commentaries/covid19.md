@@ -1,5 +1,16 @@
 # covid / omicron
 
+
+Unvaccinated hospitalized at 10x the number of vaccinated
+
+* https://covid.cdc.gov/covid-data-tracker/#covidnet-hospitalizations-vaccination
+
+85+ die at 370x the rate of 18-29s
+
+* https://covid.cdc.gov/covid-data-tracker/#covidnet-hospitalizations-vaccination
+
+
+
 ## 2021-12-13
 
 * https://nickkristof.substack.com/p/you-think-this-virus-is-real/comments
