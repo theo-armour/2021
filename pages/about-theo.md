@@ -36,6 +36,7 @@ From 2001 to 2008 he was a member of the Board of Advisers of the <a href="http:
 
 In 2006 he was awarded first place for fastest disabled swimmer in the annual &#8220;Escape from Alcatraz&#8221; competition.<br />
 
+
 ## Highlights
 
 Theo has helped a number of artists and designers with their web sites helping including <a href="http://lynnhershman.com/" target="_blank" title="http://lynnhershman.com">Lynn Hirshman Leeson</a> and Professor <a href="http://lessig.org/" target="_blank" title="Lessig.org">Lawrence Lessig</a> with their web sites. Theo is a collector of <a href="http://artofthenet.com/" target="_blank">web sites that are works of art.</a> He firmly believes that the great art of the future will be the art of the Internet and would be pleased to hear from artists, curators and galleries with similar intentions.
