@@ -12,6 +12,7 @@
 ## Chrome allow-file-access-from-files
 
 --allow-file-access-from-files
+
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --allow-file-access-from-files
 
 ## URLs
