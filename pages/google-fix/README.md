@@ -10,6 +10,8 @@ backup number (415) 644-8890‬
 yes
 
 ID5-6448000030841.
+
+
 ## Codes
 
 Dial
@@ -34,6 +36,16 @@ Text
 `latest Win10
 	* OS and apps all on auto-update
 * Samsung Chromebook with Google Hangouts, Google Messages
+
+
+## 2022-01-10
+
+Many - but not all - incoming calls receive this message "Cannot complete your call"
+
+https://support.google.com/fi#topic=9808723
+
+ID 3-774500032286
+
 
 ## 2021-04-02
 
