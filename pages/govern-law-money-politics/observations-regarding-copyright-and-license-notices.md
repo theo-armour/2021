@@ -1,10 +1,12 @@
 # Observations Regarding Copyright and License Notices
 
+https://www.toptenreviews.com/when-is-dvd-ripping-illegal
+
+
 
 2014-04-26 ~ Theo Armour
 
-I remember reading somewhere the most lawyers in the San Francisco Bay area are involved with intellectual property (IP) issues.
-With multi-billion dollar acquisitions just to obtain a suite of patents and multi-billion dollar IP law suites, you can see why.
+I remember reading somewhere the most lawyers in the San Francisco Bay area are involved with intellectual property (IP) issues. With multi-billion dollar acquisitions just to obtain a suite of patents and multi-billion dollar IP law suites, you can see why.
 
 Given the gravity of IP, it is interesting to see the smallness of the efforts of programmers to protect their own work.
 

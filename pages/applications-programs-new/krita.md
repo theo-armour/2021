@@ -13,14 +13,20 @@
 * 2 will set the zoom so that the document fits fully into the canvas area.
 * 3 will set the zoom so that the document width fits fully into the canvas area.
 
+## Paint
+
+* Extensive set of brushes
+* Nice right click menu
+
 ## Vector
 
 * Must create vector layer
 * Vector line, fill and color in Tool Options docker
-* No pretty brushes
+* No pretty VECTOR brushes
 * G5
 
 ## Krita ~ https://krita.org/en
+
 * App in beta, W10, iOS, linux
 * looks nice
 

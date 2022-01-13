@@ -3,6 +3,21 @@
 
 ## Apps
 
+
+## https://github.com/rough-stuff/rough
+
+
+## Nomad Sculpt ~ https://nomadsculpt.com/
+* 100K installs ~ 1.7K stars
+* Sculpting and painting ~ amazing
+
+## Patterns / Dither
+
+* https://doodad.dev/
+
+Mrdoob.com
+
+
 ### https://www.pixijs.com/
 
 ### https://doodad.dev/

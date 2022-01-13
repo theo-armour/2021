@@ -83,19 +83,6 @@ Style: stack ~ best ~ flatten & stencil: round dots to surface ~
 
 Crazy
 
-## https://github.com/rough-stuff/rough
-
-
-## Nomad Sculpt ~ https://nomadsculpt.com/
-* 100K installs ~ 1.7K stars
-* Sculpting and painting ~ amazing
-
-## Patterns / Dither
-
-* https://doodad.dev/
-
-Mrdoob.com
-
 ***
 
 More ~ vector but more diagram oriented
@@ -184,6 +171,8 @@ More ~ vector but more diagram oriented
 
 * Download only
 * Could use https://offidocs.com but looks like no touch or pen support
+
+
 
 ## Krita ~ https://krita.org/en ~ see krita.md
 
