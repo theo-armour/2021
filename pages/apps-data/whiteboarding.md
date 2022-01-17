@@ -40,7 +40,10 @@ _A few of the sites listed in the portal pages_
 	* $$$
 
 ## canva ~ https://www.canva.com/
-* website design program
+* website design program free/$$$
+* DTP app
+* Quite popular, online & download
+* Not open source
 
 ### JamBoard ~ Google ~ https://jamboard.google.com
 * export as PDF or JPG

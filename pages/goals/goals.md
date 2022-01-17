@@ -318,6 +318,10 @@ More lists to parse
 
 ## Links of interest
 
+Scott H Young
+
+* https://www.scotthyoung.com/blog/2022/01/11/the-science-of-achievement-7-research-backed-tips-to-set-better-goals/
+
 Maslow's Hierarchy of needs
 
 * https://lifehacker.com/focus-your-ambitions-with-the-lifehacker-hierarchy-of-g-5912971
@@ -326,6 +330,7 @@ Maslow's Hierarchy of needs
 * https://en.wikipedia.org/wiki/Metamotivation
 * https://en.wikipedia.org/wiki/Manfred_Max-Neef's_Fundamental_human_needs
 * Yikes: http://www.scientologycourses.org/courses-view/tone-scale/step/the-hubbard-chart-of-human-evaluation.html
+
 
 ## Journal
 
