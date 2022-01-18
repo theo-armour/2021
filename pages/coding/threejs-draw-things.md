@@ -822,6 +822,9 @@ function getSprite() {
 
 see jaanga.github.io/cookbook-threejs/examples/animation/camera-actions-select
 
+* https://github.com/mrdoob/three.js/blob/master/examples/webgl_materials_cubemap_dynamic.html
+
+
 	function drawNicePath() {
 
 		var segments = 30;
