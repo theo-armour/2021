@@ -3,7 +3,7 @@
 
 https://voice.google.com
 
-backup number (415) 644-8890‬
+backup number (415) 644-8890
 
 ## [8-0957000031103] Your Google Fi Support Inquiry
 
