@@ -6,7 +6,7 @@
 
 And
 
-* Would it be fun to do the save with vices - or to follow Aristotle and describe spectrums
+* Would it be fun to do the same with vices - or to follow Aristotle and describe spectrums
 
 ## Virtues Links
 
