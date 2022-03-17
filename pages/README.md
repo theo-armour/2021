@@ -2,6 +2,16 @@
 
 ## [Pages Read Me](https://theo-armour.github.io/2021/#pages/README.md)
 
+My new favorite quote
+
+https://www.nytimes.com/2022/03/15/world/europe/ukraine-mykolaiv-russia-war.html
+
+“Good morning. We’re from Ukraine.”
+
+So begins the typical morning video message from Vitaliy Kim, the regional governor. MYKOLAIV, Ukraine
+
+“My strategy is to be much more joyous than is appropriate for this kind of situation,” he said. “This doesn’t mean that I don’t understand how serious things are.”
+
 ## Concept
 
 *   Bits & bobs
