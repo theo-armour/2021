@@ -1,6 +1,12 @@
 # Chromebook
 
 
+## tips
+
+### Files app
+
+* spacebar to preview, again to return
+
 ## Links
 
 Chromebook keyboard shortcuts
@@ -71,9 +77,9 @@ This command only works if Developer Mode is enabled.
 ### Start
 
 
-$ shell
-$ sudo enter-chroot startxfce4
-$ sudo startunity <<
+	$ shell
+	$ sudo enter-chroot startxfce4
+	$ sudo startunity
 
 ### Switch Between Environments
 
