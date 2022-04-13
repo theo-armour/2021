@@ -23,3 +23,7 @@
 * https://github.com/showdownjs/showdown
 	* A bidirectional Markdown to HTML to Markdown converter written in Javascript
 
+
+## VS Code
+
+* https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo
