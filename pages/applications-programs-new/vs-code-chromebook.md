@@ -1,4 +1,6 @@
-# VS Code
+# VS Code Chromebook
+
+tags: #vscode #chromebook
 
 ## Chromebook
 
