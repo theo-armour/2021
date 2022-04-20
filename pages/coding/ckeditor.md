@@ -64,11 +64,11 @@ About
 * TextTransformation
 * Wordcount
 
+
+
 ### Builder selections Markdown
 
 * AutoFormat ~ D
-* AutoSave ~ Add
-* AutoSave
 * BlockQuote ~ Add
 * Bold ~ D
 * CKFinder ~ remove
@@ -78,23 +78,38 @@ About
 * Heading ~ D
 * Horizontal line ~ Add
 * HTML comment ~ Add
-* Imager ~ remove
-* Indent ~ remove
+* Image... ~ remove
+* Indent ~ remove?
 * Italic ~ D
-* Link ~ remmove
+* Link ~ ?
 * List ~ D
 * Markdown ~ Add
+* MathTupe ~ =
 * MediaEmbed ~ remove
+* Media embed toolbar ~ =
+* Mention ~ = ??
+* Page break ~ =
+* Pagination ~ =
 * PastFromOffice ~ remove
+* Presence list ~
+* Real-time... ~ =
 * Remove format ~ Add
+* Restricted editing mode ~ =
+* Revision History ~ =
 * Source Editing ~ Add
-* Special characters ~ remove
+* Special characters... ~ remove
 * Special characters essentials ~ remove
 * Strikethrough ~ Add
-* Table ~ remove
+* Table... ~ remove
 * TextTransformation ~ remove
 * Wordcount ~ add
 
+
+### Picked markdown
+
+* Autoformat
+* Bold
+* Heading
 
 ### Avoid
 
