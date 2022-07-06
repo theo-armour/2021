@@ -78,7 +78,7 @@ Chantale Routhier Bordonaro
 
 Los Angeles, Manhattan Beach
 
-## Caring Transitiona
+## Caring Transitions
 
 http://www.caringtransitionssv.com/
 
