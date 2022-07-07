@@ -88,7 +88,7 @@ fun look at issues
 * https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+
 
 
-# URL shortener github pages etc
+## URL shortener github pages etc
 
 http://git.io provides a URL shortener for your GitHub repos.
 
@@ -110,15 +110,11 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
 https://www.maxcdn.com/
 https://rawgit.com/
 
-
 https://cdn.rawgit.com/showdownjs/showdown/master/dist/showdown.min.js
-
 
 <script src=http://cdnjs.cloudflare.com/ajax/libs/three.js/r66/three.min.js ></script>
 
 <script src="https://raw.github.com/mrdoob/three.js/r59/build/three.min.js"></script>
-
-
 
 
 ## CURL
@@ -137,7 +133,6 @@ curl -i -H 'Authorization: token xxxxxx' https://api.github.com/user
 curl -i -H 'Authorization: token xxxxxx' https://api.github.com/user/repos
 
 
-
 ## [GitHub] Desktop
 
 https://help.github.com/desktop/
@@ -146,7 +141,6 @@ https://help.github.com/desktop/
 ## Emoji in Labels
 
 For GitHub Pages sites built on GitHub.com, emoji images are served from the GitHub.com CDN, with a base URL of https://assets-cdn.github.com, which results in emoji image URLs like https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png.
-
 
 
 Complete list of github markdown emoji markup
@@ -162,7 +156,6 @@ See html-css.md for lists of emoji
 ### Emoji in labels
 
 * https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb
-
 
 
 ## Source Code

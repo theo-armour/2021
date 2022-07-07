@@ -13,7 +13,6 @@ http://www.html5rocks.com/en/tutorials/webcomponents/imports/
 http://www.w3schools.com/howto/howto_js_animate.asp
 
 
-
 ## HTML
 
 *  https://www.w3schools.com/tags/default.asp
@@ -48,8 +47,6 @@ http://www.w3schools.com/howto/howto_js_animate.asp
 * https://www.w3schools.com/graphics/canvas_reference.asp
 * https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas
-
-
 
 
 ### Cite

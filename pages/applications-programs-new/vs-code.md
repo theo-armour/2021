@@ -29,9 +29,9 @@ Redefine Alt Home and Alt End to go home and end
 
 * stylelint looks interesting
 * Try prettier
-	* Works on css, js
-	* Reset settings.json
-	* Get rid of all typescript
+  * Works on css, js
+  * Reset settings.json
+  * Get rid of all typescript
 
 * Good workflow on Chromebook * 2019-04-29: Looking good
 * https://github.com/shanalikhan/code-settings-sync
@@ -48,6 +48,17 @@ Redefine Alt Home and Alt End to go home and end
 * <https://twitter.com/hashtag/vscode?lang=en>
 * <https://code.visualstudio.com/docs>
 * <https://stackoverflow.com/questions/tagged/visual-studio-code>
+
+
+## Plugins
+
+more
+
+* https://marketplace.visualstudio.com/items?itemName=assisrMatheus.sidebar-markdown-notes
+* https://marketplace.visualstudio.com/items?itemName=znck.grammarly
+* https://marketplace.visualstudio.com/items?itemName=csholmq.excel-to-markdown-table
+* https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+* https://marketplace.visualstudio.com/items?itemName=dendron.dendron*\
 
 ## Included but not 'supported'
 
@@ -140,10 +151,10 @@ Cmd+Option+1 (Mac)
 ## Extensions
 
 * https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap
- * Wraps your selection in HTML tags. Can wrap inline selections and selections that span multiple lines (works with both single selections and multiple selections at once).
- * To use, select one or many chunks of code and press "Alt + W" ("Option + W" for Mac).
+* Wraps your selection in HTML tags. Can wrap inline selections and selections that span multiple lines (works with both single selections and multiple selections at once).
+* To use, select one or many chunks of code and press "Alt + W" ("Option + W" for Mac).
 * https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-hacker-typer
- * replay macros at typing speed
+* replay macros at typing speed
 * <https://github.com/viatsko/awesome-vscode?>
 * https://marketplace.visualstudio.com/items?itemName=nicoespeon.slides
 
@@ -240,9 +251,9 @@ Preview mode is indicated by italics in the Tab heading
 <https://code.visualstudio.com/docs/editor/codebasics#_advanced-search-options>
 
 * to match one or more characters in a path segment
-- ? to match on one character in a path segment
-- ** to match any number of path segments, including none
-- {} to group conditions (for example {**/*.html,**/*.txt} matches all HTML and text files)
+* ? to match on one character in a path segment
+* ** to match any number of path segments, including none
+* {} to group conditions (for example {**/*.html,**/*.txt} matches all HTML and text files)
 * [] to declare a range of characters to match (example.[0-9] to match on example.0, example.1, ...)
 
 From the Explorer, you can right-click on a folder and select Find in Folder to search inside a folder only.

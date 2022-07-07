@@ -22,8 +22,6 @@
 * Service workers - https://developers.google.com/web/fundamentals/primers/service-workers/
 
 
-
-
 ## Peeps
 
 * https://github.com/jwagner/simplex-noise.js ~ https://29a.ch/
