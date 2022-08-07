@@ -1,6 +1,6 @@
 [You are now in a GitHub source code view - click this link to view Read Me file as a web page](https://theo-armour.github.io/2021/#pages/README.md "View file as a web page.")
 
-## [Pages Read Me](https://theo-armour.github.io/2021/#pages/README.md)
+## [Pages Read Me](https://theo-armour.github.io/2022/#pages/README.md)
 
 My new favorite quote
 
@@ -14,8 +14,8 @@ So begins the typical morning video message from Vitaliy Kim, the regional gover
 
 ## Concept
 
-*   Bits & bobs
-*   123 456 789
+* Bits & bobs
+* 123 456 789
 
 ## To Do / Wish List
 
@@ -27,12 +27,12 @@ So begins the typical morning video message from Vitaliy Kim, the regional gover
 
 ### 2021-01-03
 
-*   Add links
+* Add links
 
 ### 2021-12-31
 
-*   First commit
+* First commit
 
----
+***
 
 [❦](javascript:window.scrollTo(0,0);)
